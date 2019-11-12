@@ -66,6 +66,7 @@ azwikibooks,az.wikibooks.org,wikibooks,az,Azerbaijani,open,public
 azwikiquote,az.wikiquote.org,wikiquote,az,Azerbaijani,open,public
 azwikisource,az.wikisource.org,wikisource,az,Azerbaijani,open,public
 azwiktionary,az.wiktionary.org,wiktionary,az,Azerbaijani,open,public
+banwiki,ban.wikipedia.org,wikipedia,ban,Balinese,open,public
 barwiki,bar.wikipedia.org,wikipedia,bar,Bavarian,open,public
 bat_smgwiki,bat-smg.wikipedia.org,wikipedia,bat-smg,Samogitian,open,public
 bawiki,ba.wikipedia.org,wikipedia,ba,Bashkir,open,public
@@ -82,7 +83,7 @@ bewikisource,be.wikisource.org,wikisource,be,Belarusian,open,public
 bewiktionary,be.wiktionary.org,wiktionary,be,Belarusian,open,public
 bgwiki,bg.wikipedia.org,wikipedia,bg,Bulgarian,open,public
 bgwikibooks,bg.wikibooks.org,wikibooks,bg,Bulgarian,open,public
-bgwikinews,bg.wikinews.org,wikinews,bg,Bulgarian,open,public
+bgwikinews,bg.wikinews.org,wikinews,bg,Bulgarian,closed,public
 bgwikiquote,bg.wikiquote.org,wikiquote,bg,Bulgarian,open,public
 bgwikisource,bg.wikisource.org,wikisource,bg,Bulgarian,open,public
 bgwiktionary,bg.wiktionary.org,wiktionary,bg,Bulgarian,open,public
@@ -327,6 +328,7 @@ hiwiki,hi.wikipedia.org,wikipedia,hi,Hindi,open,public
 hiwikibooks,hi.wikibooks.org,wikibooks,hi,Hindi,open,public
 hiwikimedia,hi.wikimedia.org,hiwikimedia,en,English,open,public
 hiwikiquote,hi.wikiquote.org,wikiquote,hi,Hindi,open,public
+hiwikisource,hi.wikisource.org,wikisource,hi,Hindi,open,public
 hiwikiversity,hi.wikiversity.org,wikiversity,hi,Hindi,open,public
 hiwikivoyage,hi.wikivoyage.org,wikivoyage,hi,Hindi,open,public
 hiwiktionary,hi.wiktionary.org,wiktionary,hi,Hindi,open,public
@@ -351,6 +353,7 @@ hywikibooks,hy.wikibooks.org,wikibooks,hy,Armenian,open,public
 hywikiquote,hy.wikiquote.org,wikiquote,hy,Armenian,open,public
 hywikisource,hy.wikisource.org,wikisource,hy,Armenian,open,public
 hywiktionary,hy.wiktionary.org,wiktionary,hy,Armenian,open,public
+hywwiki,hyw.wikipedia.org,wikipedia,hyw,Western Armenian,open,public
 hzwiki,hz.wikipedia.org,wikipedia,hz,Herero,closed,public
 iawiki,ia.wikipedia.org,wikipedia,ia,Interlingua,open,public
 iawikibooks,ia.wikibooks.org,wikibooks,ia,Interlingua,open,public
@@ -553,6 +556,7 @@ nahwiki,nah.wikipedia.org,wikipedia,nah,Nahuatl,open,public
 nahwikibooks,nah.wikibooks.org,wikibooks,nah,Nahuatl,closed,public
 nahwiktionary,nah.wiktionary.org,wiktionary,nah,Nahuatl,open,public
 napwiki,nap.wikipedia.org,wikipedia,nap,Neapolitan,open,public
+napwikisource,nap.wikisource.org,wikisource,nap,Neapolitan,open,public
 nawiki,na.wikipedia.org,wikipedia,na,Nauru,open,public
 nawikibooks,na.wikibooks.org,wikibooks,na,Nauru,closed,public
 nawikiquote,na.wikiquote.org,wikiquote,na,Nauru,closed,public
@@ -588,6 +592,7 @@ nowikinews,no.wikinews.org,wikinews,no,Norwegian,open,public
 nowikiquote,no.wikiquote.org,wikiquote,no,Norwegian,open,public
 nowikisource,no.wikisource.org,wikisource,no,Norwegian,open,public
 nowiktionary,no.wiktionary.org,wiktionary,no,Norwegian,open,public
+nqowiki,nqo.wikipedia.org,wikipedia,nqo,N’Ko,open,public
 nrmwiki,nrm.wikipedia.org,wikipedia,nrm,Norman,open,public
 nsowiki,nso.wikipedia.org,wikipedia,nso,Northern Sotho,open,public
 nvwiki,nv.wikipedia.org,wikipedia,nv,Navajo,open,public
@@ -896,7 +901,7 @@ wikimania2014wiki,wikimania2014.wikimedia.org,wikimania2014,en,English,closed,pu
 wikimania2015wiki,wikimania2015.wikimedia.org,wikimania2015,en,English,closed,public
 wikimania2016wiki,wikimania2016.wikimedia.org,wikimania2016,en,English,closed,public
 wikimania2017wiki,wikimania2017.wikimedia.org,wikimania2017,en,English,closed,public
-wikimania2018wiki,wikimania2018.wikimedia.org,wikimania2018,en,English,open,public
+wikimania2018wiki,wikimania2018.wikimedia.org,wikimania2018,en,English,closed,public
 wikimaniateamwiki,wikimaniateam.wikimedia.org,wikimaniateam,en,English,open,private
 wikimaniawiki,wikimania.wikimedia.org,wikimania,en,English,open,public
 wowiki,wo.wikipedia.org,wikipedia,wo,Wolof,open,public
@@ -920,7 +925,7 @@ zawikibooks,za.wikibooks.org,wikibooks,za,Zhuang,closed,public
 zawikiquote,za.wikiquote.org,wikiquote,za,Zhuang,closed,public
 zawiktionary,za.wiktionary.org,wiktionary,za,Zhuang,closed,public
 zeawiki,zea.wikipedia.org,wikipedia,zea,Zeelandic,open,public
-zerowiki,zero.wikimedia.org,zero,en,English,open,private
+zerowiki,zero.wikimedia.org,zero,en,English,open,public
 zh_classicalwiki,zh-classical.wikipedia.org,wikipedia,zh-classical,Classical Chinese,open,public
 zh_min_nanwiki,zh-min-nan.wikipedia.org,wikipedia,zh-min-nan,Chinese (Min Nan),open,public
 zh_min_nanwikibooks,zh-min-nan.wikibooks.org,wikibooks,zh-min-nan,Chinese (Min Nan),closed,public
