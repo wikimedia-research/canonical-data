@@ -1,946 +1,931 @@
-database_code,domain_name,database_group,language_code,language_name,status,visbility
-aawiki,aa.wikipedia.org,wikipedia,aa,Afar,closed,public
-aawikibooks,aa.wikibooks.org,wikibooks,aa,Afar,closed,public
-aawiktionary,aa.wiktionary.org,wiktionary,aa,Afar,closed,public
-abwiki,ab.wikipedia.org,wikipedia,ab,Abkhazian,open,public
-abwiktionary,ab.wiktionary.org,wiktionary,ab,Abkhazian,closed,public
-acewiki,ace.wikipedia.org,wikipedia,ace,Achinese,open,public
-advisorswiki,advisors.wikimedia.org,advisors,en,English,open,private
-advisorywiki,advisory.wikimedia.org,advisory,en,English,closed,public
-adywiki,ady.wikipedia.org,wikipedia,ady,Adyghe,open,public
-afwiki,af.wikipedia.org,wikipedia,af,Afrikaans,open,public
-afwikibooks,af.wikibooks.org,wikibooks,af,Afrikaans,open,public
-afwikiquote,af.wikiquote.org,wikiquote,af,Afrikaans,open,public
-afwiktionary,af.wiktionary.org,wiktionary,af,Afrikaans,open,public
-akwiki,ak.wikipedia.org,wikipedia,ak,Akan,open,public
-akwikibooks,ak.wikibooks.org,wikibooks,ak,Akan,closed,public
-akwiktionary,ak.wiktionary.org,wiktionary,ak,Akan,closed,public
-alswiki,als.wikipedia.org,wikipedia,als,Alsatian,open,public
-alswikibooks,als.wikibooks.org,wikibooks,als,Alsatian,open,public
-alswikiquote,als.wikiquote.org,wikiquote,als,Alsatian,open,public
-alswiktionary,als.wiktionary.org,wiktionary,als,Alsatian,open,public
-amwiki,am.wikipedia.org,wikipedia,am,Amharic,open,public
-amwikimedia,am.wikimedia.org,amwikimedia,en,English,open,public
-amwikiquote,am.wikiquote.org,wikiquote,am,Amharic,closed,public
-amwiktionary,am.wiktionary.org,wiktionary,am,Amharic,open,public
-angwiki,ang.wikipedia.org,wikipedia,ang,Old English,open,public
-angwikibooks,ang.wikibooks.org,wikibooks,ang,Old English,closed,public
-angwikiquote,ang.wikiquote.org,wikiquote,ang,Old English,closed,public
-angwikisource,ang.wikisource.org,wikisource,ang,Old English,closed,public
-angwiktionary,ang.wiktionary.org,wiktionary,ang,Old English,open,public
-anwiki,an.wikipedia.org,wikipedia,an,Aragonese,open,public
-anwiktionary,an.wiktionary.org,wiktionary,an,Aragonese,open,public
-arbcom_cswiki,arbcom-cs.wikipedia.org,arbcom-cs,en,English,open,private
-arbcom_dewiki,arbcom-de.wikipedia.org,arbcom-de,en,English,open,private
-arbcom_enwiki,arbcom-en.wikipedia.org,arbcom-en,en,English,open,private
-arbcom_fiwiki,arbcom-fi.wikipedia.org,arbcom-fi,en,English,open,private
-arbcom_nlwiki,arbcom-nl.wikipedia.org,arbcom-nl,en,English,open,private
-arcwiki,arc.wikipedia.org,wikipedia,arc,Aramaic,open,public
-arwiki,ar.wikipedia.org,wikipedia,ar,Arabic,open,public
-arwikibooks,ar.wikibooks.org,wikibooks,ar,Arabic,open,public
-arwikimedia,ar.wikimedia.org,arwikimedia,en,English,open,public
-arwikinews,ar.wikinews.org,wikinews,ar,Arabic,open,public
-arwikiquote,ar.wikiquote.org,wikiquote,ar,Arabic,open,public
-arwikisource,ar.wikisource.org,wikisource,ar,Arabic,open,public
-arwikiversity,ar.wikiversity.org,wikiversity,ar,Arabic,open,public
-arwiktionary,ar.wiktionary.org,wiktionary,ar,Arabic,open,public
-arzwiki,arz.wikipedia.org,wikipedia,arz,Egyptian Arabic,open,public
-astwiki,ast.wikipedia.org,wikipedia,ast,Asturian,open,public
-astwikibooks,ast.wikibooks.org,wikibooks,ast,Asturian,closed,public
-astwikiquote,ast.wikiquote.org,wikiquote,ast,Asturian,closed,public
-astwiktionary,ast.wiktionary.org,wiktionary,ast,Asturian,open,public
-aswiki,as.wikipedia.org,wikipedia,as,Assamese,open,public
-aswikibooks,as.wikibooks.org,wikibooks,as,Assamese,closed,public
-aswikisource,as.wikisource.org,wikisource,as,Assamese,open,public
-aswiktionary,as.wiktionary.org,wiktionary,as,Assamese,closed,public
-atjwiki,atj.wikipedia.org,wikipedia,atj,Atikamekw,open,public
-auditcomwiki,auditcom.wikimedia.org,auditcom,en,English,open,private
-avwiki,av.wikipedia.org,wikipedia,av,Avaric,open,public
-avwiktionary,av.wiktionary.org,wiktionary,av,Avaric,closed,public
-aywiki,ay.wikipedia.org,wikipedia,ay,Aymara,open,public
-aywikibooks,ay.wikibooks.org,wikibooks,ay,Aymara,closed,public
-aywiktionary,ay.wiktionary.org,wiktionary,ay,Aymara,open,public
-azbwiki,azb.wikipedia.org,wikipedia,azb,South Azerbaijani,open,public
-azwiki,az.wikipedia.org,wikipedia,az,Azerbaijani,open,public
-azwikibooks,az.wikibooks.org,wikibooks,az,Azerbaijani,open,public
-azwikiquote,az.wikiquote.org,wikiquote,az,Azerbaijani,open,public
-azwikisource,az.wikisource.org,wikisource,az,Azerbaijani,open,public
-azwiktionary,az.wiktionary.org,wiktionary,az,Azerbaijani,open,public
-banwiki,ban.wikipedia.org,wikipedia,ban,Balinese,open,public
-barwiki,bar.wikipedia.org,wikipedia,bar,Bavarian,open,public
-bat_smgwiki,bat-smg.wikipedia.org,wikipedia,bat-smg,Samogitian,open,public
-bawiki,ba.wikipedia.org,wikipedia,ba,Bashkir,open,public
-bawikibooks,ba.wikibooks.org,wikibooks,ba,Bashkir,open,public
-bclwiki,bcl.wikipedia.org,wikipedia,bcl,Central Bikol,open,public
-bdwikimedia,bd.wikimedia.org,bdwikimedia,en,English,open,public
-be_x_oldwiki,be-tarask.wikipedia.org,wikipedia,be-x-old,Belarusian (Taraškievica orthography),open,public
-betawikiversity,beta.wikiversity.org,betawikiversity,en,English,open,public
-bewiki,be.wikipedia.org,wikipedia,be,Belarusian,open,public
-bewikibooks,be.wikibooks.org,wikibooks,be,Belarusian,open,public
-bewikimedia,be.wikimedia.org,bewikimedia,en,English,open,public
-bewikiquote,be.wikiquote.org,wikiquote,be,Belarusian,open,public
-bewikisource,be.wikisource.org,wikisource,be,Belarusian,open,public
-bewiktionary,be.wiktionary.org,wiktionary,be,Belarusian,open,public
-bgwiki,bg.wikipedia.org,wikipedia,bg,Bulgarian,open,public
-bgwikibooks,bg.wikibooks.org,wikibooks,bg,Bulgarian,open,public
-bgwikinews,bg.wikinews.org,wikinews,bg,Bulgarian,closed,public
-bgwikiquote,bg.wikiquote.org,wikiquote,bg,Bulgarian,open,public
-bgwikisource,bg.wikisource.org,wikisource,bg,Bulgarian,open,public
-bgwiktionary,bg.wiktionary.org,wiktionary,bg,Bulgarian,open,public
-bhwiki,bh.wikipedia.org,wikipedia,bh,Bhojpuri,open,public
-bhwiktionary,bh.wiktionary.org,wiktionary,bh,Bhojpuri,closed,public
-biwiki,bi.wikipedia.org,wikipedia,bi,Bislama,open,public
-biwikibooks,bi.wikibooks.org,wikibooks,bi,Bislama,closed,public
-biwiktionary,bi.wiktionary.org,wiktionary,bi,Bislama,closed,public
-bjnwiki,bjn.wikipedia.org,wikipedia,bjn,Banjar,open,public
-bmwiki,bm.wikipedia.org,wikipedia,bm,Bambara,open,public
-bmwikibooks,bm.wikibooks.org,wikibooks,bm,Bambara,closed,public
-bmwikiquote,bm.wikiquote.org,wikiquote,bm,Bambara,closed,public
-bmwiktionary,bm.wiktionary.org,wiktionary,bm,Bambara,closed,public
-bnwiki,bn.wikipedia.org,wikipedia,bn,Bangla,open,public
-bnwikibooks,bn.wikibooks.org,wikibooks,bn,Bangla,open,public
-bnwikisource,bn.wikisource.org,wikisource,bn,Bangla,open,public
-bnwikivoyage,bn.wikivoyage.org,wikivoyage,bn,Bangla,open,public
-bnwiktionary,bn.wiktionary.org,wiktionary,bn,Bangla,open,public
-boardgovcomwiki,boardgovcom.wikimedia.org,boardgovcom,en,English,open,private
-boardwiki,board.wikimedia.org,board,en,English,open,private
-bowiki,bo.wikipedia.org,wikipedia,bo,Tibetan,open,public
-bowikibooks,bo.wikibooks.org,wikibooks,bo,Tibetan,closed,public
-bowiktionary,bo.wiktionary.org,wiktionary,bo,Tibetan,closed,public
-bpywiki,bpy.wikipedia.org,wikipedia,bpy,Bishnupriya,open,public
-brwiki,br.wikipedia.org,wikipedia,br,Breton,open,public
-brwikimedia,br.wikimedia.org,brwikimedia,en,English,open,public
-brwikiquote,br.wikiquote.org,wikiquote,br,Breton,open,public
-brwikisource,br.wikisource.org,wikisource,br,Breton,open,public
-brwiktionary,br.wiktionary.org,wiktionary,br,Breton,open,public
-bswiki,bs.wikipedia.org,wikipedia,bs,Bosnian,open,public
-bswikibooks,bs.wikibooks.org,wikibooks,bs,Bosnian,open,public
-bswikinews,bs.wikinews.org,wikinews,bs,Bosnian,open,public
-bswikiquote,bs.wikiquote.org,wikiquote,bs,Bosnian,open,public
-bswikisource,bs.wikisource.org,wikisource,bs,Bosnian,open,public
-bswiktionary,bs.wiktionary.org,wiktionary,bs,Bosnian,open,public
-bugwiki,bug.wikipedia.org,wikipedia,bug,Buginese,open,public
-bxrwiki,bxr.wikipedia.org,wikipedia,bxr,Russia Buriat,open,public
-cawiki,ca.wikipedia.org,wikipedia,ca,Catalan,open,public
-cawikibooks,ca.wikibooks.org,wikibooks,ca,Catalan,open,public
-cawikimedia,ca.wikimedia.org,cawikimedia,en,English,open,public
-cawikinews,ca.wikinews.org,wikinews,ca,Catalan,open,public
-cawikiquote,ca.wikiquote.org,wikiquote,ca,Catalan,open,public
-cawikisource,ca.wikisource.org,wikisource,ca,Catalan,open,public
-cawiktionary,ca.wiktionary.org,wiktionary,ca,Catalan,open,public
-cbk_zamwiki,cbk-zam.wikipedia.org,wikipedia,cbk-zam,Chavacano,open,public
-cdowiki,cdo.wikipedia.org,wikipedia,cdo,Min Dong Chinese,open,public
-cebwiki,ceb.wikipedia.org,wikipedia,ceb,Cebuano,open,public
-cewiki,ce.wikipedia.org,wikipedia,ce,Chechen,open,public
-chairwiki,chair.wikimedia.org,chair,en,English,open,private
-chapcomwiki,affcom.wikimedia.org,chapcom,en,English,open,private
-checkuserwiki,checkuser.wikimedia.org,checkuser,en,English,open,private
-chowiki,cho.wikipedia.org,wikipedia,cho,Choctaw,closed,public
-chrwiki,chr.wikipedia.org,wikipedia,chr,Cherokee,open,public
-chrwiktionary,chr.wiktionary.org,wiktionary,chr,Cherokee,open,public
-chwiki,ch.wikipedia.org,wikipedia,ch,Chamorro,open,public
-chwikibooks,ch.wikibooks.org,wikibooks,ch,Chamorro,closed,public
-chwiktionary,ch.wiktionary.org,wiktionary,ch,Chamorro,closed,public
-chywiki,chy.wikipedia.org,wikipedia,chy,Cheyenne,open,public
-ckbwiki,ckb.wikipedia.org,wikipedia,ckb,Central Kurdish,open,public
-cnwikimedia,cn.wikimedia.org,cnwikimedia,en,English,open,public
-collabwiki,collab.wikimedia.org,collab,en,English,open,private
-commonswiki,commons.wikimedia.org,commons,en,English,open,public
-cowiki,co.wikipedia.org,wikipedia,co,Corsican,open,public
-cowikibooks,co.wikibooks.org,wikibooks,co,Corsican,closed,public
-cowikimedia,co.wikimedia.org,cowikimedia,en,English,open,public
-cowikiquote,co.wikiquote.org,wikiquote,co,Corsican,closed,public
-cowiktionary,co.wiktionary.org,wiktionary,co,Corsican,open,public
-crhwiki,crh.wikipedia.org,wikipedia,crh,Crimean Turkish,open,public
-crwiki,cr.wikipedia.org,wikipedia,cr,Cree,open,public
-crwikiquote,cr.wikiquote.org,wikiquote,cr,Cree,closed,public
-crwiktionary,cr.wiktionary.org,wiktionary,cr,Cree,closed,public
-csbwiki,csb.wikipedia.org,wikipedia,csb,Kashubian,open,public
-csbwiktionary,csb.wiktionary.org,wiktionary,csb,Kashubian,open,public
-cswiki,cs.wikipedia.org,wikipedia,cs,Czech,open,public
-cswikibooks,cs.wikibooks.org,wikibooks,cs,Czech,open,public
-cswikinews,cs.wikinews.org,wikinews,cs,Czech,open,public
-cswikiquote,cs.wikiquote.org,wikiquote,cs,Czech,open,public
-cswikisource,cs.wikisource.org,wikisource,cs,Czech,open,public
-cswikiversity,cs.wikiversity.org,wikiversity,cs,Czech,open,public
-cswiktionary,cs.wiktionary.org,wiktionary,cs,Czech,open,public
-cuwiki,cu.wikipedia.org,wikipedia,cu,Church Slavic,open,public
-cvwiki,cv.wikipedia.org,wikipedia,cv,Chuvash,open,public
-cvwikibooks,cv.wikibooks.org,wikibooks,cv,Chuvash,open,public
-cywiki,cy.wikipedia.org,wikipedia,cy,Welsh,open,public
-cywikibooks,cy.wikibooks.org,wikibooks,cy,Welsh,open,public
-cywikiquote,cy.wikiquote.org,wikiquote,cy,Welsh,open,public
-cywikisource,cy.wikisource.org,wikisource,cy,Welsh,open,public
-cywiktionary,cy.wiktionary.org,wiktionary,cy,Welsh,open,public
-dawiki,da.wikipedia.org,wikipedia,da,Danish,open,public
-dawikibooks,da.wikibooks.org,wikibooks,da,Danish,open,public
-dawikiquote,da.wikiquote.org,wikiquote,da,Danish,open,public
-dawikisource,da.wikisource.org,wikisource,da,Danish,open,public
-dawiktionary,da.wiktionary.org,wiktionary,da,Danish,open,public
-dewiki,de.wikipedia.org,wikipedia,de,German,open,public
-dewikibooks,de.wikibooks.org,wikibooks,de,German,open,public
-dewikinews,de.wikinews.org,wikinews,de,German,open,public
-dewikiquote,de.wikiquote.org,wikiquote,de,German,open,public
-dewikisource,de.wikisource.org,wikisource,de,German,open,public
-dewikiversity,de.wikiversity.org,wikiversity,de,German,open,public
-dewikivoyage,de.wikivoyage.org,wikivoyage,de,German,open,public
-dewiktionary,de.wiktionary.org,wiktionary,de,German,open,public
-dinwiki,din.wikipedia.org,wikipedia,din,Dinka,open,public
-diqwiki,diq.wikipedia.org,wikipedia,diq,Zazaki,open,public
-dkwikimedia,dk.wikimedia.org,dkwikimedia,en,English,open,public
-donatewiki,donate.wikimedia.org,donate,en,English,open,public
-dsbwiki,dsb.wikipedia.org,wikipedia,dsb,Lower Sorbian,open,public
-dtywiki,dty.wikipedia.org,wikipedia,dty,Doteli,open,public
-dvwiki,dv.wikipedia.org,wikipedia,dv,Divehi,open,public
-dvwiktionary,dv.wiktionary.org,wiktionary,dv,Divehi,open,public
-dzwiki,dz.wikipedia.org,wikipedia,dz,Dzongkha,open,public
-dzwiktionary,dz.wiktionary.org,wiktionary,dz,Dzongkha,closed,public
-ecwikimedia,ec.wikimedia.org,ecwikimedia,en,English,open,private
-eewiki,ee.wikipedia.org,wikipedia,ee,Ewe,open,public
-electcomwiki,electcom.wikimedia.org,electcom,en,English,open,private
-elwiki,el.wikipedia.org,wikipedia,el,Greek,open,public
-elwikibooks,el.wikibooks.org,wikibooks,el,Greek,open,public
-elwikinews,el.wikinews.org,wikinews,el,Greek,open,public
-elwikiquote,el.wikiquote.org,wikiquote,el,Greek,open,public
-elwikisource,el.wikisource.org,wikisource,el,Greek,open,public
-elwikiversity,el.wikiversity.org,wikiversity,el,Greek,open,public
-elwikivoyage,el.wikivoyage.org,wikivoyage,el,Greek,open,public
-elwiktionary,el.wiktionary.org,wiktionary,el,Greek,open,public
-emlwiki,eml.wikipedia.org,wikipedia,eml,Emiliano-Romagnolo,open,public
-enwiki,en.wikipedia.org,wikipedia,en,English,open,public
-enwikibooks,en.wikibooks.org,wikibooks,en,English,open,public
-enwikinews,en.wikinews.org,wikinews,en,English,open,public
-enwikiquote,en.wikiquote.org,wikiquote,en,English,open,public
-enwikisource,en.wikisource.org,wikisource,en,English,open,public
-enwikiversity,en.wikiversity.org,wikiversity,en,English,open,public
-enwikivoyage,en.wikivoyage.org,wikivoyage,en,English,open,public
-enwiktionary,en.wiktionary.org,wiktionary,en,English,open,public
-eowiki,eo.wikipedia.org,wikipedia,eo,Esperanto,open,public
-eowikibooks,eo.wikibooks.org,wikibooks,eo,Esperanto,open,public
-eowikinews,eo.wikinews.org,wikinews,eo,Esperanto,open,public
-eowikiquote,eo.wikiquote.org,wikiquote,eo,Esperanto,open,public
-eowikisource,eo.wikisource.org,wikisource,eo,Esperanto,open,public
-eowiktionary,eo.wiktionary.org,wiktionary,eo,Esperanto,open,public
-eswiki,es.wikipedia.org,wikipedia,es,Spanish,open,public
-eswikibooks,es.wikibooks.org,wikibooks,es,Spanish,open,public
-eswikinews,es.wikinews.org,wikinews,es,Spanish,open,public
-eswikiquote,es.wikiquote.org,wikiquote,es,Spanish,open,public
-eswikisource,es.wikisource.org,wikisource,es,Spanish,open,public
-eswikiversity,es.wikiversity.org,wikiversity,es,Spanish,open,public
-eswikivoyage,es.wikivoyage.org,wikivoyage,es,Spanish,open,public
-eswiktionary,es.wiktionary.org,wiktionary,es,Spanish,open,public
-etwiki,et.wikipedia.org,wikipedia,et,Estonian,open,public
-etwikibooks,et.wikibooks.org,wikibooks,et,Estonian,open,public
-etwikimedia,ee.wikimedia.org,etwikimedia,en,English,open,public
-etwikiquote,et.wikiquote.org,wikiquote,et,Estonian,open,public
-etwikisource,et.wikisource.org,wikisource,et,Estonian,open,public
-etwiktionary,et.wiktionary.org,wiktionary,et,Estonian,open,public
-euwiki,eu.wikipedia.org,wikipedia,eu,Basque,open,public
-euwikibooks,eu.wikibooks.org,wikibooks,eu,Basque,open,public
-euwikiquote,eu.wikiquote.org,wikiquote,eu,Basque,open,public
-euwikisource,eu.wikisource.org,wikisource,eu,Basque,open,public
-euwiktionary,eu.wiktionary.org,wiktionary,eu,Basque,open,public
-execwiki,exec.wikimedia.org,exec,en,English,open,private
-extwiki,ext.wikipedia.org,wikipedia,ext,Extremaduran,open,public
-fawiki,fa.wikipedia.org,wikipedia,fa,Persian,open,public
-fawikibooks,fa.wikibooks.org,wikibooks,fa,Persian,open,public
-fawikinews,fa.wikinews.org,wikinews,fa,Persian,open,public
-fawikiquote,fa.wikiquote.org,wikiquote,fa,Persian,open,public
-fawikisource,fa.wikisource.org,wikisource,fa,Persian,open,public
-fawikivoyage,fa.wikivoyage.org,wikivoyage,fa,Persian,open,public
-fawiktionary,fa.wiktionary.org,wiktionary,fa,Persian,open,public
-fdcwiki,fdc.wikimedia.org,fdc,en,English,open,private
-ffwiki,ff.wikipedia.org,wikipedia,ff,Fulah,open,public
-fiu_vrowiki,fiu-vro.wikipedia.org,wikipedia,fiu-vro,Võro,open,public
-fiwiki,fi.wikipedia.org,wikipedia,fi,Finnish,open,public
-fiwikibooks,fi.wikibooks.org,wikibooks,fi,Finnish,open,public
-fiwikimedia,fi.wikimedia.org,fiwikimedia,en,English,open,public
-fiwikinews,fi.wikinews.org,wikinews,fi,Finnish,open,public
-fiwikiquote,fi.wikiquote.org,wikiquote,fi,Finnish,open,public
-fiwikisource,fi.wikisource.org,wikisource,fi,Finnish,open,public
-fiwikiversity,fi.wikiversity.org,wikiversity,fi,Finnish,open,public
-fiwikivoyage,fi.wikivoyage.org,wikivoyage,fi,Finnish,open,public
-fiwiktionary,fi.wiktionary.org,wiktionary,fi,Finnish,open,public
-fixcopyrightwiki,fixcopyright.wikimedia.org,fixcopyright,en,English,open,public
-fjwiki,fj.wikipedia.org,wikipedia,fj,Fijian,open,public
-fjwiktionary,fj.wiktionary.org,wiktionary,fj,Fijian,open,public
-foundationwiki,foundation.wikimedia.org,foundation,en,English,open,public
-fowiki,fo.wikipedia.org,wikipedia,fo,Faroese,open,public
-fowikisource,fo.wikisource.org,wikisource,fo,Faroese,open,public
-fowiktionary,fo.wiktionary.org,wiktionary,fo,Faroese,open,public
-frpwiki,frp.wikipedia.org,wikipedia,frp,Arpitan,open,public
-frrwiki,frr.wikipedia.org,wikipedia,frr,Northern Frisian,open,public
-frwiki,fr.wikipedia.org,wikipedia,fr,French,open,public
-frwikibooks,fr.wikibooks.org,wikibooks,fr,French,open,public
-frwikinews,fr.wikinews.org,wikinews,fr,French,open,public
-frwikiquote,fr.wikiquote.org,wikiquote,fr,French,open,public
-frwikisource,fr.wikisource.org,wikisource,fr,French,open,public
-frwikiversity,fr.wikiversity.org,wikiversity,fr,French,open,public
-frwikivoyage,fr.wikivoyage.org,wikivoyage,fr,French,open,public
-frwiktionary,fr.wiktionary.org,wiktionary,fr,French,open,public
-furwiki,fur.wikipedia.org,wikipedia,fur,Friulian,open,public
-fywiki,fy.wikipedia.org,wikipedia,fy,Western Frisian,open,public
-fywikibooks,fy.wikibooks.org,wikibooks,fy,Western Frisian,open,public
-fywiktionary,fy.wiktionary.org,wiktionary,fy,Western Frisian,open,public
-gagwiki,gag.wikipedia.org,wikipedia,gag,Gagauz,open,public
-ganwiki,gan.wikipedia.org,wikipedia,gan,Gan Chinese,open,public
-gawiki,ga.wikipedia.org,wikipedia,ga,Irish,open,public
-gawikibooks,ga.wikibooks.org,wikibooks,ga,Irish,closed,public
-gawikiquote,ga.wikiquote.org,wikiquote,ga,Irish,closed,public
-gawiktionary,ga.wiktionary.org,wiktionary,ga,Irish,open,public
-gdwiki,gd.wikipedia.org,wikipedia,gd,Scottish Gaelic,open,public
-gdwiktionary,gd.wiktionary.org,wiktionary,gd,Scottish Gaelic,open,public
-glkwiki,glk.wikipedia.org,wikipedia,glk,Gilaki,open,public
-glwiki,gl.wikipedia.org,wikipedia,gl,Galician,open,public
-glwikibooks,gl.wikibooks.org,wikibooks,gl,Galician,open,public
-glwikiquote,gl.wikiquote.org,wikiquote,gl,Galician,open,public
-glwikisource,gl.wikisource.org,wikisource,gl,Galician,open,public
-glwiktionary,gl.wiktionary.org,wiktionary,gl,Galician,open,public
-gnwiki,gn.wikipedia.org,wikipedia,gn,Guarani,open,public
-gnwikibooks,gn.wikibooks.org,wikibooks,gn,Guarani,closed,public
-gnwiktionary,gn.wiktionary.org,wiktionary,gn,Guarani,open,public
-gomwiki,gom.wikipedia.org,wikipedia,gom,Goan Konkani,open,public
-gorwiki,gor.wikipedia.org,wikipedia,gor,Gorontalo,open,public
-gotwiki,got.wikipedia.org,wikipedia,got,Gothic,open,public
-gotwikibooks,got.wikibooks.org,wikibooks,got,Gothic,closed,public
-grantswiki,grants.wikimedia.org,grants,en,English,open,private
-guwiki,gu.wikipedia.org,wikipedia,gu,Gujarati,open,public
-guwikibooks,gu.wikibooks.org,wikibooks,gu,Gujarati,closed,public
-guwikiquote,gu.wikiquote.org,wikiquote,gu,Gujarati,open,public
-guwikisource,gu.wikisource.org,wikisource,gu,Gujarati,open,public
-guwiktionary,gu.wiktionary.org,wiktionary,gu,Gujarati,open,public
-gvwiki,gv.wikipedia.org,wikipedia,gv,Manx,open,public
-gvwiktionary,gv.wiktionary.org,wiktionary,gv,Manx,open,public
-hakwiki,hak.wikipedia.org,wikipedia,hak,Hakka Chinese,open,public
-hawiki,ha.wikipedia.org,wikipedia,ha,Hausa,open,public
-hawiktionary,ha.wiktionary.org,wiktionary,ha,Hausa,open,public
-hawwiki,haw.wikipedia.org,wikipedia,haw,Hawaiian,open,public
-hewiki,he.wikipedia.org,wikipedia,he,Hebrew,open,public
-hewikibooks,he.wikibooks.org,wikibooks,he,Hebrew,open,public
-hewikinews,he.wikinews.org,wikinews,he,Hebrew,open,public
-hewikiquote,he.wikiquote.org,wikiquote,he,Hebrew,open,public
-hewikisource,he.wikisource.org,wikisource,he,Hebrew,open,public
-hewikivoyage,he.wikivoyage.org,wikivoyage,he,Hebrew,open,public
-hewiktionary,he.wiktionary.org,wiktionary,he,Hebrew,open,public
-hifwiki,hif.wikipedia.org,wikipedia,hif,Fiji Hindi,open,public
-hifwiktionary,hif.wiktionary.org,wiktionary,hif,Fiji Hindi,open,public
-hiwiki,hi.wikipedia.org,wikipedia,hi,Hindi,open,public
-hiwikibooks,hi.wikibooks.org,wikibooks,hi,Hindi,open,public
-hiwikimedia,hi.wikimedia.org,hiwikimedia,en,English,open,public
-hiwikiquote,hi.wikiquote.org,wikiquote,hi,Hindi,open,public
-hiwikisource,hi.wikisource.org,wikisource,hi,Hindi,open,public
-hiwikiversity,hi.wikiversity.org,wikiversity,hi,Hindi,open,public
-hiwikivoyage,hi.wikivoyage.org,wikivoyage,hi,Hindi,open,public
-hiwiktionary,hi.wiktionary.org,wiktionary,hi,Hindi,open,public
-howiki,ho.wikipedia.org,wikipedia,ho,Hiri Motu,closed,public
-hrwiki,hr.wikipedia.org,wikipedia,hr,Croatian,open,public
-hrwikibooks,hr.wikibooks.org,wikibooks,hr,Croatian,open,public
-hrwikiquote,hr.wikiquote.org,wikiquote,hr,Croatian,open,public
-hrwikisource,hr.wikisource.org,wikisource,hr,Croatian,open,public
-hrwiktionary,hr.wiktionary.org,wiktionary,hr,Croatian,open,public
-hsbwiki,hsb.wikipedia.org,wikipedia,hsb,Upper Sorbian,open,public
-hsbwiktionary,hsb.wiktionary.org,wiktionary,hsb,Upper Sorbian,open,public
-htwiki,ht.wikipedia.org,wikipedia,ht,Haitian Creole,open,public
-htwikisource,ht.wikisource.org,wikisource,ht,Haitian Creole,closed,public
-huwiki,hu.wikipedia.org,wikipedia,hu,Hungarian,open,public
-huwikibooks,hu.wikibooks.org,wikibooks,hu,Hungarian,open,public
-huwikinews,hu.wikinews.org,wikinews,hu,Hungarian,closed,public
-huwikiquote,hu.wikiquote.org,wikiquote,hu,Hungarian,open,public
-huwikisource,hu.wikisource.org,wikisource,hu,Hungarian,open,public
-huwiktionary,hu.wiktionary.org,wiktionary,hu,Hungarian,open,public
-hywiki,hy.wikipedia.org,wikipedia,hy,Armenian,open,public
-hywikibooks,hy.wikibooks.org,wikibooks,hy,Armenian,open,public
-hywikiquote,hy.wikiquote.org,wikiquote,hy,Armenian,open,public
-hywikisource,hy.wikisource.org,wikisource,hy,Armenian,open,public
-hywiktionary,hy.wiktionary.org,wiktionary,hy,Armenian,open,public
-hywwiki,hyw.wikipedia.org,wikipedia,hyw,Western Armenian,open,public
-hzwiki,hz.wikipedia.org,wikipedia,hz,Herero,closed,public
-iawiki,ia.wikipedia.org,wikipedia,ia,Interlingua,open,public
-iawikibooks,ia.wikibooks.org,wikibooks,ia,Interlingua,open,public
-iawiktionary,ia.wiktionary.org,wiktionary,ia,Interlingua,open,public
-id_internalwikimedia,id-internal.wikimedia.org,id-internalwikimedia,en,English,open,private
-idwiki,id.wikipedia.org,wikipedia,id,Indonesian,open,public
-idwikibooks,id.wikibooks.org,wikibooks,id,Indonesian,open,public
-idwikimedia,id.wikimedia.org,idwikimedia,en,English,open,public
-idwikiquote,id.wikiquote.org,wikiquote,id,Indonesian,open,public
-idwikisource,id.wikisource.org,wikisource,id,Indonesian,open,public
-idwiktionary,id.wiktionary.org,wiktionary,id,Indonesian,open,public
-iegcomwiki,iegcom.wikimedia.org,iegcom,en,English,open,private
-iewiki,ie.wikipedia.org,wikipedia,ie,Interlingue,open,public
-iewikibooks,ie.wikibooks.org,wikibooks,ie,Interlingue,closed,public
-iewiktionary,ie.wiktionary.org,wiktionary,ie,Interlingue,open,public
-igwiki,ig.wikipedia.org,wikipedia,ig,Igbo,open,public
-iiwiki,ii.wikipedia.org,wikipedia,ii,Sichuan Yi,closed,public
-ikwiki,ik.wikipedia.org,wikipedia,ik,Inupiaq,open,public
-ikwiktionary,ik.wiktionary.org,wiktionary,ik,Inupiaq,closed,public
-ilowiki,ilo.wikipedia.org,wikipedia,ilo,Iloko,open,public
-ilwikimedia,il.wikimedia.org,ilwikimedia,en,English,open,private
-incubatorwiki,incubator.wikimedia.org,incubator,en,English,open,public
-inhwiki,inh.wikipedia.org,wikipedia,inh,Ingush,open,public
-internalwiki,internal.wikimedia.org,internal,en,English,closed,private
-iowiki,io.wikipedia.org,wikipedia,io,Ido,open,public
-iowiktionary,io.wiktionary.org,wiktionary,io,Ido,open,public
-iswiki,is.wikipedia.org,wikipedia,is,Icelandic,open,public
-iswikibooks,is.wikibooks.org,wikibooks,is,Icelandic,open,public
-iswikiquote,is.wikiquote.org,wikiquote,is,Icelandic,open,public
-iswikisource,is.wikisource.org,wikisource,is,Icelandic,open,public
-iswiktionary,is.wiktionary.org,wiktionary,is,Icelandic,open,public
-itwiki,it.wikipedia.org,wikipedia,it,Italian,open,public
-itwikibooks,it.wikibooks.org,wikibooks,it,Italian,open,public
-itwikinews,it.wikinews.org,wikinews,it,Italian,open,public
-itwikiquote,it.wikiquote.org,wikiquote,it,Italian,open,public
-itwikisource,it.wikisource.org,wikisource,it,Italian,open,public
-itwikiversity,it.wikiversity.org,wikiversity,it,Italian,open,public
-itwikivoyage,it.wikivoyage.org,wikivoyage,it,Italian,open,public
-itwiktionary,it.wiktionary.org,wiktionary,it,Italian,open,public
-iuwiki,iu.wikipedia.org,wikipedia,iu,Inuktitut,open,public
-iuwiktionary,iu.wiktionary.org,wiktionary,iu,Inuktitut,open,public
-jamwiki,jam.wikipedia.org,wikipedia,jam,Jamaican Creole English,open,public
-jawiki,ja.wikipedia.org,wikipedia,ja,Japanese,open,public
-jawikibooks,ja.wikibooks.org,wikibooks,ja,Japanese,open,public
-jawikinews,ja.wikinews.org,wikinews,ja,Japanese,open,public
-jawikiquote,ja.wikiquote.org,wikiquote,ja,Japanese,open,public
-jawikisource,ja.wikisource.org,wikisource,ja,Japanese,open,public
-jawikiversity,ja.wikiversity.org,wikiversity,ja,Japanese,open,public
-jawiktionary,ja.wiktionary.org,wiktionary,ja,Japanese,open,public
-jbowiki,jbo.wikipedia.org,wikipedia,jbo,Lojban,open,public
-jbowiktionary,jbo.wiktionary.org,wiktionary,jbo,Lojban,open,public
-jvwiki,jv.wikipedia.org,wikipedia,jv,Javanese,open,public
-jvwiktionary,jv.wiktionary.org,wiktionary,jv,Javanese,open,public
-kaawiki,kaa.wikipedia.org,wikipedia,kaa,Kara-Kalpak,open,public
-kabwiki,kab.wikipedia.org,wikipedia,kab,Kabyle,open,public
-kawiki,ka.wikipedia.org,wikipedia,ka,Georgian,open,public
-kawikibooks,ka.wikibooks.org,wikibooks,ka,Georgian,open,public
-kawikiquote,ka.wikiquote.org,wikiquote,ka,Georgian,open,public
-kawiktionary,ka.wiktionary.org,wiktionary,ka,Georgian,open,public
-kbdwiki,kbd.wikipedia.org,wikipedia,kbd,Kabardian,open,public
-kbpwiki,kbp.wikipedia.org,wikipedia,kbp,Kabiye,open,public
-kgwiki,kg.wikipedia.org,wikipedia,kg,Kongo,open,public
-kiwiki,ki.wikipedia.org,wikipedia,ki,Kikuyu,open,public
-kjwiki,kj.wikipedia.org,wikipedia,kj,Kuanyama,closed,public
-kkwiki,kk.wikipedia.org,wikipedia,kk,Kazakh,open,public
-kkwikibooks,kk.wikibooks.org,wikibooks,kk,Kazakh,open,public
-kkwikiquote,kk.wikiquote.org,wikiquote,kk,Kazakh,closed,public
-kkwiktionary,kk.wiktionary.org,wiktionary,kk,Kazakh,open,public
-klwiki,kl.wikipedia.org,wikipedia,kl,Kalaallisut,open,public
-klwiktionary,kl.wiktionary.org,wiktionary,kl,Kalaallisut,open,public
-kmwiki,km.wikipedia.org,wikipedia,km,Khmer,open,public
-kmwikibooks,km.wikibooks.org,wikibooks,km,Khmer,open,public
-kmwiktionary,km.wiktionary.org,wiktionary,km,Khmer,open,public
-knwiki,kn.wikipedia.org,wikipedia,kn,Kannada,open,public
-knwikibooks,kn.wikibooks.org,wikibooks,kn,Kannada,closed,public
-knwikiquote,kn.wikiquote.org,wikiquote,kn,Kannada,open,public
-knwikisource,kn.wikisource.org,wikisource,kn,Kannada,open,public
-knwiktionary,kn.wiktionary.org,wiktionary,kn,Kannada,open,public
-koiwiki,koi.wikipedia.org,wikipedia,koi,Komi-Permyak,open,public
-kowiki,ko.wikipedia.org,wikipedia,ko,Korean,open,public
-kowikibooks,ko.wikibooks.org,wikibooks,ko,Korean,open,public
-kowikinews,ko.wikinews.org,wikinews,ko,Korean,open,public
-kowikiquote,ko.wikiquote.org,wikiquote,ko,Korean,open,public
-kowikisource,ko.wikisource.org,wikisource,ko,Korean,open,public
-kowikiversity,ko.wikiversity.org,wikiversity,ko,Korean,open,public
-kowiktionary,ko.wiktionary.org,wiktionary,ko,Korean,open,public
-krcwiki,krc.wikipedia.org,wikipedia,krc,Karachay-Balkar,open,public
-krwiki,kr.wikipedia.org,wikipedia,kr,Kanuri,closed,public
-krwikiquote,kr.wikiquote.org,wikiquote,kr,Kanuri,closed,public
-kshwiki,ksh.wikipedia.org,wikipedia,ksh,Colognian,open,public
-kswiki,ks.wikipedia.org,wikipedia,ks,Kashmiri,open,public
-kswikibooks,ks.wikibooks.org,wikibooks,ks,Kashmiri,closed,public
-kswikiquote,ks.wikiquote.org,wikiquote,ks,Kashmiri,closed,public
-kswiktionary,ks.wiktionary.org,wiktionary,ks,Kashmiri,open,public
-kuwiki,ku.wikipedia.org,wikipedia,ku,Kurdish,open,public
-kuwikibooks,ku.wikibooks.org,wikibooks,ku,Kurdish,open,public
-kuwikiquote,ku.wikiquote.org,wikiquote,ku,Kurdish,open,public
-kuwiktionary,ku.wiktionary.org,wiktionary,ku,Kurdish,open,public
-kvwiki,kv.wikipedia.org,wikipedia,kv,Komi,open,public
-kwwiki,kw.wikipedia.org,wikipedia,kw,Cornish,open,public
-kwwikiquote,kw.wikiquote.org,wikiquote,kw,Cornish,closed,public
-kwwiktionary,kw.wiktionary.org,wiktionary,kw,Cornish,open,public
-kywiki,ky.wikipedia.org,wikipedia,ky,Kyrgyz,open,public
-kywikibooks,ky.wikibooks.org,wikibooks,ky,Kyrgyz,open,public
-kywikiquote,ky.wikiquote.org,wikiquote,ky,Kyrgyz,open,public
-kywiktionary,ky.wiktionary.org,wiktionary,ky,Kyrgyz,open,public
-labswiki,wikitech.wikimedia.org,labs,en,English,open,public
-labtestwiki,labtestwikitech.wikimedia.org,labtest,en,English,open,public
-ladwiki,lad.wikipedia.org,wikipedia,lad,Ladino,open,public
-lawiki,la.wikipedia.org,wikipedia,la,Latin,open,public
-lawikibooks,la.wikibooks.org,wikibooks,la,Latin,open,public
-lawikiquote,la.wikiquote.org,wikiquote,la,Latin,open,public
-lawikisource,la.wikisource.org,wikisource,la,Latin,open,public
-lawiktionary,la.wiktionary.org,wiktionary,la,Latin,open,public
-lbewiki,lbe.wikipedia.org,wikipedia,lbe,Lak,open,public
-lbwiki,lb.wikipedia.org,wikipedia,lb,Luxembourgish,open,public
-lbwikibooks,lb.wikibooks.org,wikibooks,lb,Luxembourgish,closed,public
-lbwikiquote,lb.wikiquote.org,wikiquote,lb,Luxembourgish,closed,public
-lbwiktionary,lb.wiktionary.org,wiktionary,lb,Luxembourgish,open,public
-legalteamwiki,legalteam.wikimedia.org,legalteam,en,English,open,private
-lezwiki,lez.wikipedia.org,wikipedia,lez,Lezghian,open,public
-lfnwiki,lfn.wikipedia.org,wikipedia,lfn,Lingua Franca Nova,open,public
-lgwiki,lg.wikipedia.org,wikipedia,lg,Ganda,open,public
-lijwiki,lij.wikipedia.org,wikipedia,lij,Ligurian,open,public
-liwiki,li.wikipedia.org,wikipedia,li,Limburgish,open,public
-liwikibooks,li.wikibooks.org,wikibooks,li,Limburgish,open,public
-liwikinews,li.wikinews.org,wikinews,li,Limburgish,open,public
-liwikiquote,li.wikiquote.org,wikiquote,li,Limburgish,open,public
-liwikisource,li.wikisource.org,wikisource,li,Limburgish,open,public
-liwiktionary,li.wiktionary.org,wiktionary,li,Limburgish,open,public
-lmowiki,lmo.wikipedia.org,wikipedia,lmo,Lombard,open,public
-lnwiki,ln.wikipedia.org,wikipedia,ln,Lingala,open,public
-lnwikibooks,ln.wikibooks.org,wikibooks,ln,Lingala,closed,public
-lnwiktionary,ln.wiktionary.org,wiktionary,ln,Lingala,open,public
-loginwiki,login.wikimedia.org,login,en,English,open,public
-lowiki,lo.wikipedia.org,wikipedia,lo,Lao,open,public
-lowiktionary,lo.wiktionary.org,wiktionary,lo,Lao,open,public
-lrcwiki,lrc.wikipedia.org,wikipedia,lrc,Northern Luri,open,public
-ltgwiki,ltg.wikipedia.org,wikipedia,ltg,Latgalian,open,public
-ltwiki,lt.wikipedia.org,wikipedia,lt,Lithuanian,open,public
-ltwikibooks,lt.wikibooks.org,wikibooks,lt,Lithuanian,open,public
-ltwikiquote,lt.wikiquote.org,wikiquote,lt,Lithuanian,open,public
-ltwikisource,lt.wikisource.org,wikisource,lt,Lithuanian,open,public
-ltwiktionary,lt.wiktionary.org,wiktionary,lt,Lithuanian,open,public
-lvwiki,lv.wikipedia.org,wikipedia,lv,Latvian,open,public
-lvwikibooks,lv.wikibooks.org,wikibooks,lv,Latvian,closed,public
-lvwiktionary,lv.wiktionary.org,wiktionary,lv,Latvian,open,public
-maiwiki,mai.wikipedia.org,wikipedia,mai,Maithili,open,public
-maiwikimedia,mai.wikimedia.org,maiwikimedia,en,English,open,public
-map_bmswiki,map-bms.wikipedia.org,wikipedia,map-bms,Banyumasan,open,public
-mdfwiki,mdf.wikipedia.org,wikipedia,mdf,Moksha,open,public
-mediawikiwiki,www.mediawiki.org,mediawiki,en,English,open,public
-metawiki,meta.wikimedia.org,meta,en,English,open,public
-mgwiki,mg.wikipedia.org,wikipedia,mg,Malagasy,open,public
-mgwikibooks,mg.wikibooks.org,wikibooks,mg,Malagasy,open,public
-mgwiktionary,mg.wiktionary.org,wiktionary,mg,Malagasy,open,public
-mhrwiki,mhr.wikipedia.org,wikipedia,mhr,Eastern Mari,open,public
-mhwiki,mh.wikipedia.org,wikipedia,mh,Marshallese,closed,public
-mhwiktionary,mh.wiktionary.org,wiktionary,mh,Marshallese,closed,public
-minwiki,min.wikipedia.org,wikipedia,min,Minangkabau,open,public
-miwiki,mi.wikipedia.org,wikipedia,mi,Maori,open,public
-miwikibooks,mi.wikibooks.org,wikibooks,mi,Maori,closed,public
-miwiktionary,mi.wiktionary.org,wiktionary,mi,Maori,open,public
-mkwiki,mk.wikipedia.org,wikipedia,mk,Macedonian,open,public
-mkwikibooks,mk.wikibooks.org,wikibooks,mk,Macedonian,open,public
-mkwikimedia,mk.wikimedia.org,mkwikimedia,en,English,open,public
-mkwikisource,mk.wikisource.org,wikisource,mk,Macedonian,open,public
-mkwiktionary,mk.wiktionary.org,wiktionary,mk,Macedonian,open,public
-mlwiki,ml.wikipedia.org,wikipedia,ml,Malayalam,open,public
-mlwikibooks,ml.wikibooks.org,wikibooks,ml,Malayalam,open,public
-mlwikiquote,ml.wikiquote.org,wikiquote,ml,Malayalam,open,public
-mlwikisource,ml.wikisource.org,wikisource,ml,Malayalam,open,public
-mlwiktionary,ml.wiktionary.org,wiktionary,ml,Malayalam,open,public
-mnwiki,mn.wikipedia.org,wikipedia,mn,Mongolian,open,public
-mnwikibooks,mn.wikibooks.org,wikibooks,mn,Mongolian,closed,public
-mnwiktionary,mn.wiktionary.org,wiktionary,mn,Mongolian,open,public
-movementroleswiki,movementroles.wikimedia.org,movementroles,en,English,open,private
-mowiki,mo.wikipedia.org,wikipedia,mo,Moldovan,open,public
-mowiktionary,mo.wiktionary.org,wiktionary,mo,Moldovan,open,public
-mrjwiki,mrj.wikipedia.org,wikipedia,mrj,Western Mari,open,public
-mrwiki,mr.wikipedia.org,wikipedia,mr,Marathi,open,public
-mrwikibooks,mr.wikibooks.org,wikibooks,mr,Marathi,open,public
-mrwikiquote,mr.wikiquote.org,wikiquote,mr,Marathi,open,public
-mrwikisource,mr.wikisource.org,wikisource,mr,Marathi,open,public
-mrwiktionary,mr.wiktionary.org,wiktionary,mr,Marathi,open,public
-mswiki,ms.wikipedia.org,wikipedia,ms,Malay,open,public
-mswikibooks,ms.wikibooks.org,wikibooks,ms,Malay,open,public
-mswiktionary,ms.wiktionary.org,wiktionary,ms,Malay,open,public
-mtwiki,mt.wikipedia.org,wikipedia,mt,Maltese,open,public
-mtwiktionary,mt.wiktionary.org,wiktionary,mt,Maltese,open,public
-muswiki,mus.wikipedia.org,wikipedia,mus,Creek,closed,public
-mwlwiki,mwl.wikipedia.org,wikipedia,mwl,Mirandese,open,public
-mxwikimedia,mx.wikimedia.org,mxwikimedia,en,English,open,public
-myvwiki,myv.wikipedia.org,wikipedia,myv,Erzya,open,public
-mywiki,my.wikipedia.org,wikipedia,my,Burmese,open,public
-mywikibooks,my.wikibooks.org,wikibooks,my,Burmese,closed,public
-mywiktionary,my.wiktionary.org,wiktionary,my,Burmese,open,public
-mznwiki,mzn.wikipedia.org,wikipedia,mzn,Mazanderani,open,public
-nahwiki,nah.wikipedia.org,wikipedia,nah,Nahuatl,open,public
-nahwikibooks,nah.wikibooks.org,wikibooks,nah,Nahuatl,closed,public
-nahwiktionary,nah.wiktionary.org,wiktionary,nah,Nahuatl,open,public
-napwiki,nap.wikipedia.org,wikipedia,nap,Neapolitan,open,public
-napwikisource,nap.wikisource.org,wikisource,nap,Neapolitan,open,public
-nawiki,na.wikipedia.org,wikipedia,na,Nauru,open,public
-nawikibooks,na.wikibooks.org,wikibooks,na,Nauru,closed,public
-nawikiquote,na.wikiquote.org,wikiquote,na,Nauru,closed,public
-nawiktionary,na.wiktionary.org,wiktionary,na,Nauru,open,public
-nds_nlwiki,nds-nl.wikipedia.org,wikipedia,nds-nl,Low Saxon,open,public
-ndswiki,nds.wikipedia.org,wikipedia,nds,Low German,open,public
-ndswikibooks,nds.wikibooks.org,wikibooks,nds,Low German,closed,public
-ndswikiquote,nds.wikiquote.org,wikiquote,nds,Low German,closed,public
-ndswiktionary,nds.wiktionary.org,wiktionary,nds,Low German,open,public
-newiki,ne.wikipedia.org,wikipedia,ne,Nepali,open,public
-newikibooks,ne.wikibooks.org,wikibooks,ne,Nepali,open,public
-newiktionary,ne.wiktionary.org,wiktionary,ne,Nepali,open,public
-newwiki,new.wikipedia.org,wikipedia,new,Newari,open,public
-ngwiki,ng.wikipedia.org,wikipedia,ng,Ndonga,closed,public
-nlwiki,nl.wikipedia.org,wikipedia,nl,Dutch,open,public
-nlwikibooks,nl.wikibooks.org,wikibooks,nl,Dutch,open,public
-nlwikimedia,nl.wikimedia.org,nlwikimedia,en,English,open,public
-nlwikinews,nl.wikinews.org,wikinews,nl,Dutch,open,public
-nlwikiquote,nl.wikiquote.org,wikiquote,nl,Dutch,open,public
-nlwikisource,nl.wikisource.org,wikisource,nl,Dutch,open,public
-nlwikivoyage,nl.wikivoyage.org,wikivoyage,nl,Dutch,open,public
-nlwiktionary,nl.wiktionary.org,wiktionary,nl,Dutch,open,public
-nnwiki,nn.wikipedia.org,wikipedia,nn,Norwegian Nynorsk,open,public
-nnwikiquote,nn.wikiquote.org,wikiquote,nn,Norwegian Nynorsk,open,public
-nnwiktionary,nn.wiktionary.org,wiktionary,nn,Norwegian Nynorsk,open,public
-noboard_chapterswikimedia,noboard-chapters.wikimedia.org,noboard-chapterswikimedia,en,English,open,private
-nostalgiawiki,nostalgia.wikipedia.org,nostalgia,en,English,open,public
-novwiki,nov.wikipedia.org,wikipedia,nov,Novial,open,public
-nowiki,no.wikipedia.org,wikipedia,no,Norwegian,open,public
-nowikibooks,no.wikibooks.org,wikibooks,no,Norwegian,open,public
-nowikimedia,no.wikimedia.org,nowikimedia,en,English,open,public
-nowikinews,no.wikinews.org,wikinews,no,Norwegian,open,public
-nowikiquote,no.wikiquote.org,wikiquote,no,Norwegian,open,public
-nowikisource,no.wikisource.org,wikisource,no,Norwegian,open,public
-nowiktionary,no.wiktionary.org,wiktionary,no,Norwegian,open,public
-nqowiki,nqo.wikipedia.org,wikipedia,nqo,N’Ko,open,public
-nrmwiki,nrm.wikipedia.org,wikipedia,nrm,Norman,open,public
-nsowiki,nso.wikipedia.org,wikipedia,nso,Northern Sotho,open,public
-nvwiki,nv.wikipedia.org,wikipedia,nv,Navajo,open,public
-nycwikimedia,nyc.wikimedia.org,nycwikimedia,en,English,open,public
-nywiki,ny.wikipedia.org,wikipedia,ny,Nyanja,open,public
-nzwikimedia,nz.wikimedia.org,nzwikimedia,en,English,closed,public
-ocwiki,oc.wikipedia.org,wikipedia,oc,Occitan,open,public
-ocwikibooks,oc.wikibooks.org,wikibooks,oc,Occitan,open,public
-ocwiktionary,oc.wiktionary.org,wiktionary,oc,Occitan,open,public
-officewiki,office.wikimedia.org,office,en,English,open,private
-olowiki,olo.wikipedia.org,wikipedia,olo,Livvi-Karelian,open,public
-ombudsmenwiki,ombudsmen.wikimedia.org,ombudsmen,en,English,open,private
-omwiki,om.wikipedia.org,wikipedia,om,Oromo,open,public
-omwiktionary,om.wiktionary.org,wiktionary,om,Oromo,open,public
-orwiki,or.wikipedia.org,wikipedia,or,Odia,open,public
-orwikisource,or.wikisource.org,wikisource,or,Odia,open,public
-orwiktionary,or.wiktionary.org,wiktionary,or,Odia,open,public
-oswiki,os.wikipedia.org,wikipedia,os,Ossetic,open,public
-otrs_wikiwiki,otrs-wiki.wikimedia.org,otrs-wiki,en,English,open,private
-outreachwiki,outreach.wikimedia.org,outreach,en,English,open,public
-pa_uswikimedia,pa-us.wikimedia.org,pa-uswikimedia,en,English,closed,public
-pagwiki,pag.wikipedia.org,wikipedia,pag,Pangasinan,open,public
-pamwiki,pam.wikipedia.org,wikipedia,pam,Pampanga,open,public
-papwiki,pap.wikipedia.org,wikipedia,pap,Papiamento,open,public
-pawiki,pa.wikipedia.org,wikipedia,pa,Punjabi,open,public
-pawikibooks,pa.wikibooks.org,wikibooks,pa,Punjabi,open,public
-pawikisource,pa.wikisource.org,wikisource,pa,Punjabi,open,public
-pawiktionary,pa.wiktionary.org,wiktionary,pa,Punjabi,open,public
-pcdwiki,pcd.wikipedia.org,wikipedia,pcd,Picard,open,public
-pdcwiki,pdc.wikipedia.org,wikipedia,pdc,Pennsylvania German,open,public
-pflwiki,pfl.wikipedia.org,wikipedia,pfl,Palatine German,open,public
-pihwiki,pih.wikipedia.org,wikipedia,pih,Norfuk-Pitkern,open,public
-piwiki,pi.wikipedia.org,wikipedia,pi,Pali,open,public
-piwiktionary,pi.wiktionary.org,wiktionary,pi,Pali,closed,public
-plwiki,pl.wikipedia.org,wikipedia,pl,Polish,open,public
-plwikibooks,pl.wikibooks.org,wikibooks,pl,Polish,open,public
-plwikimedia,pl.wikimedia.org,plwikimedia,en,English,open,public
-plwikinews,pl.wikinews.org,wikinews,pl,Polish,open,public
-plwikiquote,pl.wikiquote.org,wikiquote,pl,Polish,open,public
-plwikisource,pl.wikisource.org,wikisource,pl,Polish,open,public
-plwikivoyage,pl.wikivoyage.org,wikivoyage,pl,Polish,open,public
-plwiktionary,pl.wiktionary.org,wiktionary,pl,Polish,open,public
-pmswiki,pms.wikipedia.org,wikipedia,pms,Piedmontese,open,public
-pmswikisource,pms.wikisource.org,wikisource,pms,Piedmontese,open,public
-pnbwiki,pnb.wikipedia.org,wikipedia,pnb,Western Punjabi,open,public
-pnbwiktionary,pnb.wiktionary.org,wiktionary,pnb,Western Punjabi,open,public
-pntwiki,pnt.wikipedia.org,wikipedia,pnt,Pontic,open,public
-projectcomwiki,projectcom.wikipedia.org,projectcom,en,English,open,private
-pswiki,ps.wikipedia.org,wikipedia,ps,Pashto,open,public
-pswikibooks,ps.wikibooks.org,wikibooks,ps,Pashto,closed,public
-pswikivoyage,ps.wikivoyage.org,wikivoyage,ps,Pashto,open,public
-pswiktionary,ps.wiktionary.org,wiktionary,ps,Pashto,open,public
-ptwiki,pt.wikipedia.org,wikipedia,pt,Portuguese,open,public
-ptwikibooks,pt.wikibooks.org,wikibooks,pt,Portuguese,open,public
-ptwikimedia,pt.wikimedia.org,ptwikimedia,en,English,open,public
-ptwikinews,pt.wikinews.org,wikinews,pt,Portuguese,open,public
-ptwikiquote,pt.wikiquote.org,wikiquote,pt,Portuguese,open,public
-ptwikisource,pt.wikisource.org,wikisource,pt,Portuguese,open,public
-ptwikiversity,pt.wikiversity.org,wikiversity,pt,Portuguese,open,public
-ptwikivoyage,pt.wikivoyage.org,wikivoyage,pt,Portuguese,open,public
-ptwiktionary,pt.wiktionary.org,wiktionary,pt,Portuguese,open,public
-punjabiwikimedia,punjabi.wikimedia.org,punjabiwikimedia,en,English,open,public
-qualitywiki,quality.wikimedia.org,quality,en,English,closed,public
-quwiki,qu.wikipedia.org,wikipedia,qu,Quechua,open,public
-quwikibooks,qu.wikibooks.org,wikibooks,qu,Quechua,closed,public
-quwikiquote,qu.wikiquote.org,wikiquote,qu,Quechua,closed,public
-quwiktionary,qu.wiktionary.org,wiktionary,qu,Quechua,open,public
-rmwiki,rm.wikipedia.org,wikipedia,rm,Romansh,open,public
-rmwikibooks,rm.wikibooks.org,wikibooks,rm,Romansh,closed,public
-rmwiktionary,rm.wiktionary.org,wiktionary,rm,Romansh,closed,public
-rmywiki,rmy.wikipedia.org,wikipedia,rmy,Vlax Romani,open,public
-rnwiki,rn.wikipedia.org,wikipedia,rn,Rundi,open,public
-rnwiktionary,rn.wiktionary.org,wiktionary,rn,Rundi,closed,public
-roa_rupwiki,roa-rup.wikipedia.org,wikipedia,roa-rup,Aromanian,open,public
-roa_rupwiktionary,roa-rup.wiktionary.org,wiktionary,roa-rup,Aromanian,open,public
-roa_tarawiki,roa-tara.wikipedia.org,wikipedia,roa-tara,Tarantino,open,public
-romdwikimedia,romd.wikimedia.org,romdwikimedia,en,English,open,public
-rowiki,ro.wikipedia.org,wikipedia,ro,Romanian,open,public
-rowikibooks,ro.wikibooks.org,wikibooks,ro,Romanian,open,public
-rowikinews,ro.wikinews.org,wikinews,ro,Romanian,open,public
-rowikiquote,ro.wikiquote.org,wikiquote,ro,Romanian,open,public
-rowikisource,ro.wikisource.org,wikisource,ro,Romanian,open,public
-rowikivoyage,ro.wikivoyage.org,wikivoyage,ro,Romanian,open,public
-rowiktionary,ro.wiktionary.org,wiktionary,ro,Romanian,open,public
-rswikimedia,rs.wikimedia.org,rswikimedia,en,English,open,public
-ruewiki,rue.wikipedia.org,wikipedia,rue,Rusyn,open,public
-ruwiki,ru.wikipedia.org,wikipedia,ru,Russian,open,public
-ruwikibooks,ru.wikibooks.org,wikibooks,ru,Russian,open,public
-ruwikimedia,ru.wikimedia.org,ruwikimedia,en,English,open,public
-ruwikinews,ru.wikinews.org,wikinews,ru,Russian,open,public
-ruwikiquote,ru.wikiquote.org,wikiquote,ru,Russian,open,public
-ruwikisource,ru.wikisource.org,wikisource,ru,Russian,open,public
-ruwikiversity,ru.wikiversity.org,wikiversity,ru,Russian,open,public
-ruwikivoyage,ru.wikivoyage.org,wikivoyage,ru,Russian,open,public
-ruwiktionary,ru.wiktionary.org,wiktionary,ru,Russian,open,public
-rwwiki,rw.wikipedia.org,wikipedia,rw,Kinyarwanda,open,public
-rwwiktionary,rw.wiktionary.org,wiktionary,rw,Kinyarwanda,open,public
-sahwiki,sah.wikipedia.org,wikipedia,sah,Sakha,open,public
-sahwikiquote,sah.wikiquote.org,wikiquote,sah,Sakha,open,public
-sahwikisource,sah.wikisource.org,wikisource,sah,Sakha,open,public
-satwiki,sat.wikipedia.org,wikipedia,sat,Santali,open,public
-sawiki,sa.wikipedia.org,wikipedia,sa,Sanskrit,open,public
-sawikibooks,sa.wikibooks.org,wikibooks,sa,Sanskrit,open,public
-sawikiquote,sa.wikiquote.org,wikiquote,sa,Sanskrit,open,public
-sawikisource,sa.wikisource.org,wikisource,sa,Sanskrit,open,public
-sawiktionary,sa.wiktionary.org,wiktionary,sa,Sanskrit,open,public
-scnwiki,scn.wikipedia.org,wikipedia,scn,Sicilian,open,public
-scnwiktionary,scn.wiktionary.org,wiktionary,scn,Sicilian,open,public
-scowiki,sco.wikipedia.org,wikipedia,sco,Scots,open,public
-scwiki,sc.wikipedia.org,wikipedia,sc,Sardinian,open,public
-scwiktionary,sc.wiktionary.org,wiktionary,sc,Sardinian,closed,public
-sdwiki,sd.wikipedia.org,wikipedia,sd,Sindhi,open,public
-sdwikinews,sd.wikinews.org,wikinews,sd,Sindhi,closed,public
-sdwiktionary,sd.wiktionary.org,wiktionary,sd,Sindhi,open,public
-searchcomwiki,searchcom.wikimedia.org,searchcom,en,English,open,private
-sewiki,se.wikipedia.org,wikipedia,se,Northern Sami,open,public
-sewikibooks,se.wikibooks.org,wikibooks,se,Northern Sami,closed,public
-sewikimedia,se.wikimedia.org,sewikimedia,en,English,open,public
-sgwiki,sg.wikipedia.org,wikipedia,sg,Sango,open,public
-sgwiktionary,sg.wiktionary.org,wiktionary,sg,Sango,open,public
-shnwiki,shn.wikipedia.org,wikipedia,shn,Shan,open,public
-shwiki,sh.wikipedia.org,wikipedia,sh,Serbo-Croatian,open,public
-shwiktionary,sh.wiktionary.org,wiktionary,sh,Serbo-Croatian,open,public
-simplewiki,simple.wikipedia.org,wikipedia,simple,Simple English,open,public
-simplewikibooks,simple.wikibooks.org,wikibooks,simple,Simple English,closed,public
-simplewikiquote,simple.wikiquote.org,wikiquote,simple,Simple English,closed,public
-simplewiktionary,simple.wiktionary.org,wiktionary,simple,Simple English,open,public
-siwiki,si.wikipedia.org,wikipedia,si,Sinhala,open,public
-siwikibooks,si.wikibooks.org,wikibooks,si,Sinhala,open,public
-siwiktionary,si.wiktionary.org,wiktionary,si,Sinhala,open,public
-skwiki,sk.wikipedia.org,wikipedia,sk,Slovak,open,public
-skwikibooks,sk.wikibooks.org,wikibooks,sk,Slovak,open,public
-skwikiquote,sk.wikiquote.org,wikiquote,sk,Slovak,open,public
-skwikisource,sk.wikisource.org,wikisource,sk,Slovak,open,public
-skwiktionary,sk.wiktionary.org,wiktionary,sk,Slovak,open,public
-slwiki,sl.wikipedia.org,wikipedia,sl,Slovenian,open,public
-slwikibooks,sl.wikibooks.org,wikibooks,sl,Slovenian,open,public
-slwikiquote,sl.wikiquote.org,wikiquote,sl,Slovenian,open,public
-slwikisource,sl.wikisource.org,wikisource,sl,Slovenian,open,public
-slwikiversity,sl.wikiversity.org,wikiversity,sl,Slovenian,open,public
-slwiktionary,sl.wiktionary.org,wiktionary,sl,Slovenian,open,public
-smwiki,sm.wikipedia.org,wikipedia,sm,Samoan,open,public
-smwiktionary,sm.wiktionary.org,wiktionary,sm,Samoan,open,public
-snwiki,sn.wikipedia.org,wikipedia,sn,Shona,open,public
-snwiktionary,sn.wiktionary.org,wiktionary,sn,Shona,closed,public
-sourceswiki,wikisource.org,sources,en,English,open,public
-sowiki,so.wikipedia.org,wikipedia,so,Somali,open,public
-sowiktionary,so.wiktionary.org,wiktionary,so,Somali,open,public
-spcomwiki,spcom.wikimedia.org,spcom,en,English,open,private
-specieswiki,species.wikimedia.org,species,en,English,open,public
-sqwiki,sq.wikipedia.org,wikipedia,sq,Albanian,open,public
-sqwikibooks,sq.wikibooks.org,wikibooks,sq,Albanian,open,public
-sqwikinews,sq.wikinews.org,wikinews,sq,Albanian,open,public
-sqwikiquote,sq.wikiquote.org,wikiquote,sq,Albanian,open,public
-sqwiktionary,sq.wiktionary.org,wiktionary,sq,Albanian,open,public
-srnwiki,srn.wikipedia.org,wikipedia,srn,Sranan Tongo,open,public
-srwiki,sr.wikipedia.org,wikipedia,sr,Serbian,open,public
-srwikibooks,sr.wikibooks.org,wikibooks,sr,Serbian,open,public
-srwikinews,sr.wikinews.org,wikinews,sr,Serbian,open,public
-srwikiquote,sr.wikiquote.org,wikiquote,sr,Serbian,open,public
-srwikisource,sr.wikisource.org,wikisource,sr,Serbian,open,public
-srwiktionary,sr.wiktionary.org,wiktionary,sr,Serbian,open,public
-sswiki,ss.wikipedia.org,wikipedia,ss,Swati,open,public
-sswiktionary,ss.wiktionary.org,wiktionary,ss,Swati,open,public
-stewardwiki,steward.wikimedia.org,steward,en,English,open,private
-stqwiki,stq.wikipedia.org,wikipedia,stq,Saterland Frisian,open,public
-strategywiki,strategy.wikimedia.org,strategy,en,English,closed,public
-stwiki,st.wikipedia.org,wikipedia,st,Southern Sotho,open,public
-stwiktionary,st.wiktionary.org,wiktionary,st,Southern Sotho,open,public
-suwiki,su.wikipedia.org,wikipedia,su,Sundanese,open,public
-suwikibooks,su.wikibooks.org,wikibooks,su,Sundanese,closed,public
-suwikiquote,su.wikiquote.org,wikiquote,su,Sundanese,open,public
-suwiktionary,su.wiktionary.org,wiktionary,su,Sundanese,open,public
-svwiki,sv.wikipedia.org,wikipedia,sv,Swedish,open,public
-svwikibooks,sv.wikibooks.org,wikibooks,sv,Swedish,open,public
-svwikinews,sv.wikinews.org,wikinews,sv,Swedish,open,public
-svwikiquote,sv.wikiquote.org,wikiquote,sv,Swedish,open,public
-svwikisource,sv.wikisource.org,wikisource,sv,Swedish,open,public
-svwikiversity,sv.wikiversity.org,wikiversity,sv,Swedish,open,public
-svwikivoyage,sv.wikivoyage.org,wikivoyage,sv,Swedish,open,public
-svwiktionary,sv.wiktionary.org,wiktionary,sv,Swedish,open,public
-swwiki,sw.wikipedia.org,wikipedia,sw,Swahili,open,public
-swwikibooks,sw.wikibooks.org,wikibooks,sw,Swahili,closed,public
-swwiktionary,sw.wiktionary.org,wiktionary,sw,Swahili,open,public
-szlwiki,szl.wikipedia.org,wikipedia,szl,Silesian,open,public
-tawiki,ta.wikipedia.org,wikipedia,ta,Tamil,open,public
-tawikibooks,ta.wikibooks.org,wikibooks,ta,Tamil,open,public
-tawikinews,ta.wikinews.org,wikinews,ta,Tamil,open,public
-tawikiquote,ta.wikiquote.org,wikiquote,ta,Tamil,open,public
-tawikisource,ta.wikisource.org,wikisource,ta,Tamil,open,public
-tawiktionary,ta.wiktionary.org,wiktionary,ta,Tamil,open,public
-tcywiki,tcy.wikipedia.org,wikipedia,tcy,Tulu,open,public
-techconductwiki,techconduct.wikimedia.org,techconduct,en,English,open,private
-tenwiki,ten.wikipedia.org,ten,en,English,closed,public
-test2wiki,test2.wikipedia.org,test2,en,English,open,public
-testcommonswiki,test-commons.wikimedia.org,testcommons,en,English,open,public
-testwiki,test.wikipedia.org,test,en,English,open,public
-testwikidatawiki,test.wikidata.org,testwikidata,en,English,open,public
-tetwiki,tet.wikipedia.org,wikipedia,tet,Tetum,open,public
-tewiki,te.wikipedia.org,wikipedia,te,Telugu,open,public
-tewikibooks,te.wikibooks.org,wikibooks,te,Telugu,open,public
-tewikiquote,te.wikiquote.org,wikiquote,te,Telugu,open,public
-tewikisource,te.wikisource.org,wikisource,te,Telugu,open,public
-tewiktionary,te.wiktionary.org,wiktionary,te,Telugu,open,public
-tgwiki,tg.wikipedia.org,wikipedia,tg,Tajik,open,public
-tgwikibooks,tg.wikibooks.org,wikibooks,tg,Tajik,open,public
-tgwiktionary,tg.wiktionary.org,wiktionary,tg,Tajik,open,public
-thwiki,th.wikipedia.org,wikipedia,th,Thai,open,public
-thwikibooks,th.wikibooks.org,wikibooks,th,Thai,open,public
-thwikinews,th.wikinews.org,wikinews,th,Thai,closed,public
-thwikiquote,th.wikiquote.org,wikiquote,th,Thai,open,public
-thwikisource,th.wikisource.org,wikisource,th,Thai,open,public
-thwiktionary,th.wiktionary.org,wiktionary,th,Thai,open,public
-tiwiki,ti.wikipedia.org,wikipedia,ti,Tigrinya,open,public
-tiwiktionary,ti.wiktionary.org,wiktionary,ti,Tigrinya,open,public
-tkwiki,tk.wikipedia.org,wikipedia,tk,Turkmen,open,public
-tkwikibooks,tk.wikibooks.org,wikibooks,tk,Turkmen,closed,public
-tkwikiquote,tk.wikiquote.org,wikiquote,tk,Turkmen,closed,public
-tkwiktionary,tk.wiktionary.org,wiktionary,tk,Turkmen,open,public
-tlwiki,tl.wikipedia.org,wikipedia,tl,Tagalog,open,public
-tlwikibooks,tl.wikibooks.org,wikibooks,tl,Tagalog,open,public
-tlwiktionary,tl.wiktionary.org,wiktionary,tl,Tagalog,open,public
-tnwiki,tn.wikipedia.org,wikipedia,tn,Tswana,open,public
-tnwiktionary,tn.wiktionary.org,wiktionary,tn,Tswana,open,public
-towiki,to.wikipedia.org,wikipedia,to,Tongan,open,public
-towiktionary,to.wiktionary.org,wiktionary,to,Tongan,closed,public
-tpiwiki,tpi.wikipedia.org,wikipedia,tpi,Tok Pisin,open,public
-tpiwiktionary,tpi.wiktionary.org,wiktionary,tpi,Tok Pisin,open,public
-transitionteamwiki,transitionteam.wikimedia.org,transitionteam,en,English,closed,private
-trwiki,tr.wikipedia.org,wikipedia,tr,Turkish,open,public
-trwikibooks,tr.wikibooks.org,wikibooks,tr,Turkish,open,public
-trwikimedia,tr.wikimedia.org,trwikimedia,en,English,open,public
-trwikinews,tr.wikinews.org,wikinews,tr,Turkish,open,public
-trwikiquote,tr.wikiquote.org,wikiquote,tr,Turkish,open,public
-trwikisource,tr.wikisource.org,wikisource,tr,Turkish,open,public
-trwiktionary,tr.wiktionary.org,wiktionary,tr,Turkish,open,public
-tswiki,ts.wikipedia.org,wikipedia,ts,Tsonga,open,public
-tswiktionary,ts.wiktionary.org,wiktionary,ts,Tsonga,open,public
-ttwiki,tt.wikipedia.org,wikipedia,tt,Tatar,open,public
-ttwikibooks,tt.wikibooks.org,wikibooks,tt,Tatar,open,public
-ttwikiquote,tt.wikiquote.org,wikiquote,tt,Tatar,closed,public
-ttwiktionary,tt.wiktionary.org,wiktionary,tt,Tatar,open,public
-tumwiki,tum.wikipedia.org,wikipedia,tum,Tumbuka,open,public
-twwiki,tw.wikipedia.org,wikipedia,tw,Twi,open,public
-twwiktionary,tw.wiktionary.org,wiktionary,tw,Twi,closed,public
-tyvwiki,tyv.wikipedia.org,wikipedia,tyv,Tuvinian,open,public
-tywiki,ty.wikipedia.org,wikipedia,ty,Tahitian,open,public
-uawikimedia,ua.wikimedia.org,uawikimedia,en,English,open,public
-udmwiki,udm.wikipedia.org,wikipedia,udm,Udmurt,open,public
-ugwiki,ug.wikipedia.org,wikipedia,ug,Uyghur,open,public
-ugwikibooks,ug.wikibooks.org,wikibooks,ug,Uyghur,closed,public
-ugwikiquote,ug.wikiquote.org,wikiquote,ug,Uyghur,closed,public
-ugwiktionary,ug.wiktionary.org,wiktionary,ug,Uyghur,open,public
-ukwiki,uk.wikipedia.org,wikipedia,uk,Ukrainian,open,public
-ukwikibooks,uk.wikibooks.org,wikibooks,uk,Ukrainian,open,public
-ukwikimedia,uk.wikimedia.org,ukwikimedia,en,English,open,public
-ukwikinews,uk.wikinews.org,wikinews,uk,Ukrainian,open,public
-ukwikiquote,uk.wikiquote.org,wikiquote,uk,Ukrainian,open,public
-ukwikisource,uk.wikisource.org,wikisource,uk,Ukrainian,open,public
-ukwikivoyage,uk.wikivoyage.org,wikivoyage,uk,Ukrainian,open,public
-ukwiktionary,uk.wiktionary.org,wiktionary,uk,Ukrainian,open,public
-urwiki,ur.wikipedia.org,wikipedia,ur,Urdu,open,public
-urwikibooks,ur.wikibooks.org,wikibooks,ur,Urdu,open,public
-urwikiquote,ur.wikiquote.org,wikiquote,ur,Urdu,open,public
-urwiktionary,ur.wiktionary.org,wiktionary,ur,Urdu,open,public
-usabilitywiki,usability.wikimedia.org,usability,en,English,closed,public
-uzwiki,uz.wikipedia.org,wikipedia,uz,Uzbek,open,public
-uzwikibooks,uz.wikibooks.org,wikibooks,uz,Uzbek,closed,public
-uzwikiquote,uz.wikiquote.org,wikiquote,uz,Uzbek,open,public
-uzwiktionary,uz.wiktionary.org,wiktionary,uz,Uzbek,open,public
-vecwiki,vec.wikipedia.org,wikipedia,vec,Venetian,open,public
-vecwikisource,vec.wikisource.org,wikisource,vec,Venetian,open,public
-vecwiktionary,vec.wiktionary.org,wiktionary,vec,Venetian,open,public
-vepwiki,vep.wikipedia.org,wikipedia,vep,Veps,open,public
-vewiki,ve.wikipedia.org,wikipedia,ve,Venda,open,public
-vewikimedia,,vewikimedia,en,English,open,public
-viwiki,vi.wikipedia.org,wikipedia,vi,Vietnamese,open,public
-viwikibooks,vi.wikibooks.org,wikibooks,vi,Vietnamese,open,public
-viwikiquote,vi.wikiquote.org,wikiquote,vi,Vietnamese,open,public
-viwikisource,vi.wikisource.org,wikisource,vi,Vietnamese,open,public
-viwikivoyage,vi.wikivoyage.org,wikivoyage,vi,Vietnamese,open,public
-viwiktionary,vi.wiktionary.org,wiktionary,vi,Vietnamese,open,public
-vlswiki,vls.wikipedia.org,wikipedia,vls,West Flemish,open,public
-votewiki,vote.wikimedia.org,vote,en,English,open,public
-vowiki,vo.wikipedia.org,wikipedia,vo,Volapük,open,public
-vowikibooks,vo.wikibooks.org,wikibooks,vo,Volapük,closed,public
-vowikiquote,vo.wikiquote.org,wikiquote,vo,Volapük,closed,public
-vowiktionary,vo.wiktionary.org,wiktionary,vo,Volapük,open,public
-warwiki,war.wikipedia.org,wikipedia,war,Waray,open,public
-wawiki,wa.wikipedia.org,wikipedia,wa,Walloon,open,public
-wawikibooks,wa.wikibooks.org,wikibooks,wa,Walloon,closed,public
-wawiktionary,wa.wiktionary.org,wiktionary,wa,Walloon,open,public
-wbwikimedia,wb.wikimedia.org,wbwikimedia,en,English,open,public
-wg_enwiki,wg-en.wikipedia.org,wg-en,en,English,open,private
-wikidatawiki,www.wikidata.org,wikidata,en,English,open,public
-wikimania2005wiki,wikimania2005.wikimedia.org,wikimania2005,en,English,closed,public
-wikimania2006wiki,wikimania2006.wikimedia.org,wikimania2006,en,English,closed,public
-wikimania2007wiki,wikimania2007.wikimedia.org,wikimania2007,en,English,closed,public
-wikimania2008wiki,wikimania2008.wikimedia.org,wikimania2008,en,English,closed,public
-wikimania2009wiki,wikimania2009.wikimedia.org,wikimania2009,en,English,closed,public
-wikimania2010wiki,wikimania2010.wikimedia.org,wikimania2010,en,English,closed,public
-wikimania2011wiki,wikimania2011.wikimedia.org,wikimania2011,en,English,closed,public
-wikimania2012wiki,wikimania2012.wikimedia.org,wikimania2012,en,English,closed,public
-wikimania2013wiki,wikimania2013.wikimedia.org,wikimania2013,en,English,closed,public
-wikimania2014wiki,wikimania2014.wikimedia.org,wikimania2014,en,English,closed,public
-wikimania2015wiki,wikimania2015.wikimedia.org,wikimania2015,en,English,closed,public
-wikimania2016wiki,wikimania2016.wikimedia.org,wikimania2016,en,English,closed,public
-wikimania2017wiki,wikimania2017.wikimedia.org,wikimania2017,en,English,closed,public
-wikimania2018wiki,wikimania2018.wikimedia.org,wikimania2018,en,English,closed,public
-wikimaniateamwiki,wikimaniateam.wikimedia.org,wikimaniateam,en,English,open,private
-wikimaniawiki,wikimania.wikimedia.org,wikimania,en,English,open,public
-wowiki,wo.wikipedia.org,wikipedia,wo,Wolof,open,public
-wowikiquote,wo.wikiquote.org,wikiquote,wo,Wolof,open,public
-wowiktionary,wo.wiktionary.org,wiktionary,wo,Wolof,open,public
-wuuwiki,wuu.wikipedia.org,wikipedia,wuu,Wu Chinese,open,public
-xalwiki,xal.wikipedia.org,wikipedia,xal,Kalmyk,open,public
-xhwiki,xh.wikipedia.org,wikipedia,xh,Xhosa,open,public
-xhwikibooks,xh.wikibooks.org,wikibooks,xh,Xhosa,closed,public
-xhwiktionary,xh.wiktionary.org,wiktionary,xh,Xhosa,closed,public
-xmfwiki,xmf.wikipedia.org,wikipedia,xmf,Mingrelian,open,public
-yiwiki,yi.wikipedia.org,wikipedia,yi,Yiddish,open,public
-yiwikisource,yi.wikisource.org,wikisource,yi,Yiddish,open,public
-yiwiktionary,yi.wiktionary.org,wiktionary,yi,Yiddish,open,public
-yowiki,yo.wikipedia.org,wikipedia,yo,Yoruba,open,public
-yowikibooks,yo.wikibooks.org,wikibooks,yo,Yoruba,closed,public
-yowiktionary,yo.wiktionary.org,wiktionary,yo,Yoruba,closed,public
-yuewiktionary,yue.wiktionary.org,wiktionary,yue,Cantonese,open,public
-zawiki,za.wikipedia.org,wikipedia,za,Zhuang,open,public
-zawikibooks,za.wikibooks.org,wikibooks,za,Zhuang,closed,public
-zawikiquote,za.wikiquote.org,wikiquote,za,Zhuang,closed,public
-zawiktionary,za.wiktionary.org,wiktionary,za,Zhuang,closed,public
-zeawiki,zea.wikipedia.org,wikipedia,zea,Zeelandic,open,public
-zerowiki,zero.wikimedia.org,zero,en,English,open,public
-zh_classicalwiki,zh-classical.wikipedia.org,wikipedia,zh-classical,Classical Chinese,open,public
-zh_min_nanwiki,zh-min-nan.wikipedia.org,wikipedia,zh-min-nan,Chinese (Min Nan),open,public
-zh_min_nanwikibooks,zh-min-nan.wikibooks.org,wikibooks,zh-min-nan,Chinese (Min Nan),closed,public
-zh_min_nanwikiquote,zh-min-nan.wikiquote.org,wikiquote,zh-min-nan,Chinese (Min Nan),closed,public
-zh_min_nanwikisource,zh-min-nan.wikisource.org,wikisource,zh-min-nan,Chinese (Min Nan),open,public
-zh_min_nanwiktionary,zh-min-nan.wiktionary.org,wiktionary,zh-min-nan,Chinese (Min Nan),open,public
-zh_yuewiki,zh-yue.wikipedia.org,wikipedia,zh-yue,Cantonese,open,public
-zhwiki,zh.wikipedia.org,wikipedia,zh,Chinese,open,public
-zhwikibooks,zh.wikibooks.org,wikibooks,zh,Chinese,open,public
-zhwikinews,zh.wikinews.org,wikinews,zh,Chinese,open,public
-zhwikiquote,zh.wikiquote.org,wikiquote,zh,Chinese,open,public
-zhwikisource,zh.wikisource.org,wikisource,zh,Chinese,open,public
-zhwikiversity,zh.wikiversity.org,wikiversity,zh,Chinese,open,public
-zhwikivoyage,zh.wikivoyage.org,wikivoyage,zh,Chinese,open,public
-zhwiktionary,zh.wiktionary.org,wiktionary,zh,Chinese,open,public
-zuwiki,zu.wikipedia.org,wikipedia,zu,Zulu,open,public
-zuwikibooks,zu.wikibooks.org,wikibooks,zu,Zulu,closed,public
-zuwiktionary,zu.wiktionary.org,wiktionary,zu,Zulu,open,public
+database_code,domain_name,database_group,language_code,language_name,editability,status,visibility,english_name
+aawiki,aa.wikipedia.org,wikipedia,aa,Afar,public,closed,public,Afar Wikipedia
+aawikibooks,aa.wikibooks.org,wikibooks,aa,Afar,public,closed,public,Afar Wikibooks
+aawiktionary,aa.wiktionary.org,wiktionary,aa,Afar,public,closed,public,Afar Wiktionary
+abwiki,ab.wikipedia.org,wikipedia,ab,Abkhazian,public,open,public,Abkhazian Wikipedia
+abwiktionary,ab.wiktionary.org,wiktionary,ab,Abkhazian,public,closed,public,Abkhazian Wiktionary
+acewiki,ace.wikipedia.org,wikipedia,ace,Achinese,public,open,public,Achinese Wikipedia
+advisorswiki,advisors.wikimedia.org,advisors,en,English,private,open,private,Advisors Wiki
+advisorywiki,advisory.wikimedia.org,advisory,en,English,public,closed,public,Advisory Board
+adywiki,ady.wikipedia.org,wikipedia,ady,Adyghe,public,open,public,Adyghe Wikipedia
+afwiki,af.wikipedia.org,wikipedia,af,Afrikaans,public,open,public,Afrikaans Wikipedia
+afwikibooks,af.wikibooks.org,wikibooks,af,Afrikaans,public,open,public,Afrikaans Wikibooks
+afwikiquote,af.wikiquote.org,wikiquote,af,Afrikaans,public,open,public,Afrikaans Wikiquote
+afwiktionary,af.wiktionary.org,wiktionary,af,Afrikaans,public,open,public,Afrikaans Wiktionary
+akwiki,ak.wikipedia.org,wikipedia,ak,Akan,public,open,public,Akan Wikipedia
+akwikibooks,ak.wikibooks.org,wikibooks,ak,Akan,public,closed,public,Akan Wikibooks
+akwiktionary,ak.wiktionary.org,wiktionary,ak,Akan,public,closed,public,Akan Wiktionary
+alswiki,als.wikipedia.org,wikipedia,als,Alsatian,public,open,public,Alemannisch Wikipedia
+amwiki,am.wikipedia.org,wikipedia,am,Amharic,public,open,public,Amharic Wikipedia
+amwikimedia,am.wikimedia.org,amwikimedia,en,English,private,open,public,Wikimedia Armenia
+amwikiquote,am.wikiquote.org,wikiquote,am,Amharic,public,closed,public,Amharic Wikiquote
+amwiktionary,am.wiktionary.org,wiktionary,am,Amharic,public,open,public,Amharic Wiktionary
+angwiki,ang.wikipedia.org,wikipedia,ang,Old English,public,open,public,Old English Wikipedia
+angwikibooks,ang.wikibooks.org,wikibooks,ang,Old English,public,closed,public,Old English Wikibooks
+angwikiquote,ang.wikiquote.org,wikiquote,ang,Old English,public,closed,public,Old English Wikiquote
+angwikisource,ang.wikisource.org,wikisource,ang,Old English,public,closed,public,Old English Wikisource
+angwiktionary,ang.wiktionary.org,wiktionary,ang,Old English,public,open,public,Old English Wiktionary
+anwiki,an.wikipedia.org,wikipedia,an,Aragonese,public,open,public,Aragonese Wikipedia
+anwiktionary,an.wiktionary.org,wiktionary,an,Aragonese,public,open,public,Aragonese Wiktionary
+arbcom_dewiki,arbcom-de.wikipedia.org,arbcom-de,en,English,private,open,private,German Wikipedia Arbitration Committee
+arbcom_enwiki,arbcom-en.wikipedia.org,arbcom-en,en,English,private,open,private,English Wikipedia Arbitration Committee
+arbcom_fiwiki,arbcom-fi.wikipedia.org,arbcom-fi,en,English,private,open,private,Finnish Wikipedia Arbitration Committee
+arbcom_nlwiki,arbcom-nl.wikipedia.org,arbcom-nl,en,English,private,open,private,Dutch Wikipedia Arbitration Committee
+arcwiki,arc.wikipedia.org,wikipedia,arc,Aramaic,public,open,public,Aramaic Wikipedia
+arwiki,ar.wikipedia.org,wikipedia,ar,Arabic,public,open,public,Arabic Wikipedia
+arwikibooks,ar.wikibooks.org,wikibooks,ar,Arabic,public,open,public,Arabic Wikibooks
+arwikimedia,ar.wikimedia.org,arwikimedia,en,English,public,open,public,Wikimedia Argentina
+arwikinews,ar.wikinews.org,wikinews,ar,Arabic,public,open,public,Arabic Wikinews
+arwikiquote,ar.wikiquote.org,wikiquote,ar,Arabic,public,open,public,Arabic Wikiquote
+arwikisource,ar.wikisource.org,wikisource,ar,Arabic,public,open,public,Arabic Wikisource
+arwikiversity,ar.wikiversity.org,wikiversity,ar,Arabic,public,open,public,Arabic Wikiversity
+arwiktionary,ar.wiktionary.org,wiktionary,ar,Arabic,public,open,public,Arabic Wiktionary
+arzwiki,arz.wikipedia.org,wikipedia,arz,Egyptian Arabic,public,open,public,Egyptian Arabic Wikipedia
+astwiki,ast.wikipedia.org,wikipedia,ast,Asturian,public,open,public,Asturian Wikipedia
+astwikibooks,ast.wikibooks.org,wikibooks,ast,Asturian,public,closed,public,Asturian Wikibooks
+astwikiquote,ast.wikiquote.org,wikiquote,ast,Asturian,public,closed,public,Asturian Wikiquote
+astwiktionary,ast.wiktionary.org,wiktionary,ast,Asturian,public,open,public,Asturian Wiktionary
+aswiki,as.wikipedia.org,wikipedia,as,Assamese,public,open,public,Assamese Wikipedia
+aswikibooks,as.wikibooks.org,wikibooks,as,Assamese,public,closed,public,Assamese Wikibooks
+aswikisource,as.wikisource.org,wikisource,as,Assamese,public,open,public,Assamese Wikisource
+aswiktionary,as.wiktionary.org,wiktionary,as,Assamese,public,closed,public,Assamese Wiktionary
+atjwiki,atj.wikipedia.org,wikipedia,atj,Atikamekw,public,open,public,Atikamekw Wikipedia
+auditcomwiki,auditcom.wikimedia.org,auditcom,en,English,private,open,private,Audit Committee
+avwiki,av.wikipedia.org,wikipedia,av,Avaric,public,open,public,Avaric Wikipedia
+avwiktionary,av.wiktionary.org,wiktionary,av,Avaric,public,closed,public,Avaric Wiktionary
+aywiki,ay.wikipedia.org,wikipedia,ay,Aymara,public,open,public,Aymara Wikipedia
+aywikibooks,ay.wikibooks.org,wikibooks,ay,Aymara,public,closed,public,Aymara Wikibooks
+aywiktionary,ay.wiktionary.org,wiktionary,ay,Aymara,public,open,public,Aymara Wiktionary
+azbwiki,azb.wikipedia.org,wikipedia,azb,South Azerbaijani,public,open,public,South Azerbaijani Wikipedia
+azwiki,az.wikipedia.org,wikipedia,az,Azerbaijani,public,open,public,Azerbaijani Wikipedia
+azwikibooks,az.wikibooks.org,wikibooks,az,Azerbaijani,public,open,public,Azerbaijani Wikibooks
+azwikiquote,az.wikiquote.org,wikiquote,az,Azerbaijani,public,open,public,Azerbaijani Wikiquote
+azwikisource,az.wikisource.org,wikisource,az,Azerbaijani,public,open,public,Azerbaijani Wikisource
+azwiktionary,az.wiktionary.org,wiktionary,az,Azerbaijani,public,open,public,Azerbaijani Wiktionary
+banwiki,ban.wikipedia.org,wikipedia,ban,Balinese,public,open,public,Balinese Wikipedia
+barwiki,bar.wikipedia.org,wikipedia,bar,Bavarian,public,open,public,Bavarian Wikipedia
+bat_smgwiki,bat-smg.wikipedia.org,wikipedia,bat-smg,Samogitian,public,open,public,Samogitian Wikipedia
+bawiki,ba.wikipedia.org,wikipedia,ba,Bashkir,public,open,public,Bashkir Wikipedia
+bawikibooks,ba.wikibooks.org,wikibooks,ba,Bashkir,public,open,public,Bashkir Wikibooks
+bclwiki,bcl.wikipedia.org,wikipedia,bcl,Central Bikol,public,open,public,Bikol Central Wikipedia
+bdwikimedia,bd.wikimedia.org,bdwikimedia,en,English,public,open,public,Wikimedia Bangladesh
+be_x_oldwiki,be-tarask.wikipedia.org,wikipedia,be-x-old,Belarusian (Taraškievica orthography),public,open,public,Belarusian (Taraškievica) Wikipedia
+betawikiversity,beta.wikiversity.org,betawikiversity,en,English,public,open,public,Wikiversity Beta
+bewiki,be.wikipedia.org,wikipedia,be,Belarusian,public,open,public,Belarusian Wikipedia
+bewikibooks,be.wikibooks.org,wikibooks,be,Belarusian,public,open,public,Belarusian Wikibooks
+bewikimedia,be.wikimedia.org,bewikimedia,en,English,public,open,public,Wikimedia Belgium
+bewikiquote,be.wikiquote.org,wikiquote,be,Belarusian,public,open,public,Belarusian Wikiquote
+bewikisource,be.wikisource.org,wikisource,be,Belarusian,public,open,public,Belarusian Wikisource
+bewiktionary,be.wiktionary.org,wiktionary,be,Belarusian,public,open,public,Belarusian Wiktionary
+bgwiki,bg.wikipedia.org,wikipedia,bg,Bulgarian,public,open,public,Bulgarian Wikipedia
+bgwikibooks,bg.wikibooks.org,wikibooks,bg,Bulgarian,public,open,public,Bulgarian Wikibooks
+bgwikinews,bg.wikinews.org,wikinews,bg,Bulgarian,public,closed,public,Bulgarian Wikinews
+bgwikiquote,bg.wikiquote.org,wikiquote,bg,Bulgarian,public,open,public,Bulgarian Wikiquote
+bgwikisource,bg.wikisource.org,wikisource,bg,Bulgarian,public,open,public,Bulgarian Wikisource
+bgwiktionary,bg.wiktionary.org,wiktionary,bg,Bulgarian,public,open,public,Bulgarian Wiktionary
+bhwiki,bh.wikipedia.org,wikipedia,bh,Bhojpuri,public,open,public,Bhojpuri Wikipedia
+bhwiktionary,bh.wiktionary.org,wiktionary,bh,Bhojpuri,public,closed,public,Bhojpuri Wiktionary
+biwiki,bi.wikipedia.org,wikipedia,bi,Bislama,public,open,public,Bislama Wikipedia
+biwikibooks,bi.wikibooks.org,wikibooks,bi,Bislama,public,closed,public,Bislama Wikibooks
+biwiktionary,bi.wiktionary.org,wiktionary,bi,Bislama,public,closed,public,Bislama Wiktionary
+bjnwiki,bjn.wikipedia.org,wikipedia,bjn,Banjar,public,open,public,Banjar Wikipedia
+bmwiki,bm.wikipedia.org,wikipedia,bm,Bambara,public,open,public,Bambara Wikipedia
+bmwikibooks,bm.wikibooks.org,wikibooks,bm,Bambara,public,closed,public,Bambara Wikibooks
+bmwikiquote,bm.wikiquote.org,wikiquote,bm,Bambara,public,closed,public,Bambara Wikiquote
+bmwiktionary,bm.wiktionary.org,wiktionary,bm,Bambara,public,closed,public,Bambara Wiktionary
+bnwiki,bn.wikipedia.org,wikipedia,bn,Bangla,public,open,public,Bengali Wikipedia
+bnwikibooks,bn.wikibooks.org,wikibooks,bn,Bangla,public,open,public,Bengali Wikibooks
+bnwikisource,bn.wikisource.org,wikisource,bn,Bangla,public,open,public,Bengali Wikisource
+bnwikivoyage,bn.wikivoyage.org,wikivoyage,bn,Bangla,public,open,public,Bengali Wikivoyage
+bnwiktionary,bn.wiktionary.org,wiktionary,bn,Bangla,public,open,public,Bengali Wiktionary
+boardgovcomwiki,boardgovcom.wikimedia.org,boardgovcom,en,English,private,open,private,Board Governance Committee
+boardwiki,board.wikimedia.org,board,en,English,private,open,private,Wikimedia Board Wiki
+bowiki,bo.wikipedia.org,wikipedia,bo,Tibetan,public,open,public,Tibetan Wikipedia
+bowikibooks,bo.wikibooks.org,wikibooks,bo,Tibetan,public,closed,public,Tibetan Wikibooks
+bowiktionary,bo.wiktionary.org,wiktionary,bo,Tibetan,public,closed,public,Tibetan Wiktionary
+bpywiki,bpy.wikipedia.org,wikipedia,bpy,Bishnupriya,public,open,public,Bishnupriya Wikipedia
+brwiki,br.wikipedia.org,wikipedia,br,Breton,public,open,public,Breton Wikipedia
+brwikimedia,br.wikimedia.org,brwikimedia,en,English,public,open,public,Wikimedia Brazil
+brwikiquote,br.wikiquote.org,wikiquote,br,Breton,public,open,public,Breton Wikiquote
+brwikisource,br.wikisource.org,wikisource,br,Breton,public,open,public,Breton Wikisource
+brwiktionary,br.wiktionary.org,wiktionary,br,Breton,public,open,public,Breton Wiktionary
+bswiki,bs.wikipedia.org,wikipedia,bs,Bosnian,public,open,public,Bosnian Wikipedia
+bswikibooks,bs.wikibooks.org,wikibooks,bs,Bosnian,public,open,public,Bosnian Wikibooks
+bswikinews,bs.wikinews.org,wikinews,bs,Bosnian,public,open,public,Bosnian Wikinews
+bswikiquote,bs.wikiquote.org,wikiquote,bs,Bosnian,public,open,public,Bosnian Wikiquote
+bswikisource,bs.wikisource.org,wikisource,bs,Bosnian,public,open,public,Bosnian Wikisource
+bswiktionary,bs.wiktionary.org,wiktionary,bs,Bosnian,public,open,public,Bosnian Wiktionary
+bugwiki,bug.wikipedia.org,wikipedia,bug,Buginese,public,open,public,Buginese Wikipedia
+bxrwiki,bxr.wikipedia.org,wikipedia,bxr,Russia Buriat,public,open,public,Buryat Wikipedia
+cawiki,ca.wikipedia.org,wikipedia,ca,Catalan,public,open,public,Catalan Wikipedia
+cawikibooks,ca.wikibooks.org,wikibooks,ca,Catalan,public,open,public,Catalan Wikibooks
+cawikimedia,ca.wikimedia.org,cawikimedia,en,English,public,open,public,Wikimedia Canada
+cawikinews,ca.wikinews.org,wikinews,ca,Catalan,public,open,public,Catalan Wikinews
+cawikiquote,ca.wikiquote.org,wikiquote,ca,Catalan,public,open,public,Catalan Wikiquote
+cawikisource,ca.wikisource.org,wikisource,ca,Catalan,public,open,public,Catalan Wikisource
+cawiktionary,ca.wiktionary.org,wiktionary,ca,Catalan,public,open,public,Catalan Wiktionary
+cbk_zamwiki,cbk-zam.wikipedia.org,wikipedia,cbk-zam,Chavacano,public,open,public,Chavacano de Zamboanga Wikipedia
+cdowiki,cdo.wikipedia.org,wikipedia,cdo,Min Dong Chinese,public,open,public,Min Dong Chinese Wikipedia
+cebwiki,ceb.wikipedia.org,wikipedia,ceb,Cebuano,public,open,public,Cebuano Wikipedia
+cewiki,ce.wikipedia.org,wikipedia,ce,Chechen,public,open,public,Chechen Wikipedia
+chairwiki,chair.wikimedia.org,chair,en,English,private,open,private,Wikimedia Board Chair
+chapcomwiki,affcom.wikimedia.org,chapcom,en,English,private,open,private,Affcom
+checkuserwiki,checkuser.wikimedia.org,checkuser,en,English,private,open,private,CheckUser Wiki
+chowiki,cho.wikipedia.org,wikipedia,cho,Choctaw,public,closed,public,Choctaw Wikipedia
+chrwiki,chr.wikipedia.org,wikipedia,chr,Cherokee,public,open,public,Cherokee Wikipedia
+chrwiktionary,chr.wiktionary.org,wiktionary,chr,Cherokee,public,open,public,Cherokee Wiktionary
+chwiki,ch.wikipedia.org,wikipedia,ch,Chamorro,public,open,public,Chamorro Wikipedia
+chwikibooks,ch.wikibooks.org,wikibooks,ch,Chamorro,public,closed,public,Chamorro Wikibooks
+chwiktionary,ch.wiktionary.org,wiktionary,ch,Chamorro,public,closed,public,Chamorro Wiktionary
+chywiki,chy.wikipedia.org,wikipedia,chy,Cheyenne,public,open,public,Cheyenne Wikipedia
+ckbwiki,ckb.wikipedia.org,wikipedia,ckb,Central Kurdish,public,open,public,Central Kurdish Wikipedia
+cnwikimedia,cn.wikimedia.org,cnwikimedia,en,English,private,open,public,Wikimedia China
+collabwiki,collab.wikimedia.org,collab,en,English,private,open,private,Collab
+commonswiki,commons.wikimedia.org,commons,en,English,public,open,public,Wikimedia Commons
+cowiki,co.wikipedia.org,wikipedia,co,Corsican,public,open,public,Corsican Wikipedia
+cowikibooks,co.wikibooks.org,wikibooks,co,Corsican,public,closed,public,Corsican Wikibooks
+cowikimedia,co.wikimedia.org,cowikimedia,en,English,public,open,public,Wikimedia Colombia
+cowikiquote,co.wikiquote.org,wikiquote,co,Corsican,public,closed,public,Corsican Wikiquote
+cowiktionary,co.wiktionary.org,wiktionary,co,Corsican,public,open,public,Corsican Wiktionary
+crhwiki,crh.wikipedia.org,wikipedia,crh,Crimean Turkish,public,open,public,Crimean Tatar Wikipedia
+crwiki,cr.wikipedia.org,wikipedia,cr,Cree,public,open,public,Cree Wikipedia
+crwikiquote,cr.wikiquote.org,wikiquote,cr,Cree,public,closed,public,Cree Wikiquote
+crwiktionary,cr.wiktionary.org,wiktionary,cr,Cree,public,closed,public,Cree Wiktionary
+csbwiki,csb.wikipedia.org,wikipedia,csb,Kashubian,public,open,public,Kashubian Wikipedia
+csbwiktionary,csb.wiktionary.org,wiktionary,csb,Kashubian,public,open,public,Kashubian Wiktionary
+cswiki,cs.wikipedia.org,wikipedia,cs,Czech,public,open,public,Czech Wikipedia
+cswikibooks,cs.wikibooks.org,wikibooks,cs,Czech,public,open,public,Czech Wikibooks
+cswikinews,cs.wikinews.org,wikinews,cs,Czech,public,open,public,Czech Wikinews
+cswikiquote,cs.wikiquote.org,wikiquote,cs,Czech,public,open,public,Czech Wikiquote
+cswikisource,cs.wikisource.org,wikisource,cs,Czech,public,open,public,Czech Wikisource
+cswikiversity,cs.wikiversity.org,wikiversity,cs,Czech,public,open,public,Czech Wikiversity
+cswiktionary,cs.wiktionary.org,wiktionary,cs,Czech,public,open,public,Czech Wiktionary
+cuwiki,cu.wikipedia.org,wikipedia,cu,Church Slavic,public,open,public,Church Slavic Wikipedia
+cvwiki,cv.wikipedia.org,wikipedia,cv,Chuvash,public,open,public,Chuvash Wikipedia
+cvwikibooks,cv.wikibooks.org,wikibooks,cv,Chuvash,public,open,public,Chuvash Wikibooks
+cywiki,cy.wikipedia.org,wikipedia,cy,Welsh,public,open,public,Welsh Wikipedia
+cywikibooks,cy.wikibooks.org,wikibooks,cy,Welsh,public,open,public,Welsh Wikibooks
+cywikiquote,cy.wikiquote.org,wikiquote,cy,Welsh,public,open,public,Welsh Wikiquote
+cywikisource,cy.wikisource.org,wikisource,cy,Welsh,public,open,public,Welsh Wikisource
+cywiktionary,cy.wiktionary.org,wiktionary,cy,Welsh,public,open,public,Welsh Wiktionary
+dawiki,da.wikipedia.org,wikipedia,da,Danish,public,open,public,Danish Wikipedia
+dawikibooks,da.wikibooks.org,wikibooks,da,Danish,public,open,public,Danish Wikibooks
+dawikiquote,da.wikiquote.org,wikiquote,da,Danish,public,open,public,Danish Wikiquote
+dawikisource,da.wikisource.org,wikisource,da,Danish,public,open,public,Danish Wikisource
+dawiktionary,da.wiktionary.org,wiktionary,da,Danish,public,open,public,Danish Wiktionary
+dewiki,de.wikipedia.org,wikipedia,de,German,public,open,public,German Wikipedia
+dewikibooks,de.wikibooks.org,wikibooks,de,German,public,open,public,German Wikibooks
+dewikinews,de.wikinews.org,wikinews,de,German,public,open,public,German Wikinews
+dewikiquote,de.wikiquote.org,wikiquote,de,German,public,open,public,German Wikiquote
+dewikisource,de.wikisource.org,wikisource,de,German,public,open,public,German Wikisource
+dewikiversity,de.wikiversity.org,wikiversity,de,German,public,open,public,German Wikiversity
+dewikivoyage,de.wikivoyage.org,wikivoyage,de,German,public,open,public,German Wikivoyage
+dewiktionary,de.wiktionary.org,wiktionary,de,German,public,open,public,German Wiktionary
+dinwiki,din.wikipedia.org,wikipedia,din,Dinka,public,open,public,Dinka Wikipedia
+diqwiki,diq.wikipedia.org,wikipedia,diq,Zazaki,public,open,public,Zazaki Wikipedia
+dkwikimedia,dk.wikimedia.org,dkwikimedia,en,English,public,open,public,Wikimedia Denmark
+donatewiki,donate.wikimedia.org,donate,en,English,private,open,public,Donate
+dsbwiki,dsb.wikipedia.org,wikipedia,dsb,Lower Sorbian,public,open,public,Lower Sorbian Wikipedia
+dvwiki,dv.wikipedia.org,wikipedia,dv,Divehi,public,open,public,Divehi Wikipedia
+dvwiktionary,dv.wiktionary.org,wiktionary,dv,Divehi,public,open,public,Divehi Wiktionary
+dzwiki,dz.wikipedia.org,wikipedia,dz,Dzongkha,public,open,public,Dzongkha Wikipedia
+dzwiktionary,dz.wiktionary.org,wiktionary,dz,Dzongkha,public,closed,public,Dzongkha Wiktionary
+ecwikimedia,ec.wikimedia.org,ecwikimedia,en,English,private,open,private,Wikimedistas de Ecuador
+eewiki,ee.wikipedia.org,wikipedia,ee,Ewe,public,open,public,Ewe Wikipedia
+elwiki,el.wikipedia.org,wikipedia,el,Greek,public,open,public,Greek Wikipedia
+elwikibooks,el.wikibooks.org,wikibooks,el,Greek,public,open,public,Greek Wikibooks
+elwikinews,el.wikinews.org,wikinews,el,Greek,public,open,public,Greek Wikinews
+elwikiquote,el.wikiquote.org,wikiquote,el,Greek,public,open,public,Greek Wikiquote
+elwikisource,el.wikisource.org,wikisource,el,Greek,public,open,public,Greek Wikisource
+elwikiversity,el.wikiversity.org,wikiversity,el,Greek,public,open,public,Greek Wikiversity
+elwikivoyage,el.wikivoyage.org,wikivoyage,el,Greek,public,open,public,Greek Wikivoyage
+elwiktionary,el.wiktionary.org,wiktionary,el,Greek,public,open,public,Greek Wiktionary
+emlwiki,eml.wikipedia.org,wikipedia,eml,Emiliano-Romagnolo,public,open,public,Emiliano-Romagnolo Wikipedia
+enwiki,en.wikipedia.org,wikipedia,en,English,public,open,public,English Wikipedia
+enwikibooks,en.wikibooks.org,wikibooks,en,English,public,open,public,English Wikibooks
+enwikinews,en.wikinews.org,wikinews,en,English,public,open,public,English Wikinews
+enwikiquote,en.wikiquote.org,wikiquote,en,English,public,open,public,English Wikiquote
+enwikisource,en.wikisource.org,wikisource,en,English,public,open,public,English Wikisource
+enwikiversity,en.wikiversity.org,wikiversity,en,English,public,open,public,English Wikiversity
+enwikivoyage,en.wikivoyage.org,wikivoyage,en,English,public,open,public,English Wikivoyage
+enwiktionary,en.wiktionary.org,wiktionary,en,English,public,open,public,English Wiktionary
+eowiki,eo.wikipedia.org,wikipedia,eo,Esperanto,public,open,public,Esperanto Wikipedia
+eowikibooks,eo.wikibooks.org,wikibooks,eo,Esperanto,public,open,public,Esperanto Wikibooks
+eowikinews,eo.wikinews.org,wikinews,eo,Esperanto,public,open,public,Esperanto Wikinews
+eowikiquote,eo.wikiquote.org,wikiquote,eo,Esperanto,public,open,public,Esperanto Wikiquote
+eowikisource,eo.wikisource.org,wikisource,eo,Esperanto,public,open,public,Esperanto Wikisource
+eowiktionary,eo.wiktionary.org,wiktionary,eo,Esperanto,public,open,public,Esperanto Wiktionary
+eswiki,es.wikipedia.org,wikipedia,es,Spanish,public,open,public,Spanish Wikipedia
+eswikibooks,es.wikibooks.org,wikibooks,es,Spanish,public,open,public,Spanish Wikibooks
+eswikinews,es.wikinews.org,wikinews,es,Spanish,public,open,public,Spanish Wikinews
+eswikiquote,es.wikiquote.org,wikiquote,es,Spanish,public,open,public,Spanish Wikiquote
+eswikisource,es.wikisource.org,wikisource,es,Spanish,public,open,public,Spanish Wikisource
+eswikiversity,es.wikiversity.org,wikiversity,es,Spanish,public,open,public,Spanish Wikiversity
+eswikivoyage,es.wikivoyage.org,wikivoyage,es,Spanish,public,open,public,Spanish Wikivoyage
+eswiktionary,es.wiktionary.org,wiktionary,es,Spanish,public,open,public,Spanish Wiktionary
+etwiki,et.wikipedia.org,wikipedia,et,Estonian,public,open,public,Estonian Wikipedia
+etwikibooks,et.wikibooks.org,wikibooks,et,Estonian,public,open,public,Estonian Wikibooks
+etwikimedia,ee.wikimedia.org,etwikimedia,en,English,public,open,public,Wikimedia Estonia
+etwikiquote,et.wikiquote.org,wikiquote,et,Estonian,public,open,public,Estonian Wikiquote
+etwikisource,et.wikisource.org,wikisource,et,Estonian,public,open,public,Estonian Wikisource
+etwiktionary,et.wiktionary.org,wiktionary,et,Estonian,public,open,public,Estonian Wiktionary
+euwiki,eu.wikipedia.org,wikipedia,eu,Basque,public,open,public,Basque Wikipedia
+euwikibooks,eu.wikibooks.org,wikibooks,eu,Basque,public,open,public,Basque Wikibooks
+euwikiquote,eu.wikiquote.org,wikiquote,eu,Basque,public,open,public,Basque Wikiquote
+euwikisource,eu.wikisource.org,wikisource,eu,Basque,public,open,public,Basque Wikisource
+euwiktionary,eu.wiktionary.org,wiktionary,eu,Basque,public,open,public,Basque Wiktionary
+execwiki,exec.wikimedia.org,exec,en,English,private,open,private,Wikimedia Executive
+extwiki,ext.wikipedia.org,wikipedia,ext,Extremaduran,public,open,public,Extremaduran Wikipedia
+fawiki,fa.wikipedia.org,wikipedia,fa,Persian,public,open,public,Persian Wikipedia
+fawikibooks,fa.wikibooks.org,wikibooks,fa,Persian,public,open,public,Persian Wikibooks
+fawikinews,fa.wikinews.org,wikinews,fa,Persian,public,open,public,Persian Wikinews
+fawikiquote,fa.wikiquote.org,wikiquote,fa,Persian,public,open,public,Persian Wikiquote
+fawikisource,fa.wikisource.org,wikisource,fa,Persian,public,open,public,Persian Wikisource
+fawikivoyage,fa.wikivoyage.org,wikivoyage,fa,Persian,public,open,public,Persian Wikivoyage
+fawiktionary,fa.wiktionary.org,wiktionary,fa,Persian,public,open,public,Persian Wiktionary
+fdcwiki,fdc.wikimedia.org,fdc,en,English,private,open,private,Wikimedia FDC
+ffwiki,ff.wikipedia.org,wikipedia,ff,Fulah,public,open,public,Fulah Wikipedia
+fiu_vrowiki,fiu-vro.wikipedia.org,wikipedia,fiu-vro,Võro,public,open,public,Võro Wikipedia
+fiwiki,fi.wikipedia.org,wikipedia,fi,Finnish,public,open,public,Finnish Wikipedia
+fiwikibooks,fi.wikibooks.org,wikibooks,fi,Finnish,public,open,public,Finnish Wikibooks
+fiwikimedia,fi.wikimedia.org,fiwikimedia,en,English,public,open,public,Wikimedia Finland
+fiwikinews,fi.wikinews.org,wikinews,fi,Finnish,public,open,public,Finnish Wikinews
+fiwikiquote,fi.wikiquote.org,wikiquote,fi,Finnish,public,open,public,Finnish Wikiquote
+fiwikisource,fi.wikisource.org,wikisource,fi,Finnish,public,open,public,Finnish Wikisource
+fiwikiversity,fi.wikiversity.org,wikiversity,fi,Finnish,public,open,public,Finnish Wikiversity
+fiwikivoyage,fi.wikivoyage.org,wikivoyage,fi,Finnish,public,open,public,Finnish Wikivoyage
+fiwiktionary,fi.wiktionary.org,wiktionary,fi,Finnish,public,open,public,Finnish Wiktionary
+fjwiki,fj.wikipedia.org,wikipedia,fj,Fijian,public,open,public,Fijian Wikipedia
+fjwiktionary,fj.wiktionary.org,wiktionary,fj,Fijian,public,open,public,Fijian Wiktionary
+foundationwiki,foundation.wikimedia.org,foundation,en,English,private,open,public,Wikimedia Foundation
+fowiki,fo.wikipedia.org,wikipedia,fo,Faroese,public,open,public,Faroese Wikipedia
+fowikisource,fo.wikisource.org,wikisource,fo,Faroese,public,open,public,Faroese Wikisource
+fowiktionary,fo.wiktionary.org,wiktionary,fo,Faroese,public,open,public,Faroese Wiktionary
+frpwiki,frp.wikipedia.org,wikipedia,frp,Arpitan,public,open,public,Arpitan Wikipedia
+frrwiki,frr.wikipedia.org,wikipedia,frr,Northern Frisian,public,open,public,Northern Frisian Wikipedia
+frwiki,fr.wikipedia.org,wikipedia,fr,French,public,open,public,French Wikipedia
+frwikibooks,fr.wikibooks.org,wikibooks,fr,French,public,open,public,French Wikibooks
+frwikinews,fr.wikinews.org,wikinews,fr,French,public,open,public,French Wikinews
+frwikiquote,fr.wikiquote.org,wikiquote,fr,French,public,open,public,French Wikiquote
+frwikisource,fr.wikisource.org,wikisource,fr,French,public,open,public,French Wikisource
+frwikiversity,fr.wikiversity.org,wikiversity,fr,French,public,open,public,French Wikiversity
+frwikivoyage,fr.wikivoyage.org,wikivoyage,fr,French,public,open,public,French Wikivoyage
+frwiktionary,fr.wiktionary.org,wiktionary,fr,French,public,open,public,French Wiktionary
+furwiki,fur.wikipedia.org,wikipedia,fur,Friulian,public,open,public,Friulian Wikipedia
+fywiki,fy.wikipedia.org,wikipedia,fy,Western Frisian,public,open,public,Western Frisian Wikipedia
+fywikibooks,fy.wikibooks.org,wikibooks,fy,Western Frisian,public,open,public,Western Frisian Wikibooks
+fywiktionary,fy.wiktionary.org,wiktionary,fy,Western Frisian,public,open,public,Western Frisian Wiktionary
+gagwiki,gag.wikipedia.org,wikipedia,gag,Gagauz,public,open,public,Gagauz Wikipedia
+ganwiki,gan.wikipedia.org,wikipedia,gan,Gan Chinese,public,open,public,Gan Chinese Wikipedia
+gawiki,ga.wikipedia.org,wikipedia,ga,Irish,public,open,public,Irish Wikipedia
+gawikibooks,ga.wikibooks.org,wikibooks,ga,Irish,public,closed,public,Irish Wikibooks
+gawikiquote,ga.wikiquote.org,wikiquote,ga,Irish,public,closed,public,Irish Wikiquote
+gawiktionary,ga.wiktionary.org,wiktionary,ga,Irish,public,open,public,Irish Wiktionary
+gcrwiki,gcr.wikipedia.org,wikipedia,gcr,Guianan Creole,public,open,public,Guianan Creole Wikipedia
+gdwiki,gd.wikipedia.org,wikipedia,gd,Scottish Gaelic,public,open,public,Scottish Gaelic Wikipedia
+gdwiktionary,gd.wiktionary.org,wiktionary,gd,Scottish Gaelic,public,open,public,Scottish Gaelic Wiktionary
+gewikimedia,ge.wikimedia.org,gewikimedia,ka,Georgian,private,open,public,Wikimedia Community User Group Georgia
+glkwiki,glk.wikipedia.org,wikipedia,glk,Gilaki,public,open,public,Gilaki Wikipedia
+glwiki,gl.wikipedia.org,wikipedia,gl,Galician,public,open,public,Galician Wikipedia
+glwikibooks,gl.wikibooks.org,wikibooks,gl,Galician,public,open,public,Galician Wikibooks
+glwikiquote,gl.wikiquote.org,wikiquote,gl,Galician,public,open,public,Galician Wikiquote
+glwikisource,gl.wikisource.org,wikisource,gl,Galician,public,open,public,Galician Wikisource
+glwiktionary,gl.wiktionary.org,wiktionary,gl,Galician,public,open,public,Galician Wiktionary
+gnwiki,gn.wikipedia.org,wikipedia,gn,Guarani,public,open,public,Guarani Wikipedia
+gnwikibooks,gn.wikibooks.org,wikibooks,gn,Guarani,public,closed,public,Guarani Wikibooks
+gnwiktionary,gn.wiktionary.org,wiktionary,gn,Guarani,public,open,public,Guarani Wiktionary
+gomwiki,gom.wikipedia.org,wikipedia,gom,Goan Konkani,public,open,public,Goan Konkani Wikipedia
+gorwiki,gor.wikipedia.org,wikipedia,gor,Gorontalo,public,open,public,Gorontalo Wikipedia
+gotwiki,got.wikipedia.org,wikipedia,got,Gothic,public,open,public,Gothic Wikipedia
+gotwikibooks,got.wikibooks.org,wikibooks,got,Gothic,public,closed,public,Gothic Wikibooks
+grantswiki,grants.wikimedia.org,grants,en,English,private,open,private,Wikimedia Foundation Grants Discussion
+guwiki,gu.wikipedia.org,wikipedia,gu,Gujarati,public,open,public,Gujarati Wikipedia
+guwikibooks,gu.wikibooks.org,wikibooks,gu,Gujarati,public,closed,public,Gujarati Wikibooks
+guwikiquote,gu.wikiquote.org,wikiquote,gu,Gujarati,public,open,public,Gujarati Wikiquote
+guwikisource,gu.wikisource.org,wikisource,gu,Gujarati,public,open,public,Gujarati Wikisource
+guwiktionary,gu.wiktionary.org,wiktionary,gu,Gujarati,public,open,public,Gujarati Wiktionary
+gvwiki,gv.wikipedia.org,wikipedia,gv,Manx,public,open,public,Manx Wikipedia
+gvwiktionary,gv.wiktionary.org,wiktionary,gv,Manx,public,open,public,Manx Wiktionary
+hakwiki,hak.wikipedia.org,wikipedia,hak,Hakka Chinese,public,open,public,Hakka Chinese Wikipedia
+hawiki,ha.wikipedia.org,wikipedia,ha,Hausa,public,open,public,Hausa Wikipedia
+hawiktionary,ha.wiktionary.org,wiktionary,ha,Hausa,public,open,public,Hausa Wiktionary
+hawwiki,haw.wikipedia.org,wikipedia,haw,Hawaiian,public,open,public,Hawaiian Wikipedia
+hewiki,he.wikipedia.org,wikipedia,he,Hebrew,public,open,public,Hebrew Wikipedia
+hewikibooks,he.wikibooks.org,wikibooks,he,Hebrew,public,open,public,Hebrew Wikibooks
+hewikinews,he.wikinews.org,wikinews,he,Hebrew,public,open,public,Hebrew Wikinews
+hewikiquote,he.wikiquote.org,wikiquote,he,Hebrew,public,open,public,Hebrew Wikiquote
+hewikisource,he.wikisource.org,wikisource,he,Hebrew,public,open,public,Hebrew Wikisource
+hewikivoyage,he.wikivoyage.org,wikivoyage,he,Hebrew,public,open,public,Hebrew Wikivoyage
+hewiktionary,he.wiktionary.org,wiktionary,he,Hebrew,public,open,public,Hebrew Wiktionary
+hifwiki,hif.wikipedia.org,wikipedia,hif,Fiji Hindi,public,open,public,Fiji Hindi Wikipedia
+hifwiktionary,hif.wiktionary.org,wiktionary,hif,Fiji Hindi,public,open,public,Fiji Hindi Wiktionary
+hiwiki,hi.wikipedia.org,wikipedia,hi,Hindi,public,open,public,Hindi Wikipedia
+hiwikibooks,hi.wikibooks.org,wikibooks,hi,Hindi,public,open,public,Hindi Wikibooks
+hiwikiquote,hi.wikiquote.org,wikiquote,hi,Hindi,public,open,public,Hindi Wikiquote
+hiwikisource,hi.wikisource.org,wikisource,hi,Hindi,public,open,public,Hindi Wikisource
+hiwikiversity,hi.wikiversity.org,wikiversity,hi,Hindi,public,open,public,Hindi Wikiversity
+hiwikivoyage,hi.wikivoyage.org,wikivoyage,hi,Hindi,public,open,public,Hindi Wikivoyage
+hiwiktionary,hi.wiktionary.org,wiktionary,hi,Hindi,public,open,public,Hindi Wiktionary
+howiki,ho.wikipedia.org,wikipedia,ho,Hiri Motu,public,closed,public,Hiri Motu Wikipedia
+hrwiki,hr.wikipedia.org,wikipedia,hr,Croatian,public,open,public,Croatian Wikipedia
+hrwikibooks,hr.wikibooks.org,wikibooks,hr,Croatian,public,open,public,Croatian Wikibooks
+hrwikiquote,hr.wikiquote.org,wikiquote,hr,Croatian,public,open,public,Croatian Wikiquote
+hrwikisource,hr.wikisource.org,wikisource,hr,Croatian,public,open,public,Croatian Wikisource
+hrwiktionary,hr.wiktionary.org,wiktionary,hr,Croatian,public,open,public,Croatian Wiktionary
+hsbwiki,hsb.wikipedia.org,wikipedia,hsb,Upper Sorbian,public,open,public,Upper Sorbian Wikipedia
+hsbwiktionary,hsb.wiktionary.org,wiktionary,hsb,Upper Sorbian,public,open,public,Upper Sorbian Wiktionary
+htwiki,ht.wikipedia.org,wikipedia,ht,Haitian Creole,public,open,public,Haitian Creole Wikipedia
+htwikisource,ht.wikisource.org,wikisource,ht,Haitian Creole,public,closed,public,Haitian Creole Wikisource
+huwiki,hu.wikipedia.org,wikipedia,hu,Hungarian,public,open,public,Hungarian Wikipedia
+huwikibooks,hu.wikibooks.org,wikibooks,hu,Hungarian,public,open,public,Hungarian Wikibooks
+huwikinews,hu.wikinews.org,wikinews,hu,Hungarian,public,closed,public,Hungarian Wikinews
+huwikiquote,hu.wikiquote.org,wikiquote,hu,Hungarian,public,open,public,Hungarian Wikiquote
+huwikisource,hu.wikisource.org,wikisource,hu,Hungarian,public,open,public,Hungarian Wikisource
+huwiktionary,hu.wiktionary.org,wiktionary,hu,Hungarian,public,open,public,Hungarian Wiktionary
+hywiki,hy.wikipedia.org,wikipedia,hy,Armenian,public,open,public,Armenian Wikipedia
+hywikibooks,hy.wikibooks.org,wikibooks,hy,Armenian,public,open,public,Armenian Wikibooks
+hywikiquote,hy.wikiquote.org,wikiquote,hy,Armenian,public,open,public,Armenian Wikiquote
+hywikisource,hy.wikisource.org,wikisource,hy,Armenian,public,open,public,Armenian Wikisource
+hywiktionary,hy.wiktionary.org,wiktionary,hy,Armenian,public,open,public,Armenian Wiktionary
+hywwiki,hyw.wikipedia.org,wikipedia,hyw,Western Armenian,public,open,public,Western Armenian Wikipedia
+hzwiki,hz.wikipedia.org,wikipedia,hz,Herero,public,closed,public,Herero Wikipedia
+iawiki,ia.wikipedia.org,wikipedia,ia,Interlingua,public,open,public,Interlingua Wikipedia
+iawikibooks,ia.wikibooks.org,wikibooks,ia,Interlingua,public,open,public,Interlingua Wikibooks
+iawiktionary,ia.wiktionary.org,wiktionary,ia,Interlingua,public,open,public,Interlingua Wiktionary
+id_internalwikimedia,id-internal.wikimedia.org,id-internalwikimedia,en,English,private,open,private,Wikimedia Indonesia (internal)
+idwiki,id.wikipedia.org,wikipedia,id,Indonesian,public,open,public,Indonesian Wikipedia
+idwikibooks,id.wikibooks.org,wikibooks,id,Indonesian,public,open,public,Indonesian Wikibooks
+idwikimedia,id.wikimedia.org,idwikimedia,en,English,private,open,public,Wikimedia Indonesia
+idwikiquote,id.wikiquote.org,wikiquote,id,Indonesian,public,open,public,Indonesian Wikiquote
+idwikisource,id.wikisource.org,wikisource,id,Indonesian,public,open,public,Indonesian Wikisource
+idwiktionary,id.wiktionary.org,wiktionary,id,Indonesian,public,open,public,Indonesian Wiktionary
+iegcomwiki,iegcom.wikimedia.org,iegcom,en,English,private,open,private,Individual Engagement Grants Committee Wiki
+iewiki,ie.wikipedia.org,wikipedia,ie,Interlingue,public,open,public,Interlingue Wikipedia
+iewikibooks,ie.wikibooks.org,wikibooks,ie,Interlingue,public,closed,public,Interlingue Wikibooks
+iewiktionary,ie.wiktionary.org,wiktionary,ie,Interlingue,public,open,public,Interlingue Wiktionary
+igwiki,ig.wikipedia.org,wikipedia,ig,Igbo,public,open,public,Igbo Wikipedia
+iiwiki,ii.wikipedia.org,wikipedia,ii,Sichuan Yi,public,closed,public,Sichuan Yi Wikipedia
+ikwiki,ik.wikipedia.org,wikipedia,ik,Inupiaq,public,open,public,Inupiaq Wikipedia
+ikwiktionary,ik.wiktionary.org,wiktionary,ik,Inupiaq,public,closed,public,Inupiaq Wiktionary
+ilowiki,ilo.wikipedia.org,wikipedia,ilo,Iloko,public,open,public,Iloko Wikipedia
+ilwikimedia,il.wikimedia.org,ilwikimedia,en,English,private,open,private,Wikimedia Israel
+incubatorwiki,incubator.wikimedia.org,incubator,en,English,public,open,public,Wikimedia Incubator
+inhwiki,inh.wikipedia.org,wikipedia,inh,Ingush,public,open,public,Ingush Wikipedia
+internalwiki,internal.wikimedia.org,internal,en,English,private,closed,private,Internal
+iowiki,io.wikipedia.org,wikipedia,io,Ido,public,open,public,Ido Wikipedia
+iowiktionary,io.wiktionary.org,wiktionary,io,Ido,public,open,public,Ido Wiktionary
+iswiki,is.wikipedia.org,wikipedia,is,Icelandic,public,open,public,Icelandic Wikipedia
+iswikibooks,is.wikibooks.org,wikibooks,is,Icelandic,public,open,public,Icelandic Wikibooks
+iswikiquote,is.wikiquote.org,wikiquote,is,Icelandic,public,open,public,Icelandic Wikiquote
+iswikisource,is.wikisource.org,wikisource,is,Icelandic,public,open,public,Icelandic Wikisource
+iswiktionary,is.wiktionary.org,wiktionary,is,Icelandic,public,open,public,Icelandic Wiktionary
+itwiki,it.wikipedia.org,wikipedia,it,Italian,public,open,public,Italian Wikipedia
+itwikibooks,it.wikibooks.org,wikibooks,it,Italian,public,open,public,Italian Wikibooks
+itwikinews,it.wikinews.org,wikinews,it,Italian,public,open,public,Italian Wikinews
+itwikiquote,it.wikiquote.org,wikiquote,it,Italian,public,open,public,Italian Wikiquote
+itwikisource,it.wikisource.org,wikisource,it,Italian,public,open,public,Italian Wikisource
+itwikiversity,it.wikiversity.org,wikiversity,it,Italian,public,open,public,Italian Wikiversity
+itwikivoyage,it.wikivoyage.org,wikivoyage,it,Italian,public,open,public,Italian Wikivoyage
+itwiktionary,it.wiktionary.org,wiktionary,it,Italian,public,open,public,Italian Wiktionary
+iuwiki,iu.wikipedia.org,wikipedia,iu,Inuktitut,public,open,public,Inuktitut Wikipedia
+iuwiktionary,iu.wiktionary.org,wiktionary,iu,Inuktitut,public,open,public,Inuktitut Wiktionary
+jamwiki,jam.wikipedia.org,wikipedia,jam,Jamaican Creole English,public,open,public,Jamaican Patois Wikipedia
+jawiki,ja.wikipedia.org,wikipedia,ja,Japanese,public,open,public,Japanese Wikipedia
+jawikibooks,ja.wikibooks.org,wikibooks,ja,Japanese,public,open,public,Japanese Wikibooks
+jawikinews,ja.wikinews.org,wikinews,ja,Japanese,public,open,public,Japanese Wikinews
+jawikiquote,ja.wikiquote.org,wikiquote,ja,Japanese,public,open,public,Japanese Wikiquote
+jawikisource,ja.wikisource.org,wikisource,ja,Japanese,public,open,public,Japanese Wikisource
+jawikiversity,ja.wikiversity.org,wikiversity,ja,Japanese,public,open,public,Japanese Wikiversity
+jawiktionary,ja.wiktionary.org,wiktionary,ja,Japanese,public,open,public,Japanese Wiktionary
+jbowiki,jbo.wikipedia.org,wikipedia,jbo,Lojban,public,open,public,Lojban Wikipedia
+jbowiktionary,jbo.wiktionary.org,wiktionary,jbo,Lojban,public,open,public,Lojban Wiktionary
+jvwiki,jv.wikipedia.org,wikipedia,jv,Javanese,public,open,public,Javanese Wikipedia
+jvwiktionary,jv.wiktionary.org,wiktionary,jv,Javanese,public,open,public,Javanese Wiktionary
+kaawiki,kaa.wikipedia.org,wikipedia,kaa,Kara-Kalpak,public,open,public,Kara-Kalpak Wikipedia
+kabwiki,kab.wikipedia.org,wikipedia,kab,Kabyle,public,open,public,Kabyle Wikipedia
+kawiki,ka.wikipedia.org,wikipedia,ka,Georgian,public,open,public,Georgian Wikipedia
+kawikibooks,ka.wikibooks.org,wikibooks,ka,Georgian,public,open,public,Georgian Wikibooks
+kawikiquote,ka.wikiquote.org,wikiquote,ka,Georgian,public,open,public,Georgian Wikiquote
+kawiktionary,ka.wiktionary.org,wiktionary,ka,Georgian,public,open,public,Georgian Wiktionary
+kbdwiki,kbd.wikipedia.org,wikipedia,kbd,Kabardian,public,open,public,Kabardian Wikipedia
+kbpwiki,kbp.wikipedia.org,wikipedia,kbp,Kabiye,public,open,public,Kabiyè Wikipedia
+kgwiki,kg.wikipedia.org,wikipedia,kg,Kongo,public,open,public,Kongo Wikipedia
+kiwiki,ki.wikipedia.org,wikipedia,ki,Kikuyu,public,open,public,Kikuyu Wikipedia
+kjwiki,kj.wikipedia.org,wikipedia,kj,Kuanyama,public,closed,public,Kuanyama Wikipedia
+kkwiki,kk.wikipedia.org,wikipedia,kk,Kazakh,public,open,public,Kazakh Wikipedia
+kkwikibooks,kk.wikibooks.org,wikibooks,kk,Kazakh,public,open,public,Kazakh Wikibooks
+kkwikiquote,kk.wikiquote.org,wikiquote,kk,Kazakh,public,closed,public,Kazakh Wikiquote
+kkwiktionary,kk.wiktionary.org,wiktionary,kk,Kazakh,public,open,public,Kazakh Wiktionary
+klwiki,kl.wikipedia.org,wikipedia,kl,Kalaallisut,public,open,public,Kalaallisut Wikipedia
+klwiktionary,kl.wiktionary.org,wiktionary,kl,Kalaallisut,public,open,public,Kalaallisut Wiktionary
+kmwiki,km.wikipedia.org,wikipedia,km,Khmer,public,open,public,Khmer Wikipedia
+kmwikibooks,km.wikibooks.org,wikibooks,km,Khmer,public,open,public,Khmer Wikibooks
+kmwiktionary,km.wiktionary.org,wiktionary,km,Khmer,public,open,public,Khmer Wiktionary
+knwiki,kn.wikipedia.org,wikipedia,kn,Kannada,public,open,public,Kannada Wikipedia
+knwikibooks,kn.wikibooks.org,wikibooks,kn,Kannada,public,closed,public,Kannada Wikibooks
+knwikiquote,kn.wikiquote.org,wikiquote,kn,Kannada,public,open,public,Kannada Wikiquote
+knwikisource,kn.wikisource.org,wikisource,kn,Kannada,public,open,public,Kannada Wikisource
+knwiktionary,kn.wiktionary.org,wiktionary,kn,Kannada,public,open,public,Kannada Wiktionary
+koiwiki,koi.wikipedia.org,wikipedia,koi,Komi-Permyak,public,open,public,Komi-Permyak Wikipedia
+kowiki,ko.wikipedia.org,wikipedia,ko,Korean,public,open,public,Korean Wikipedia
+kowikibooks,ko.wikibooks.org,wikibooks,ko,Korean,public,open,public,Korean Wikibooks
+kowikinews,ko.wikinews.org,wikinews,ko,Korean,public,open,public,Korean Wikinews
+kowikiquote,ko.wikiquote.org,wikiquote,ko,Korean,public,open,public,Korean Wikiquote
+kowikisource,ko.wikisource.org,wikisource,ko,Korean,public,open,public,Korean Wikisource
+kowikiversity,ko.wikiversity.org,wikiversity,ko,Korean,public,open,public,Korean Wikiversity
+kowiktionary,ko.wiktionary.org,wiktionary,ko,Korean,public,open,public,Korean Wiktionary
+krcwiki,krc.wikipedia.org,wikipedia,krc,Karachay-Balkar,public,open,public,Karachay-Balkar Wikipedia
+krwiki,kr.wikipedia.org,wikipedia,kr,Kanuri,public,closed,public,Kanuri Wikipedia
+krwikiquote,kr.wikiquote.org,wikiquote,kr,Kanuri,public,closed,public,Kanuri Wikiquote
+kshwiki,ksh.wikipedia.org,wikipedia,ksh,Colognian,public,open,public,Colognian Wikipedia
+kswiki,ks.wikipedia.org,wikipedia,ks,Kashmiri,public,open,public,Kashmiri Wikipedia
+kswikibooks,ks.wikibooks.org,wikibooks,ks,Kashmiri,public,closed,public,Kashmiri Wikibooks
+kswikiquote,ks.wikiquote.org,wikiquote,ks,Kashmiri,public,closed,public,Kashmiri Wikiquote
+kswiktionary,ks.wiktionary.org,wiktionary,ks,Kashmiri,public,open,public,Kashmiri Wiktionary
+kuwiki,ku.wikipedia.org,wikipedia,ku,Kurdish,public,open,public,Kurdish Wikipedia
+kuwikibooks,ku.wikibooks.org,wikibooks,ku,Kurdish,public,open,public,Kurdish Wikibooks
+kuwikiquote,ku.wikiquote.org,wikiquote,ku,Kurdish,public,open,public,Kurdish Wikiquote
+kuwiktionary,ku.wiktionary.org,wiktionary,ku,Kurdish,public,open,public,Kurdish Wiktionary
+kvwiki,kv.wikipedia.org,wikipedia,kv,Komi,public,open,public,Komi Wikipedia
+kwwiki,kw.wikipedia.org,wikipedia,kw,Cornish,public,open,public,Cornish Wikipedia
+kwwikiquote,kw.wikiquote.org,wikiquote,kw,Cornish,public,closed,public,Cornish Wikiquote
+kwwiktionary,kw.wiktionary.org,wiktionary,kw,Cornish,public,open,public,Cornish Wiktionary
+kywiki,ky.wikipedia.org,wikipedia,ky,Kyrgyz,public,open,public,Kyrgyz Wikipedia
+kywikibooks,ky.wikibooks.org,wikibooks,ky,Kyrgyz,public,open,public,Kyrgyz Wikibooks
+kywikiquote,ky.wikiquote.org,wikiquote,ky,Kyrgyz,public,open,public,Kyrgyz Wikiquote
+kywiktionary,ky.wiktionary.org,wiktionary,ky,Kyrgyz,public,open,public,Kyrgyz Wiktionary
+labswiki,wikitech.wikimedia.org,labs,en,English,public,open,public,Wikitech
+labtestwiki,labtestwikitech.wikimedia.org,labtest,en,English,public,open,public,Wikitech Test Wiki
+ladwiki,lad.wikipedia.org,wikipedia,lad,Ladino,public,open,public,Ladino Wikipedia
+lawiki,la.wikipedia.org,wikipedia,la,Latin,public,open,public,Latin Wikipedia
+lawikibooks,la.wikibooks.org,wikibooks,la,Latin,public,open,public,Latin Wikibooks
+lawikiquote,la.wikiquote.org,wikiquote,la,Latin,public,open,public,Latin Wikiquote
+lawikisource,la.wikisource.org,wikisource,la,Latin,public,open,public,Latin Wikisource
+lawiktionary,la.wiktionary.org,wiktionary,la,Latin,public,open,public,Latin Wiktionary
+lbewiki,lbe.wikipedia.org,wikipedia,lbe,Lak,public,open,public,Laki Wikipedia
+lbwiki,lb.wikipedia.org,wikipedia,lb,Luxembourgish,public,open,public,Luxembourgish Wikipedia
+lbwikibooks,lb.wikibooks.org,wikibooks,lb,Luxembourgish,public,closed,public,Luxembourgish Wikibooks
+lbwikiquote,lb.wikiquote.org,wikiquote,lb,Luxembourgish,public,closed,public,Luxembourgish Wikiquote
+lbwiktionary,lb.wiktionary.org,wiktionary,lb,Luxembourgish,public,open,public,Luxembourgish Wiktionary
+legalteamwiki,legalteam.wikimedia.org,legalteam,en,English,private,open,private,Legal Team Wiki
+lezwiki,lez.wikipedia.org,wikipedia,lez,Lezghian,public,open,public,Lezghian Wikipedia
+lfnwiki,lfn.wikipedia.org,wikipedia,lfn,Lingua Franca Nova,public,open,public,Lingua Franca Nova Wikipedia
+lgwiki,lg.wikipedia.org,wikipedia,lg,Ganda,public,open,public,Ganda Wikipedia
+lijwiki,lij.wikipedia.org,wikipedia,lij,Ligurian,public,open,public,Ligurian Wikipedia
+liwiki,li.wikipedia.org,wikipedia,li,Limburgish,public,open,public,Limburgish Wikipedia
+liwikibooks,li.wikibooks.org,wikibooks,li,Limburgish,public,open,public,Limburgish Wikibooks
+liwikinews,li.wikinews.org,wikinews,li,Limburgish,public,open,public,Limburgish Wikinews
+liwikiquote,li.wikiquote.org,wikiquote,li,Limburgish,public,open,public,Limburgish Wikiquote
+liwikisource,li.wikisource.org,wikisource,li,Limburgish,public,open,public,Limburgish Wikisource
+liwiktionary,li.wiktionary.org,wiktionary,li,Limburgish,public,open,public,Limburgish Wiktionary
+lmowiki,lmo.wikipedia.org,wikipedia,lmo,Lombard,public,open,public,Lombard Wikipedia
+lnwiki,ln.wikipedia.org,wikipedia,ln,Lingala,public,open,public,Lingala Wikipedia
+lnwikibooks,ln.wikibooks.org,wikibooks,ln,Lingala,public,closed,public,Lingala Wikibooks
+lnwiktionary,ln.wiktionary.org,wiktionary,ln,Lingala,public,open,public,Lingala Wiktionary
+loginwiki,login.wikimedia.org,login,en,English,public,open,public,Wikimedia Login Wiki
+lowiki,lo.wikipedia.org,wikipedia,lo,Lao,public,open,public,Lao Wikipedia
+lowiktionary,lo.wiktionary.org,wiktionary,lo,Lao,public,open,public,Lao Wiktionary
+lrcwiki,lrc.wikipedia.org,wikipedia,lrc,Northern Luri,public,open,public,Northern Luri Wikipedia
+ltgwiki,ltg.wikipedia.org,wikipedia,ltg,Latgalian,public,open,public,Latgalian Wikipedia
+ltwiki,lt.wikipedia.org,wikipedia,lt,Lithuanian,public,open,public,Lithuanian Wikipedia
+ltwikibooks,lt.wikibooks.org,wikibooks,lt,Lithuanian,public,open,public,Lithuanian Wikibooks
+ltwikiquote,lt.wikiquote.org,wikiquote,lt,Lithuanian,public,open,public,Lithuanian Wikiquote
+ltwikisource,lt.wikisource.org,wikisource,lt,Lithuanian,public,open,public,Lithuanian Wikisource
+ltwiktionary,lt.wiktionary.org,wiktionary,lt,Lithuanian,public,open,public,Lithuanian Wiktionary
+lvwiki,lv.wikipedia.org,wikipedia,lv,Latvian,public,open,public,Latvian Wikipedia
+lvwikibooks,lv.wikibooks.org,wikibooks,lv,Latvian,public,closed,public,Latvian Wikibooks
+lvwiktionary,lv.wiktionary.org,wiktionary,lv,Latvian,public,open,public,Latvian Wiktionary
+maiwiki,mai.wikipedia.org,wikipedia,mai,Maithili,public,open,public,Maithili Wikipedia
+maiwikimedia,mai.wikimedia.org,maiwikimedia,en,English,private,open,public,Maithili Wikimedians User Group
+map_bmswiki,map-bms.wikipedia.org,wikipedia,map-bms,Banyumasan,public,open,public,Basa Banyumasan Wikipedia
+mdfwiki,mdf.wikipedia.org,wikipedia,mdf,Moksha,public,open,public,Moksha Wikipedia
+mediawikiwiki,www.mediawiki.org,mediawiki,en,English,public,open,public,MediaWiki
+metawiki,meta.wikimedia.org,meta,en,English,public,open,public,Meta-Wiki
+mgwiki,mg.wikipedia.org,wikipedia,mg,Malagasy,public,open,public,Malagasy Wikipedia
+mgwikibooks,mg.wikibooks.org,wikibooks,mg,Malagasy,public,open,public,Malagasy Wikibooks
+mgwiktionary,mg.wiktionary.org,wiktionary,mg,Malagasy,public,open,public,Malagasy Wiktionary
+mhrwiki,mhr.wikipedia.org,wikipedia,mhr,Eastern Mari,public,open,public,Eastern Mari Wikipedia
+mhwiki,mh.wikipedia.org,wikipedia,mh,Marshallese,public,closed,public,Marshallese Wikipedia
+mhwiktionary,mh.wiktionary.org,wiktionary,mh,Marshallese,public,closed,public,Marshallese Wiktionary
+minwiki,min.wikipedia.org,wikipedia,min,Minangkabau,public,open,public,Minangkabau Wikipedia
+minwiktionary,min.wiktionary.org,wiktionary,min,Minangkabau,public,open,public,Minangkabau Wiktionary
+miwiki,mi.wikipedia.org,wikipedia,mi,Maori,public,open,public,Maori Wikipedia
+miwikibooks,mi.wikibooks.org,wikibooks,mi,Maori,public,closed,public,Maori Wikibooks
+miwiktionary,mi.wiktionary.org,wiktionary,mi,Maori,public,open,public,Maori Wiktionary
+mkwiki,mk.wikipedia.org,wikipedia,mk,Macedonian,public,open,public,Macedonian Wikipedia
+mkwikibooks,mk.wikibooks.org,wikibooks,mk,Macedonian,public,open,public,Macedonian Wikibooks
+mkwikimedia,mk.wikimedia.org,mkwikimedia,en,English,public,open,public,Wikimedia Macedonia
+mkwikisource,mk.wikisource.org,wikisource,mk,Macedonian,public,open,public,Macedonian Wikisource
+mkwiktionary,mk.wiktionary.org,wiktionary,mk,Macedonian,public,open,public,Macedonian Wiktionary
+mlwiki,ml.wikipedia.org,wikipedia,ml,Malayalam,public,open,public,Malayalam Wikipedia
+mlwikibooks,ml.wikibooks.org,wikibooks,ml,Malayalam,public,open,public,Malayalam Wikibooks
+mlwikiquote,ml.wikiquote.org,wikiquote,ml,Malayalam,public,open,public,Malayalam Wikiquote
+mlwikisource,ml.wikisource.org,wikisource,ml,Malayalam,public,open,public,Malayalam Wikisource
+mlwiktionary,ml.wiktionary.org,wiktionary,ml,Malayalam,public,open,public,Malayalam Wiktionary
+mnwiki,mn.wikipedia.org,wikipedia,mn,Mongolian,public,open,public,Mongolian Wikipedia
+mnwikibooks,mn.wikibooks.org,wikibooks,mn,Mongolian,public,closed,public,Mongolian Wikibooks
+mnwiktionary,mn.wiktionary.org,wiktionary,mn,Mongolian,public,open,public,Mongolian Wiktionary
+mnwwiki,mnw.wikipedia.org,wikipedia,mnw,Mon,public,open,public,Mon Wikipedia
+movementroleswiki,movementroles.wikimedia.org,movementroles,en,English,private,open,private,Movement Roles
+mrjwiki,mrj.wikipedia.org,wikipedia,mrj,Western Mari,public,open,public,Western Mari Wikipedia
+mrwiki,mr.wikipedia.org,wikipedia,mr,Marathi,public,open,public,Marathi Wikipedia
+mrwikibooks,mr.wikibooks.org,wikibooks,mr,Marathi,public,open,public,Marathi Wikibooks
+mrwikiquote,mr.wikiquote.org,wikiquote,mr,Marathi,public,open,public,Marathi Wikiquote
+mrwikisource,mr.wikisource.org,wikisource,mr,Marathi,public,open,public,Marathi Wikisource
+mrwiktionary,mr.wiktionary.org,wiktionary,mr,Marathi,public,open,public,Marathi Wiktionary
+mswiki,ms.wikipedia.org,wikipedia,ms,Malay,public,open,public,Malay Wikipedia
+mswikibooks,ms.wikibooks.org,wikibooks,ms,Malay,public,open,public,Malay Wikibooks
+mswiktionary,ms.wiktionary.org,wiktionary,ms,Malay,public,open,public,Malay Wiktionary
+mtwiki,mt.wikipedia.org,wikipedia,mt,Maltese,public,open,public,Maltese Wikipedia
+mtwiktionary,mt.wiktionary.org,wiktionary,mt,Maltese,public,open,public,Maltese Wiktionary
+muswiki,mus.wikipedia.org,wikipedia,mus,Muscogee,public,closed,public,Creek Wikipedia
+mwlwiki,mwl.wikipedia.org,wikipedia,mwl,Mirandese,public,open,public,Mirandese Wikipedia
+mxwikimedia,mx.wikimedia.org,mxwikimedia,en,English,public,open,public,Wikimedia Mexico
+myvwiki,myv.wikipedia.org,wikipedia,myv,Erzya,public,open,public,Erzya Wikipedia
+mywiki,my.wikipedia.org,wikipedia,my,Burmese,public,open,public,Burmese Wikipedia
+mywikibooks,my.wikibooks.org,wikibooks,my,Burmese,public,closed,public,Burmese Wikibooks
+mywiktionary,my.wiktionary.org,wiktionary,my,Burmese,public,open,public,Burmese Wiktionary
+mznwiki,mzn.wikipedia.org,wikipedia,mzn,Mazanderani,public,open,public,Mazanderani Wikipedia
+nahwiki,nah.wikipedia.org,wikipedia,nah,Nahuatl,public,open,public,Nāhuatl Wikipedia
+nahwikibooks,nah.wikibooks.org,wikibooks,nah,Nahuatl,public,closed,public,Nāhuatl Wikibooks
+nahwiktionary,nah.wiktionary.org,wiktionary,nah,Nahuatl,public,open,public,Nāhuatl Wiktionary
+napwiki,nap.wikipedia.org,wikipedia,nap,Neapolitan,public,open,public,Neapolitan Wikipedia
+napwikisource,nap.wikisource.org,wikisource,nap,Neapolitan,public,open,public,Neapolitan Wikisource
+nawiki,na.wikipedia.org,wikipedia,na,Nauru,public,open,public,Nauru Wikipedia
+nawikibooks,na.wikibooks.org,wikibooks,na,Nauru,public,closed,public,Nauru Wikibooks
+nawikiquote,na.wikiquote.org,wikiquote,na,Nauru,public,closed,public,Nauru Wikiquote
+nawiktionary,na.wiktionary.org,wiktionary,na,Nauru,public,open,public,Nauru Wiktionary
+nds_nlwiki,nds-nl.wikipedia.org,wikipedia,nds-nl,Low Saxon,public,open,public,Low Saxon Wikipedia
+ndswiki,nds.wikipedia.org,wikipedia,nds,Low German,public,open,public,Low German Wikipedia
+ndswikibooks,nds.wikibooks.org,wikibooks,nds,Low German,public,closed,public,Low German Wikibooks
+ndswikiquote,nds.wikiquote.org,wikiquote,nds,Low German,public,closed,public,Low German Wikiquote
+ndswiktionary,nds.wiktionary.org,wiktionary,nds,Low German,public,open,public,Low German Wiktionary
+newiki,ne.wikipedia.org,wikipedia,ne,Nepali,public,open,public,Nepali Wikipedia
+newikibooks,ne.wikibooks.org,wikibooks,ne,Nepali,public,open,public,Nepali Wikibooks
+newiktionary,ne.wiktionary.org,wiktionary,ne,Nepali,public,open,public,Nepali Wiktionary
+newwiki,new.wikipedia.org,wikipedia,new,Newari,public,open,public,Newari Wikipedia
+ngwiki,ng.wikipedia.org,wikipedia,ng,Ndonga,public,closed,public,Ndonga Wikipedia
+nlwiki,nl.wikipedia.org,wikipedia,nl,Dutch,public,open,public,Dutch Wikipedia
+nlwikibooks,nl.wikibooks.org,wikibooks,nl,Dutch,public,open,public,Dutch Wikibooks
+nlwikimedia,nl.wikimedia.org,nlwikimedia,en,English,public,open,public,Wikimedia Netherlands
+nlwikinews,nl.wikinews.org,wikinews,nl,Dutch,public,open,public,Dutch Wikinews
+nlwikiquote,nl.wikiquote.org,wikiquote,nl,Dutch,public,open,public,Dutch Wikiquote
+nlwikisource,nl.wikisource.org,wikisource,nl,Dutch,public,open,public,Dutch Wikisource
+nlwikivoyage,nl.wikivoyage.org,wikivoyage,nl,Dutch,public,open,public,Dutch Wikivoyage
+nlwiktionary,nl.wiktionary.org,wiktionary,nl,Dutch,public,open,public,Dutch Wiktionary
+nnwiki,nn.wikipedia.org,wikipedia,nn,Norwegian Nynorsk,public,open,public,Norwegian Nynorsk Wikipedia
+nnwikiquote,nn.wikiquote.org,wikiquote,nn,Norwegian Nynorsk,public,open,public,Norwegian Nynorsk Wikiquote
+nnwiktionary,nn.wiktionary.org,wiktionary,nn,Norwegian Nynorsk,public,open,public,Norwegian Nynorsk Wiktionary
+noboard_chapterswikimedia,noboard-chapters.wikimedia.org,noboard-chapterswikimedia,en,English,private,open,private,Wikimedia Norway Internal Board
+nostalgiawiki,nostalgia.wikipedia.org,nostalgia,en,English,private,open,public,Nostalgia Wikipedia
+novwiki,nov.wikipedia.org,wikipedia,nov,Novial,public,open,public,Novial Wikipedia
+nowiki,no.wikipedia.org,wikipedia,no,Norwegian,public,open,public,Norwegian Bokmål Wikipedia
+nowikibooks,no.wikibooks.org,wikibooks,no,Norwegian,public,open,public,Norwegian Wikibooks
+nowikimedia,no.wikimedia.org,nowikimedia,en,English,public,open,public,Wikimedia Norway
+nowikinews,no.wikinews.org,wikinews,no,Norwegian,public,open,public,Norwegian Wikinews
+nowikiquote,no.wikiquote.org,wikiquote,no,Norwegian,public,open,public,Norwegian Bokmål Wikiquote
+nowikisource,no.wikisource.org,wikisource,no,Norwegian,public,open,public,Norwegian Wikisource
+nowiktionary,no.wiktionary.org,wiktionary,no,Norwegian,public,open,public,Norwegian Bokmål Wiktionary
+nqowiki,nqo.wikipedia.org,wikipedia,nqo,N’Ko,public,open,public,N'Ko Wikipedia
+nrmwiki,nrm.wikipedia.org,wikipedia,nrm,Norman,public,open,public,Nouormand Wikipedia
+nsowiki,nso.wikipedia.org,wikipedia,nso,Northern Sotho,public,open,public,Northern Sotho Wikipedia
+nvwiki,nv.wikipedia.org,wikipedia,nv,Navajo,public,open,public,Navajo Wikipedia
+nycwikimedia,nyc.wikimedia.org,nycwikimedia,en,English,public,open,public,Wikimedia New York City
+nywiki,ny.wikipedia.org,wikipedia,ny,Nyanja,public,open,public,Nyanja Wikipedia
+nzwikimedia,nz.wikimedia.org,nzwikimedia,en,English,public,closed,public,Wikimedia New Zealand
+ocwiki,oc.wikipedia.org,wikipedia,oc,Occitan,public,open,public,Occitan Wikipedia
+ocwikibooks,oc.wikibooks.org,wikibooks,oc,Occitan,public,open,public,Occitan Wikibooks
+ocwiktionary,oc.wiktionary.org,wiktionary,oc,Occitan,public,open,public,Occitan Wiktionary
+officewiki,office.wikimedia.org,office,en,English,private,open,private,Wikimedia Office
+olowiki,olo.wikipedia.org,wikipedia,olo,Livvi-Karelian,public,open,public,Livvi-Karelian Wikipedia
+ombudsmenwiki,ombudsmen.wikimedia.org,ombudsmen,en,English,private,open,private,Ombudsmen Wiki
+omwiki,om.wikipedia.org,wikipedia,om,Oromo,public,open,public,Oromo Wikipedia
+omwiktionary,om.wiktionary.org,wiktionary,om,Oromo,public,open,public,Oromo Wiktionary
+orwiki,or.wikipedia.org,wikipedia,or,Odia,public,open,public,Oriya Wikipedia
+orwikisource,or.wikisource.org,wikisource,or,Odia,public,open,public,Oriya Wikisource
+orwiktionary,or.wiktionary.org,wiktionary,or,Odia,public,open,public,Oriya Wiktionary
+oswiki,os.wikipedia.org,wikipedia,os,Ossetic,public,open,public,Ossetic Wikipedia
+otrs_wikiwiki,otrs-wiki.wikimedia.org,otrs-wiki,en,English,private,open,private,OTRS Wiki
+outreachwiki,outreach.wikimedia.org,outreach,en,English,public,open,public,Outreach Wiki
+pa_uswikimedia,pa-us.wikimedia.org,pa-uswikimedia,en,English,public,closed,public,Wikimedia Pennsylvania
+pagwiki,pag.wikipedia.org,wikipedia,pag,Pangasinan,public,open,public,Pangasinan Wikipedia
+pamwiki,pam.wikipedia.org,wikipedia,pam,Pampanga,public,open,public,Pampanga Wikipedia
+papwiki,pap.wikipedia.org,wikipedia,pap,Papiamento,public,open,public,Papiamento Wikipedia
+pawiki,pa.wikipedia.org,wikipedia,pa,Punjabi,public,open,public,Punjabi Wikipedia
+pawikibooks,pa.wikibooks.org,wikibooks,pa,Punjabi,public,open,public,Punjabi Wikibooks
+pawiktionary,pa.wiktionary.org,wiktionary,pa,Punjabi,public,open,public,Punjabi Wiktionary
+pcdwiki,pcd.wikipedia.org,wikipedia,pcd,Picard,public,open,public,Picard Wikipedia
+pdcwiki,pdc.wikipedia.org,wikipedia,pdc,Pennsylvania German,public,open,public,Pennsylvania German Wikipedia
+pflwiki,pfl.wikipedia.org,wikipedia,pfl,Palatine German,public,open,public,Palatine German Wikipedia
+pihwiki,pih.wikipedia.org,wikipedia,pih,Norfuk-Pitkern,public,open,public,Norfuk / Pitkern Wikipedia
+piwiki,pi.wikipedia.org,wikipedia,pi,Pali,public,open,public,Pali Wikipedia
+piwiktionary,pi.wiktionary.org,wiktionary,pi,Pali,public,closed,public,Pali Wiktionary
+plwiki,pl.wikipedia.org,wikipedia,pl,Polish,public,open,public,Polish Wikipedia
+plwikibooks,pl.wikibooks.org,wikibooks,pl,Polish,public,open,public,Polish Wikibooks
+plwikimedia,pl.wikimedia.org,plwikimedia,en,English,public,open,public,Wikimedia Poland
+plwikinews,pl.wikinews.org,wikinews,pl,Polish,public,open,public,Polish Wikinews
+plwikiquote,pl.wikiquote.org,wikiquote,pl,Polish,public,open,public,Polish Wikiquote
+plwikisource,pl.wikisource.org,wikisource,pl,Polish,public,open,public,Polish Wikisource
+plwikivoyage,pl.wikivoyage.org,wikivoyage,pl,Polish,public,open,public,Polish Wikivoyage
+plwiktionary,pl.wiktionary.org,wiktionary,pl,Polish,public,open,public,Polish Wiktionary
+pmswiki,pms.wikipedia.org,wikipedia,pms,Piedmontese,public,open,public,Piedmontese Wikipedia
+pmswikisource,pms.wikisource.org,wikisource,pms,Piedmontese,public,open,public,Piedmontese Wikisource
+pnbwiki,pnb.wikipedia.org,wikipedia,pnb,Western Punjabi,public,open,public,Western Punjabi Wikipedia
+pnbwiktionary,pnb.wiktionary.org,wiktionary,pnb,Western Punjabi,public,open,public,Western Punjabi Wiktionary
+pntwiki,pnt.wikipedia.org,wikipedia,pnt,Pontic,public,open,public,Pontic Wikipedia
+pswiki,ps.wikipedia.org,wikipedia,ps,Pashto,public,open,public,Pashto Wikipedia
+pswikibooks,ps.wikibooks.org,wikibooks,ps,Pashto,public,closed,public,Pashto Wikibooks
+pswikivoyage,ps.wikivoyage.org,wikivoyage,ps,Pashto,public,open,public,Pashto Wikivoyage
+pswiktionary,ps.wiktionary.org,wiktionary,ps,Pashto,public,open,public,Pashto Wiktionary
+ptwiki,pt.wikipedia.org,wikipedia,pt,Portuguese,public,open,public,Portuguese Wikipedia
+ptwikibooks,pt.wikibooks.org,wikibooks,pt,Portuguese,public,open,public,Portuguese Wikibooks
+ptwikinews,pt.wikinews.org,wikinews,pt,Portuguese,public,open,public,Portuguese Wikinews
+ptwikiquote,pt.wikiquote.org,wikiquote,pt,Portuguese,public,open,public,Portuguese Wikiquote
+ptwikisource,pt.wikisource.org,wikisource,pt,Portuguese,public,open,public,Portuguese Wikisource
+ptwikiversity,pt.wikiversity.org,wikiversity,pt,Portuguese,public,open,public,Portuguese Wikiversity
+ptwikivoyage,pt.wikivoyage.org,wikivoyage,pt,Portuguese,public,open,public,Portuguese Wikivoyage
+ptwiktionary,pt.wiktionary.org,wiktionary,pt,Portuguese,public,open,public,Portuguese Wiktionary
+punjabiwikimedia,punjabi.wikimedia.org,punjabiwikimedia,en,English,private,open,public,Punjabi Wikimedians
+qualitywiki,quality.wikimedia.org,quality,en,English,public,closed,public,Wikimedia Quality
+quwiki,qu.wikipedia.org,wikipedia,qu,Quechua,public,open,public,Quechua Wikipedia
+quwikibooks,qu.wikibooks.org,wikibooks,qu,Quechua,public,closed,public,Quechua Wikibooks
+quwikiquote,qu.wikiquote.org,wikiquote,qu,Quechua,public,closed,public,Quechua Wikiquote
+quwiktionary,qu.wiktionary.org,wiktionary,qu,Quechua,public,open,public,Quechua Wiktionary
+rmwiki,rm.wikipedia.org,wikipedia,rm,Romansh,public,open,public,Romansh Wikipedia
+rmwikibooks,rm.wikibooks.org,wikibooks,rm,Romansh,public,closed,public,Romansh Wikibooks
+rmwiktionary,rm.wiktionary.org,wiktionary,rm,Romansh,public,closed,public,Romansh Wiktionary
+rmywiki,rmy.wikipedia.org,wikipedia,rmy,Vlax Romani,public,open,public,Romani Wikipedia
+rnwiki,rn.wikipedia.org,wikipedia,rn,Rundi,public,open,public,Rundi Wikipedia
+rnwiktionary,rn.wiktionary.org,wiktionary,rn,Rundi,public,closed,public,Rundi Wiktionary
+roa_rupwiki,roa-rup.wikipedia.org,wikipedia,roa-rup,Aromanian,public,open,public,Aromanian Wikipedia
+roa_rupwiktionary,roa-rup.wiktionary.org,wiktionary,roa-rup,Aromanian,public,open,public,Aromanian Wiktionary
+roa_tarawiki,roa-tara.wikipedia.org,wikipedia,roa-tara,Tarantino,public,open,public,Tarandíne Wikipedia
+rowiki,ro.wikipedia.org,wikipedia,ro,Romanian,public,open,public,Romanian Wikipedia
+rowikibooks,ro.wikibooks.org,wikibooks,ro,Romanian,public,open,public,Romanian Wikibooks
+rowikinews,ro.wikinews.org,wikinews,ro,Romanian,public,open,public,Romanian Wikinews
+rowikiquote,ro.wikiquote.org,wikiquote,ro,Romanian,public,open,public,Romanian Wikiquote
+rowikisource,ro.wikisource.org,wikisource,ro,Romanian,public,open,public,Romanian Wikisource
+rowikivoyage,ro.wikivoyage.org,wikivoyage,ro,Romanian,public,open,public,Romanian Wikivoyage
+rowiktionary,ro.wiktionary.org,wiktionary,ro,Romanian,public,open,public,Romanian Wiktionary
+rswikimedia,rs.wikimedia.org,rswikimedia,en,English,private,open,public,Wikimedia Serbia
+ruewiki,rue.wikipedia.org,wikipedia,rue,Rusyn,public,open,public,Rusyn Wikipedia
+ruwiki,ru.wikipedia.org,wikipedia,ru,Russian,public,open,public,Russian Wikipedia
+ruwikibooks,ru.wikibooks.org,wikibooks,ru,Russian,public,open,public,Russian Wikibooks
+ruwikimedia,ru.wikimedia.org,ruwikimedia,en,English,public,open,public,Wikimedia Russia
+ruwikinews,ru.wikinews.org,wikinews,ru,Russian,public,open,public,Russian Wikinews
+ruwikiquote,ru.wikiquote.org,wikiquote,ru,Russian,public,open,public,Russian Wikiquote
+ruwikisource,ru.wikisource.org,wikisource,ru,Russian,public,open,public,Russian Wikisource
+ruwikiversity,ru.wikiversity.org,wikiversity,ru,Russian,public,open,public,Russian Wikiversity
+ruwikivoyage,ru.wikivoyage.org,wikivoyage,ru,Russian,public,open,public,Russian Wikivoyage
+ruwiktionary,ru.wiktionary.org,wiktionary,ru,Russian,public,open,public,Russian Wiktionary
+rwwiki,rw.wikipedia.org,wikipedia,rw,Kinyarwanda,public,open,public,Kinyarwanda Wikipedia
+rwwiktionary,rw.wiktionary.org,wiktionary,rw,Kinyarwanda,public,open,public,Kinyarwanda Wiktionary
+sahwiki,sah.wikipedia.org,wikipedia,sah,Sakha,public,open,public,Sakha Wikipedia
+sahwikiquote,sah.wikiquote.org,wikiquote,sah,Sakha,public,open,public,Sakha Wikiquote
+sahwikisource,sah.wikisource.org,wikisource,sah,Sakha,public,open,public,Sakha Wikisource
+satwiki,sat.wikipedia.org,wikipedia,sat,Santali,public,open,public,Santali Wikipedia
+sawiki,sa.wikipedia.org,wikipedia,sa,Sanskrit,public,open,public,Sanskrit Wikipedia
+sawikibooks,sa.wikibooks.org,wikibooks,sa,Sanskrit,public,open,public,Sanskrit Wikibooks
+sawikiquote,sa.wikiquote.org,wikiquote,sa,Sanskrit,public,open,public,Sanskrit Wikiquote
+sawikisource,sa.wikisource.org,wikisource,sa,Sanskrit,public,open,public,Sanskrit Wikisource
+sawiktionary,sa.wiktionary.org,wiktionary,sa,Sanskrit,public,open,public,Sanskrit Wiktionary
+scnwiki,scn.wikipedia.org,wikipedia,scn,Sicilian,public,open,public,Sicilian Wikipedia
+scnwiktionary,scn.wiktionary.org,wiktionary,scn,Sicilian,public,open,public,Sicilian Wiktionary
+scowiki,sco.wikipedia.org,wikipedia,sco,Scots,public,open,public,Scots Wikipedia
+scwiki,sc.wikipedia.org,wikipedia,sc,Sardinian,public,open,public,Sardinian Wikipedia
+scwiktionary,sc.wiktionary.org,wiktionary,sc,Sardinian,public,closed,public,Sardinian Wiktionary
+sdwiki,sd.wikipedia.org,wikipedia,sd,Sindhi,public,open,public,Sindhi Wikipedia
+sdwikinews,sd.wikinews.org,wikinews,sd,Sindhi,public,closed,public,Sindhi Wikinews
+sdwiktionary,sd.wiktionary.org,wiktionary,sd,Sindhi,public,open,public,Sindhi Wiktionary
+searchcomwiki,searchcom.wikimedia.org,searchcom,en,English,private,open,private,Search Committee
+sewiki,se.wikipedia.org,wikipedia,se,Northern Sami,public,open,public,Northern Sami Wikipedia
+sewikibooks,se.wikibooks.org,wikibooks,se,Northern Sami,public,closed,public,Northern Sami Wikibooks
+sewikimedia,se.wikimedia.org,sewikimedia,en,English,public,open,public,Wikimedia Sweden
+sgwiki,sg.wikipedia.org,wikipedia,sg,Sango,public,open,public,Sango Wikipedia
+sgwiktionary,sg.wiktionary.org,wiktionary,sg,Sango,public,open,public,Sango Wiktionary
+shnwiki,shn.wikipedia.org,wikipedia,shn,Shan,public,open,public,Shan Wikipedia
+shwiki,sh.wikipedia.org,wikipedia,sh,Serbo-Croatian,public,open,public,Serbo-Croatian Wikipedia
+shwiktionary,sh.wiktionary.org,wiktionary,sh,Serbo-Croatian,public,open,public,Serbo-Croatian Wiktionary
+shywiktionary,shy.wiktionary.org,wiktionary,shy,Shawiya,public,open,public,Shawiya Wiktionary
+simplewiki,simple.wikipedia.org,wikipedia,simple,Simple English,public,open,public,Simple English Wikipedia
+simplewikibooks,simple.wikibooks.org,wikibooks,simple,Simple English,public,closed,public,Simple English Wikibooks
+simplewikiquote,simple.wikiquote.org,wikiquote,simple,Simple English,public,closed,public,Simple English Wikiquote
+simplewiktionary,simple.wiktionary.org,wiktionary,simple,Simple English,public,open,public,Simple English Wiktionary
+siwiki,si.wikipedia.org,wikipedia,si,Sinhala,public,open,public,Sinhala Wikipedia
+siwikibooks,si.wikibooks.org,wikibooks,si,Sinhala,public,open,public,Sinhala Wikibooks
+siwiktionary,si.wiktionary.org,wiktionary,si,Sinhala,public,open,public,Sinhala Wiktionary
+skwiki,sk.wikipedia.org,wikipedia,sk,Slovak,public,open,public,Slovak Wikipedia
+skwikibooks,sk.wikibooks.org,wikibooks,sk,Slovak,public,open,public,Slovak Wikibooks
+skwikiquote,sk.wikiquote.org,wikiquote,sk,Slovak,public,open,public,Slovak Wikiquote
+skwikisource,sk.wikisource.org,wikisource,sk,Slovak,public,open,public,Slovak Wikisource
+skwiktionary,sk.wiktionary.org,wiktionary,sk,Slovak,public,open,public,Slovak Wiktionary
+slwiki,sl.wikipedia.org,wikipedia,sl,Slovenian,public,open,public,Slovenian Wikipedia
+slwikibooks,sl.wikibooks.org,wikibooks,sl,Slovenian,public,open,public,Slovenian Wikibooks
+slwikiquote,sl.wikiquote.org,wikiquote,sl,Slovenian,public,open,public,Slovenian Wikiquote
+slwikisource,sl.wikisource.org,wikisource,sl,Slovenian,public,open,public,Slovenian Wikisource
+slwikiversity,sl.wikiversity.org,wikiversity,sl,Slovenian,public,open,public,Slovenian Wikiversity
+slwiktionary,sl.wiktionary.org,wiktionary,sl,Slovenian,public,open,public,Slovenian Wiktionary
+smwiki,sm.wikipedia.org,wikipedia,sm,Samoan,public,open,public,Samoan Wikipedia
+smwiktionary,sm.wiktionary.org,wiktionary,sm,Samoan,public,open,public,Samoan Wiktionary
+snwiki,sn.wikipedia.org,wikipedia,sn,Shona,public,open,public,Shona Wikipedia
+snwiktionary,sn.wiktionary.org,wiktionary,sn,Shona,public,closed,public,Shona Wiktionary
+sourceswiki,wikisource.org,sources,en,English,public,open,public,Multilingual Wikisource
+sowiki,so.wikipedia.org,wikipedia,so,Somali,public,open,public,Somali Wikipedia
+sowiktionary,so.wiktionary.org,wiktionary,so,Somali,public,open,public,Somali Wiktionary
+spcomwiki,spcom.wikimedia.org,spcom,en,English,private,open,private,Spcom
+specieswiki,species.wikimedia.org,species,en,English,public,open,public,Wikispecies
+sqwiki,sq.wikipedia.org,wikipedia,sq,Albanian,public,open,public,Albanian Wikipedia
+sqwikibooks,sq.wikibooks.org,wikibooks,sq,Albanian,public,open,public,Albanian Wikibooks
+sqwikinews,sq.wikinews.org,wikinews,sq,Albanian,public,open,public,Albanian Wikinews
+sqwikiquote,sq.wikiquote.org,wikiquote,sq,Albanian,public,open,public,Albanian Wikiquote
+sqwiktionary,sq.wiktionary.org,wiktionary,sq,Albanian,public,open,public,Albanian Wiktionary
+srnwiki,srn.wikipedia.org,wikipedia,srn,Sranan Tongo,public,open,public,Sranan Tongo Wikipedia
+srwiki,sr.wikipedia.org,wikipedia,sr,Serbian,public,open,public,Serbian Wikipedia
+srwikibooks,sr.wikibooks.org,wikibooks,sr,Serbian,public,open,public,Serbian Wikibooks
+srwikinews,sr.wikinews.org,wikinews,sr,Serbian,public,open,public,Serbian Wikinews
+srwikiquote,sr.wikiquote.org,wikiquote,sr,Serbian,public,open,public,Serbian Wikiquote
+srwikisource,sr.wikisource.org,wikisource,sr,Serbian,public,open,public,Serbian Wikisource
+srwiktionary,sr.wiktionary.org,wiktionary,sr,Serbian,public,open,public,Serbian Wiktionary
+sswiki,ss.wikipedia.org,wikipedia,ss,Swati,public,open,public,Swati Wikipedia
+sswiktionary,ss.wiktionary.org,wiktionary,ss,Swati,public,open,public,Swati Wiktionary
+stewardwiki,steward.wikimedia.org,steward,en,English,private,open,private,Steward Wiki
+stqwiki,stq.wikipedia.org,wikipedia,stq,Saterland Frisian,public,open,public,Saterland Frisian Wikipedia
+strategywiki,strategy.wikimedia.org,strategy,en,English,public,closed,public,Strategic Planning
+stwiki,st.wikipedia.org,wikipedia,st,Southern Sotho,public,open,public,Southern Sotho Wikipedia
+stwiktionary,st.wiktionary.org,wiktionary,st,Southern Sotho,public,open,public,Southern Sotho Wiktionary
+suwiki,su.wikipedia.org,wikipedia,su,Sundanese,public,open,public,Sundanese Wikipedia
+suwikibooks,su.wikibooks.org,wikibooks,su,Sundanese,public,closed,public,Sundanese Wikibooks
+suwikiquote,su.wikiquote.org,wikiquote,su,Sundanese,public,open,public,Sundanese Wikiquote
+suwiktionary,su.wiktionary.org,wiktionary,su,Sundanese,public,open,public,Sundanese Wiktionary
+svwiki,sv.wikipedia.org,wikipedia,sv,Swedish,public,open,public,Swedish Wikipedia
+svwikibooks,sv.wikibooks.org,wikibooks,sv,Swedish,public,open,public,Swedish Wikibooks
+svwikinews,sv.wikinews.org,wikinews,sv,Swedish,public,open,public,Swedish Wikinews
+svwikiquote,sv.wikiquote.org,wikiquote,sv,Swedish,public,open,public,Swedish Wikiquote
+svwikisource,sv.wikisource.org,wikisource,sv,Swedish,public,open,public,Swedish Wikisource
+svwikiversity,sv.wikiversity.org,wikiversity,sv,Swedish,public,open,public,Swedish Wikiversity
+svwikivoyage,sv.wikivoyage.org,wikivoyage,sv,Swedish,public,open,public,Swedish Wikivoyage
+svwiktionary,sv.wiktionary.org,wiktionary,sv,Swedish,public,open,public,Swedish Wiktionary
+swwiki,sw.wikipedia.org,wikipedia,sw,Swahili,public,open,public,Swahili Wikipedia
+swwikibooks,sw.wikibooks.org,wikibooks,sw,Swahili,public,closed,public,Swahili Wikibooks
+swwiktionary,sw.wiktionary.org,wiktionary,sw,Swahili,public,open,public,Swahili Wiktionary
+szlwiki,szl.wikipedia.org,wikipedia,szl,Silesian,public,open,public,Silesian Wikipedia
+szywiki,szy.wikipedia.org,wikipedia,szy,Sakizaya,public,open,public,Sakizaya Wikipedia
+tawiki,ta.wikipedia.org,wikipedia,ta,Tamil,public,open,public,Tamil Wikipedia
+tawikibooks,ta.wikibooks.org,wikibooks,ta,Tamil,public,open,public,Tamil Wikibooks
+tawikinews,ta.wikinews.org,wikinews,ta,Tamil,public,open,public,Tamil Wikinews
+tawikiquote,ta.wikiquote.org,wikiquote,ta,Tamil,public,open,public,Tamil Wikiquote
+tawikisource,ta.wikisource.org,wikisource,ta,Tamil,public,open,public,Tamil Wikisource
+tawiktionary,ta.wiktionary.org,wiktionary,ta,Tamil,public,open,public,Tamil Wiktionary
+tcywiki,tcy.wikipedia.org,wikipedia,tcy,Tulu,public,open,public,Tulu Wikipedia
+tenwiki,ten.wikipedia.org,ten,en,English,public,closed,public,Wikipedia 10
+test2wiki,test2.wikipedia.org,test2,en,English,public,open,public,Test2 Wikipedia
+testwiki,test.wikipedia.org,test,en,English,public,open,public,Test Wikipedia
+testwikidatawiki,test.wikidata.org,testwikidata,en,English,public,open,public,Wikidata Test Wiki
+tetwiki,tet.wikipedia.org,wikipedia,tet,Tetum,public,open,public,Tetum Wikipedia
+tewiki,te.wikipedia.org,wikipedia,te,Telugu,public,open,public,Telugu Wikipedia
+tewikibooks,te.wikibooks.org,wikibooks,te,Telugu,public,open,public,Telugu Wikibooks
+tewikiquote,te.wikiquote.org,wikiquote,te,Telugu,public,open,public,Telugu Wikiquote
+tewikisource,te.wikisource.org,wikisource,te,Telugu,public,open,public,Telugu Wikisource
+tewiktionary,te.wiktionary.org,wiktionary,te,Telugu,public,open,public,Telugu Wiktionary
+tgwiki,tg.wikipedia.org,wikipedia,tg,Tajik,public,open,public,Tajik Wikipedia
+tgwikibooks,tg.wikibooks.org,wikibooks,tg,Tajik,public,open,public,Tajik Wikibooks
+tgwiktionary,tg.wiktionary.org,wiktionary,tg,Tajik,public,open,public,Tajik Wiktionary
+thwiki,th.wikipedia.org,wikipedia,th,Thai,public,open,public,Thai Wikipedia
+thwikibooks,th.wikibooks.org,wikibooks,th,Thai,public,open,public,Thai Wikibooks
+thwikinews,th.wikinews.org,wikinews,th,Thai,public,closed,public,Thai Wikinews
+thwikiquote,th.wikiquote.org,wikiquote,th,Thai,public,open,public,Thai Wikiquote
+thwikisource,th.wikisource.org,wikisource,th,Thai,public,open,public,Thai Wikisource
+thwiktionary,th.wiktionary.org,wiktionary,th,Thai,public,open,public,Thai Wiktionary
+tiwiki,ti.wikipedia.org,wikipedia,ti,Tigrinya,public,open,public,Tigrinya Wikipedia
+tiwiktionary,ti.wiktionary.org,wiktionary,ti,Tigrinya,public,open,public,Tigrinya Wiktionary
+tkwiki,tk.wikipedia.org,wikipedia,tk,Turkmen,public,open,public,Turkmen Wikipedia
+tkwikibooks,tk.wikibooks.org,wikibooks,tk,Turkmen,public,closed,public,Turkmen Wikibooks
+tkwikiquote,tk.wikiquote.org,wikiquote,tk,Turkmen,public,closed,public,Turkmen Wikiquote
+tkwiktionary,tk.wiktionary.org,wiktionary,tk,Turkmen,public,open,public,Turkmen Wiktionary
+tlwiki,tl.wikipedia.org,wikipedia,tl,Tagalog,public,open,public,Tagalog Wikipedia
+tlwikibooks,tl.wikibooks.org,wikibooks,tl,Tagalog,public,open,public,Tagalog Wikibooks
+tlwiktionary,tl.wiktionary.org,wiktionary,tl,Tagalog,public,open,public,Tagalog Wiktionary
+tnwiki,tn.wikipedia.org,wikipedia,tn,Tswana,public,open,public,Tswana Wikipedia
+tnwiktionary,tn.wiktionary.org,wiktionary,tn,Tswana,public,open,public,Tswana Wiktionary
+towiki,to.wikipedia.org,wikipedia,to,Tongan,public,open,public,Tongan Wikipedia
+towiktionary,to.wiktionary.org,wiktionary,to,Tongan,public,closed,public,Tongan Wiktionary
+tpiwiki,tpi.wikipedia.org,wikipedia,tpi,Tok Pisin,public,open,public,Tok Pisin Wikipedia
+tpiwiktionary,tpi.wiktionary.org,wiktionary,tpi,Tok Pisin,public,open,public,Tok Pisin Wiktionary
+transitionteamwiki,transitionteam.wikimedia.org,transitionteam,en,English,private,closed,private,Transition Team Wiki
+trwiki,tr.wikipedia.org,wikipedia,tr,Turkish,public,open,public,Turkish Wikipedia
+trwikibooks,tr.wikibooks.org,wikibooks,tr,Turkish,public,open,public,Turkish Wikibooks
+trwikimedia,tr.wikimedia.org,trwikimedia,en,English,public,open,public,Wikimedia Turkey
+trwikinews,tr.wikinews.org,wikinews,tr,Turkish,public,open,public,Turkish Wikinews
+trwikiquote,tr.wikiquote.org,wikiquote,tr,Turkish,public,open,public,Turkish Wikiquote
+trwikisource,tr.wikisource.org,wikisource,tr,Turkish,public,open,public,Turkish Wikisource
+trwiktionary,tr.wiktionary.org,wiktionary,tr,Turkish,public,open,public,Turkish Wiktionary
+tswiki,ts.wikipedia.org,wikipedia,ts,Tsonga,public,open,public,Tsonga Wikipedia
+tswiktionary,ts.wiktionary.org,wiktionary,ts,Tsonga,public,open,public,Tsonga Wiktionary
+ttwiki,tt.wikipedia.org,wikipedia,tt,Tatar,public,open,public,Tatar Wikipedia
+ttwikibooks,tt.wikibooks.org,wikibooks,tt,Tatar,public,open,public,Tatar Wikibooks
+ttwikiquote,tt.wikiquote.org,wikiquote,tt,Tatar,public,closed,public,Tatar Wikiquote
+ttwiktionary,tt.wiktionary.org,wiktionary,tt,Tatar,public,open,public,Tatar Wiktionary
+tumwiki,tum.wikipedia.org,wikipedia,tum,Tumbuka,public,open,public,Tumbuka Wikipedia
+twwiki,tw.wikipedia.org,wikipedia,tw,Twi,public,open,public,Twi Wikipedia
+twwiktionary,tw.wiktionary.org,wiktionary,tw,Twi,public,closed,public,Twi Wiktionary
+tyvwiki,tyv.wikipedia.org,wikipedia,tyv,Tuvinian,public,open,public,Tuvinian Wikipedia
+tywiki,ty.wikipedia.org,wikipedia,ty,Tahitian,public,open,public,Tahitian Wikipedia
+uawikimedia,ua.wikimedia.org,uawikimedia,en,English,public,open,public,Wikimedia Ukraine
+udmwiki,udm.wikipedia.org,wikipedia,udm,Udmurt,public,open,public,Udmurt Wikipedia
+ugwiki,ug.wikipedia.org,wikipedia,ug,Uyghur,public,open,public,Uyghur Wikipedia
+ugwikibooks,ug.wikibooks.org,wikibooks,ug,Uyghur,public,closed,public,Uyghur Wikibooks
+ugwikiquote,ug.wikiquote.org,wikiquote,ug,Uyghur,public,closed,public,Uyghur Wikiquote
+ugwiktionary,ug.wiktionary.org,wiktionary,ug,Uyghur,public,open,public,Uyghur Wiktionary
+ukwiki,uk.wikipedia.org,wikipedia,uk,Ukrainian,public,open,public,Ukrainian Wikipedia
+ukwikibooks,uk.wikibooks.org,wikibooks,uk,Ukrainian,public,open,public,Ukrainian Wikibooks
+ukwikinews,uk.wikinews.org,wikinews,uk,Ukrainian,public,open,public,Ukrainian Wikinews
+ukwikiquote,uk.wikiquote.org,wikiquote,uk,Ukrainian,public,open,public,Ukrainian Wikiquote
+ukwikisource,uk.wikisource.org,wikisource,uk,Ukrainian,public,open,public,Ukrainian Wikisource
+ukwikivoyage,uk.wikivoyage.org,wikivoyage,uk,Ukrainian,public,open,public,Ukrainian Wikivoyage
+ukwiktionary,uk.wiktionary.org,wiktionary,uk,Ukrainian,public,open,public,Ukrainian Wiktionary
+urwiki,ur.wikipedia.org,wikipedia,ur,Urdu,public,open,public,Urdu Wikipedia
+urwikibooks,ur.wikibooks.org,wikibooks,ur,Urdu,public,open,public,Urdu Wikibooks
+urwikiquote,ur.wikiquote.org,wikiquote,ur,Urdu,public,open,public,Urdu Wikiquote
+urwiktionary,ur.wiktionary.org,wiktionary,ur,Urdu,public,open,public,Urdu Wiktionary
+usabilitywiki,usability.wikimedia.org,usability,en,English,public,closed,public,Wikimedia Usability Initiative
+uzwiki,uz.wikipedia.org,wikipedia,uz,Uzbek,public,open,public,Uzbek Wikipedia
+uzwikibooks,uz.wikibooks.org,wikibooks,uz,Uzbek,public,closed,public,Uzbek Wikibooks
+uzwikiquote,uz.wikiquote.org,wikiquote,uz,Uzbek,public,open,public,Uzbek Wikiquote
+uzwiktionary,uz.wiktionary.org,wiktionary,uz,Uzbek,public,open,public,Uzbek Wiktionary
+vecwiki,vec.wikipedia.org,wikipedia,vec,Venetian,public,open,public,Venetian Wikipedia
+vecwikisource,vec.wikisource.org,wikisource,vec,Venetian,public,open,public,Venetian Wikisource
+vecwiktionary,vec.wiktionary.org,wiktionary,vec,Venetian,public,open,public,Venetian Wiktionary
+vepwiki,vep.wikipedia.org,wikipedia,vep,Veps,public,open,public,Veps Wikipedia
+vewiki,ve.wikipedia.org,wikipedia,ve,Venda,public,open,public,Venda Wikipedia
+viwiki,vi.wikipedia.org,wikipedia,vi,Vietnamese,public,open,public,Vietnamese Wikipedia
+viwikibooks,vi.wikibooks.org,wikibooks,vi,Vietnamese,public,open,public,Vietnamese Wikibooks
+viwikiquote,vi.wikiquote.org,wikiquote,vi,Vietnamese,public,open,public,Vietnamese Wikiquote
+viwikisource,vi.wikisource.org,wikisource,vi,Vietnamese,public,open,public,Vietnamese Wikisource
+viwikivoyage,vi.wikivoyage.org,wikivoyage,vi,Vietnamese,public,open,public,Vietnamese Wikivoyage
+viwiktionary,vi.wiktionary.org,wiktionary,vi,Vietnamese,public,open,public,Vietnamese Wiktionary
+vlswiki,vls.wikipedia.org,wikipedia,vls,West Flemish,public,open,public,West Flemish Wikipedia
+votewiki,vote.wikimedia.org,vote,en,English,private,open,public,Wikimedia Vote Wiki
+vowiki,vo.wikipedia.org,wikipedia,vo,Volapük,public,open,public,Volapük Wikipedia
+vowikibooks,vo.wikibooks.org,wikibooks,vo,Volapük,public,closed,public,Volapük Wikibooks
+vowikiquote,vo.wikiquote.org,wikiquote,vo,Volapük,public,closed,public,Volapük Wikiquote
+vowiktionary,vo.wiktionary.org,wiktionary,vo,Volapük,public,open,public,Volapük Wiktionary
+warwiki,war.wikipedia.org,wikipedia,war,Waray,public,open,public,Waray Wikipedia
+wawiki,wa.wikipedia.org,wikipedia,wa,Walloon,public,open,public,Walloon Wikipedia
+wawikibooks,wa.wikibooks.org,wikibooks,wa,Walloon,public,closed,public,Walloon Wikibooks
+wawiktionary,wa.wiktionary.org,wiktionary,wa,Walloon,public,open,public,Walloon Wiktionary
+wg_enwiki,wg-en.wikipedia.org,wg-en,en,English,private,open,private,English Wikipedia Working Group
+wikidatawiki,www.wikidata.org,wikidata,en,English,public,open,public,Wikidata
+wikimania2005wiki,wikimania2005.wikimedia.org,wikimania2005,en,English,public,closed,public,Wikimania 2005 Wiki
+wikimania2006wiki,wikimania2006.wikimedia.org,wikimania2006,en,English,public,closed,public,Wikimania 2006 Wiki
+wikimania2007wiki,wikimania2007.wikimedia.org,wikimania2007,en,English,public,closed,public,Wikimania 2007 Wiki
+wikimania2008wiki,wikimania2008.wikimedia.org,wikimania2008,en,English,public,closed,public,Wikimania 2008 Wiki
+wikimania2009wiki,wikimania2009.wikimedia.org,wikimania2009,en,English,public,closed,public,Wikimania 2009 Wiki
+wikimania2010wiki,wikimania2010.wikimedia.org,wikimania2010,en,English,public,closed,public,Wikimania 2010 Wiki
+wikimania2011wiki,wikimania2011.wikimedia.org,wikimania2011,en,English,public,closed,public,Wikimania 2011 Wiki
+wikimania2012wiki,wikimania2012.wikimedia.org,wikimania2012,en,English,public,closed,public,Wikimania 2012 Wiki
+wikimania2013wiki,wikimania2013.wikimedia.org,wikimania2013,en,English,public,closed,public,Wikimania 2013 Wiki
+wikimania2014wiki,wikimania2014.wikimedia.org,wikimania2014,en,English,public,closed,public,Wikimania 2014 Wiki
+wikimania2015wiki,wikimania2015.wikimedia.org,wikimania2015,en,English,public,closed,public,Wikimania 2015 Wiki
+wikimania2016wiki,wikimania2016.wikimedia.org,wikimania2016,en,English,public,closed,public,Wikimania 2016 Wiki
+wikimania2017wiki,wikimania2017.wikimedia.org,wikimania2017,en,English,public,closed,public,Wikimania 2017 Wiki
+wikimania2018wiki,wikimania2018.wikimedia.org,wikimania2018,en,English,public,closed,public,Wikimania 2018 Wiki
+wikimaniateamwiki,wikimaniateam.wikimedia.org,wikimaniateam,en,English,private,open,private,WikimaniaTeam
+wikimaniawiki,wikimania.wikimedia.org,wikimania,en,English,public,open,public,Wikimania Wiki
+wowiki,wo.wikipedia.org,wikipedia,wo,Wolof,public,open,public,Wolof Wikipedia
+wowikiquote,wo.wikiquote.org,wikiquote,wo,Wolof,public,open,public,Wolof Wikiquote
+wowiktionary,wo.wiktionary.org,wiktionary,wo,Wolof,public,open,public,Wolof Wiktionary
+wuuwiki,wuu.wikipedia.org,wikipedia,wuu,Wu Chinese,public,open,public,Wu Chinese Wikipedia
+xalwiki,xal.wikipedia.org,wikipedia,xal,Kalmyk,public,open,public,Kalmyk Wikipedia
+xhwiki,xh.wikipedia.org,wikipedia,xh,Xhosa,public,open,public,Xhosa Wikipedia
+xhwikibooks,xh.wikibooks.org,wikibooks,xh,Xhosa,public,closed,public,Xhosa Wikibooks
+xhwiktionary,xh.wiktionary.org,wiktionary,xh,Xhosa,public,closed,public,Xhosa Wiktionary
+xmfwiki,xmf.wikipedia.org,wikipedia,xmf,Mingrelian,public,open,public,Mingrelian Wikipedia
+yiwiki,yi.wikipedia.org,wikipedia,yi,Yiddish,public,open,public,Yiddish Wikipedia
+yiwikisource,yi.wikisource.org,wikisource,yi,Yiddish,public,open,public,Yiddish Wikisource
+yiwiktionary,yi.wiktionary.org,wiktionary,yi,Yiddish,public,open,public,Yiddish Wiktionary
+yowiki,yo.wikipedia.org,wikipedia,yo,Yoruba,public,open,public,Yoruba Wikipedia
+yowikibooks,yo.wikibooks.org,wikibooks,yo,Yoruba,public,closed,public,Yoruba Wikibooks
+yowiktionary,yo.wiktionary.org,wiktionary,yo,Yoruba,public,closed,public,Yoruba Wiktionary
+zawiki,za.wikipedia.org,wikipedia,za,Zhuang,public,open,public,Zhuang Wikipedia
+zawikibooks,za.wikibooks.org,wikibooks,za,Zhuang,public,closed,public,Zhuang Wikibooks
+zawikiquote,za.wikiquote.org,wikiquote,za,Zhuang,public,closed,public,Zhuang Wikiquote
+zawiktionary,za.wiktionary.org,wiktionary,za,Zhuang,public,closed,public,Zhuang Wiktionary
+zeawiki,zea.wikipedia.org,wikipedia,zea,Zeelandic,public,open,public,Zeelandic Wikipedia
+zh_classicalwiki,zh-classical.wikipedia.org,wikipedia,zh-classical,Classical Chinese,public,open,public,Classical Chinese Wikipedia
+zh_min_nanwiki,zh-min-nan.wikipedia.org,wikipedia,zh-min-nan,Chinese (Min Nan),public,open,public,Min Nan Wikipedia
+zh_min_nanwikibooks,zh-min-nan.wikibooks.org,wikibooks,zh-min-nan,Chinese (Min Nan),public,closed,public,Min Nan Wikibooks
+zh_min_nanwikiquote,zh-min-nan.wikiquote.org,wikiquote,zh-min-nan,Chinese (Min Nan),public,closed,public,Min Nan Wikiquote
+zh_min_nanwikisource,zh-min-nan.wikisource.org,wikisource,zh-min-nan,Chinese (Min Nan),public,open,public,Min Nan Wikisource
+zh_min_nanwiktionary,zh-min-nan.wiktionary.org,wiktionary,zh-min-nan,Chinese (Min Nan),public,open,public,Min Nan Wiktionary
+zh_yuewiki,zh-yue.wikipedia.org,wikipedia,zh-yue,Cantonese,public,open,public,Cantonese Wikipedia
+zhwiki,zh.wikipedia.org,wikipedia,zh,Chinese,public,open,public,Chinese Wikipedia
+zhwikibooks,zh.wikibooks.org,wikibooks,zh,Chinese,public,open,public,Chinese Wikibooks
+zhwikinews,zh.wikinews.org,wikinews,zh,Chinese,public,open,public,Chinese Wikinews
+zhwikiquote,zh.wikiquote.org,wikiquote,zh,Chinese,public,open,public,Chinese Wikiquote
+zhwikisource,zh.wikisource.org,wikisource,zh,Chinese,public,open,public,Chinese Wikisource
+zhwikiversity,zh.wikiversity.org,wikiversity,zh,Chinese,public,open,public,Chinese Wikiversity
+zhwikivoyage,zh.wikivoyage.org,wikivoyage,zh,Chinese,public,open,public,Chinese Wikivoyage
+zhwiktionary,zh.wiktionary.org,wiktionary,zh,Chinese,public,open,public,Chinese Wiktionary
+zuwiki,zu.wikipedia.org,wikipedia,zu,Zulu,public,open,public,Zulu Wikipedia
+zuwikibooks,zu.wikibooks.org,wikibooks,zu,Zulu,public,closed,public,Zulu Wikibooks
+zuwiktionary,zu.wiktionary.org,wiktionary,zu,Zulu,public,open,public,Zulu Wiktionary
