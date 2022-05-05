@@ -30,6 +30,7 @@ angwiktionary,ang.wiktionary.org,wiktionary,ang,Old English,open,public,public,O
 anwiki,an.wikipedia.org,wikipedia,an,Aragonese,open,public,public,Aragonese Wikipedia
 anwiktionary,an.wiktionary.org,wiktionary,an,Aragonese,open,public,public,Aragonese Wiktionary
 apiportalwiki,api.wikimedia.org,apiportal,en,English,open,public,public,Wikimedia Api Portal
+arbcom_cswiki,arbcom-cs.wikipedia.org,arbcom-cs,en,English,open,private,private,Czech Wikipedia Arbitration Committee
 arbcom_dewiki,arbcom-de.wikipedia.org,arbcom-de,en,English,open,private,private,German Wikipedia Arbitration Committee
 arbcom_enwiki,arbcom-en.wikipedia.org,arbcom-en,en,English,open,private,private,English Wikipedia Arbitration Committee
 arbcom_fiwiki,arbcom-fi.wikipedia.org,arbcom-fi,en,English,open,private,private,Finnish Wikipedia Arbitration Committee
@@ -197,12 +198,14 @@ diqwiktionary,diq.wiktionary.org,wiktionary,diq,Zazaki,open,public,public,Zazaki
 dkwikimedia,dk.wikimedia.org,dkwikimedia,en,English,open,public,public,Wikimedia Denmark
 donatewiki,donate.wikimedia.org,donate,en,English,open,public,private,Donate
 dsbwiki,dsb.wikipedia.org,wikipedia,dsb,Lower Sorbian,open,public,public,Lower Sorbian Wikipedia
+dtywiki,dty.wikipedia.org,wikipedia,dty,Doteli,open,public,public,Doteli Wikipedia
 dvwiki,dv.wikipedia.org,wikipedia,dv,Divehi,open,public,public,Divehi Wikipedia
 dvwiktionary,dv.wiktionary.org,wiktionary,dv,Divehi,open,public,public,Divehi Wiktionary
 dzwiki,dz.wikipedia.org,wikipedia,dz,Dzongkha,open,public,public,Dzongkha Wikipedia
 dzwiktionary,dz.wiktionary.org,wiktionary,dz,Dzongkha,closed,public,public,Dzongkha Wiktionary
 ecwikimedia,ec.wikimedia.org,ecwikimedia,en,English,open,private,private,Wikimedistas de Ecuador
 eewiki,ee.wikipedia.org,wikipedia,ee,Ewe,open,public,public,Ewe Wikipedia
+electcomwiki,electcom.wikimedia.org,electcom,en,English,open,private,private,Wikimedia Foundation Elections Committee
 elwiki,el.wikipedia.org,wikipedia,el,Greek,open,public,public,Greek Wikipedia
 elwikibooks,el.wikibooks.org,wikibooks,el,Greek,open,public,public,Greek Wikibooks
 elwikinews,el.wikinews.org,wikinews,el,Greek,open,public,public,Greek Wikinews
@@ -318,6 +321,7 @@ guwikibooks,gu.wikibooks.org,wikibooks,gu,Gujarati,closed,public,public,Gujarati
 guwikiquote,gu.wikiquote.org,wikiquote,gu,Gujarati,open,public,public,Gujarati Wikiquote
 guwikisource,gu.wikisource.org,wikisource,gu,Gujarati,open,public,public,Gujarati Wikisource
 guwiktionary,gu.wiktionary.org,wiktionary,gu,Gujarati,open,public,public,Gujarati Wiktionary
+guwwiki,guw.wikipedia.org,wikipedia,guw,Gun,open,public,public,Gun Wikipedia
 gvwiki,gv.wikipedia.org,wikipedia,gv,Manx,open,public,public,Manx Wikipedia
 gvwiktionary,gv.wiktionary.org,wiktionary,gv,Manx,open,public,public,Manx Wiktionary
 hakwiki,hak.wikipedia.org,wikipedia,hak,Hakka Chinese,open,public,public,Hakka Chinese Wikipedia
@@ -335,6 +339,7 @@ hifwiki,hif.wikipedia.org,wikipedia,hif,Fiji Hindi,open,public,public,Fiji Hindi
 hifwiktionary,hif.wiktionary.org,wiktionary,hif,Fiji Hindi,open,public,public,Fiji Hindi Wiktionary
 hiwiki,hi.wikipedia.org,wikipedia,hi,Hindi,open,public,public,Hindi Wikipedia
 hiwikibooks,hi.wikibooks.org,wikibooks,hi,Hindi,open,public,public,Hindi Wikibooks
+hiwikimedia,hi.wikimedia.org,hiwikimedia,en,English,open,public,private,Hindi Wikimedians User Group
 hiwikiquote,hi.wikiquote.org,wikiquote,hi,Hindi,open,public,public,Hindi Wikiquote
 hiwikisource,hi.wikisource.org,wikisource,hi,Hindi,open,public,public,Hindi Wikisource
 hiwikiversity,hi.wikiversity.org,wikiversity,hi,Hindi,open,public,public,Hindi Wikiversity
@@ -624,7 +629,7 @@ ocwikibooks,oc.wikibooks.org,wikibooks,oc,Occitan,open,public,public,Occitan Wik
 ocwiktionary,oc.wiktionary.org,wiktionary,oc,Occitan,open,public,public,Occitan Wiktionary
 officewiki,office.wikimedia.org,office,en,English,open,private,private,Wikimedia Office
 olowiki,olo.wikipedia.org,wikipedia,olo,Livvi-Karelian,open,public,public,Livvi-Karelian Wikipedia
-ombudsmenwiki,ombudsmen.wikimedia.org,ombudsmen,en,English,open,private,private,Ombudsmen Wiki
+ombudsmenwiki,ombuds.wikimedia.org,ombudsmen,en,English,open,private,private,Ombuds Wiki
 omwiki,om.wikipedia.org,wikipedia,om,Oromo,open,public,public,Oromo Wikipedia
 omwiktionary,om.wiktionary.org,wiktionary,om,Oromo,open,public,public,Oromo Wiktionary
 orwiki,or.wikipedia.org,wikipedia,or,Odia,open,public,public,Oriya Wikipedia
@@ -639,6 +644,7 @@ pamwiki,pam.wikipedia.org,wikipedia,pam,Pampanga,open,public,public,Pampanga Wik
 papwiki,pap.wikipedia.org,wikipedia,pap,Papiamento,open,public,public,Papiamento Wikipedia
 pawiki,pa.wikipedia.org,wikipedia,pa,Punjabi,open,public,public,Punjabi Wikipedia
 pawikibooks,pa.wikibooks.org,wikibooks,pa,Punjabi,open,public,public,Punjabi Wikibooks
+pawikisource,pa.wikisource.org,wikisource,pa,Punjabi,open,public,public,Punjabi Wikisource
 pawiktionary,pa.wiktionary.org,wiktionary,pa,Punjabi,open,public,public,Punjabi Wiktionary
 pcdwiki,pcd.wikipedia.org,wikipedia,pcd,Picard,open,public,public,Picard Wikipedia
 pdcwiki,pdc.wikipedia.org,wikipedia,pdc,Pennsylvania German,open,public,public,Pennsylvania German Wikipedia
@@ -659,12 +665,14 @@ pmswikisource,pms.wikisource.org,wikisource,pms,Piedmontese,open,public,public,P
 pnbwiki,pnb.wikipedia.org,wikipedia,pnb,Western Punjabi,open,public,public,Western Punjabi Wikipedia
 pnbwiktionary,pnb.wiktionary.org,wiktionary,pnb,Western Punjabi,open,public,public,Western Punjabi Wiktionary
 pntwiki,pnt.wikipedia.org,wikipedia,pnt,Pontic,open,public,public,Pontic Wikipedia
+projectcomwiki,projectcom.wikimedia.org,projectcom,en,English,open,private,private,Project Grants Committee
 pswiki,ps.wikipedia.org,wikipedia,ps,Pashto,open,public,public,Pashto Wikipedia
 pswikibooks,ps.wikibooks.org,wikibooks,ps,Pashto,closed,public,public,Pashto Wikibooks
 pswikivoyage,ps.wikivoyage.org,wikivoyage,ps,Pashto,open,public,public,Pashto Wikivoyage
 pswiktionary,ps.wiktionary.org,wiktionary,ps,Pashto,open,public,public,Pashto Wiktionary
 ptwiki,pt.wikipedia.org,wikipedia,pt,Portuguese,open,public,public,Portuguese Wikipedia
 ptwikibooks,pt.wikibooks.org,wikibooks,pt,Portuguese,open,public,public,Portuguese Wikibooks
+ptwikimedia,pt.wikimedia.org,ptwikimedia,en,English,open,public,public,Wikimedia Portugal
 ptwikinews,pt.wikinews.org,wikinews,pt,Portuguese,open,public,public,Portuguese Wikinews
 ptwikiquote,pt.wikiquote.org,wikiquote,pt,Portuguese,open,public,public,Portuguese Wikiquote
 ptwikisource,pt.wikisource.org,wikisource,pt,Portuguese,open,public,public,Portuguese Wikisource
@@ -687,6 +695,7 @@ rnwiktionary,rn.wiktionary.org,wiktionary,rn,Rundi,closed,public,public,Rundi Wi
 roa_rupwiki,roa-rup.wikipedia.org,wikipedia,roa-rup,Aromanian,open,public,public,Aromanian Wikipedia
 roa_rupwiktionary,roa-rup.wiktionary.org,wiktionary,roa-rup,Aromanian,open,public,public,Aromanian Wiktionary
 roa_tarawiki,roa-tara.wikipedia.org,wikipedia,roa-tara,Tarantino,open,public,public,Tarandíne Wikipedia
+romdwikimedia,romd.wikimedia.org,romdwikimedia,en,English,open,public,private,Wikimedians of Romania and Moldova User Group
 rowiki,ro.wikipedia.org,wikipedia,ro,Romanian,open,public,public,Romanian Wikipedia
 rowikibooks,ro.wikibooks.org,wikibooks,ro,Romanian,open,public,public,Romanian Wikibooks
 rowikinews,ro.wikinews.org,wikinews,ro,Romanian,open,public,public,Romanian Wikinews
@@ -732,6 +741,7 @@ sgwiki,sg.wikipedia.org,wikipedia,sg,Sango,open,public,public,Sango Wikipedia
 sgwiktionary,sg.wiktionary.org,wiktionary,sg,Sango,open,public,public,Sango Wiktionary
 shiwiki,shi.wikipedia.org,wikipedia,shi,Tachelhit,open,public,public,Tachelhit Wikipedia
 shnwiki,shn.wikipedia.org,wikipedia,shn,Shan,open,public,public,Shan Wikipedia
+shnwikivoyage,shn.wikivoyage.org,wikivoyage,shn,Shan,open,public,public,Shan Wikivoyage
 shnwiktionary,shn.wiktionary.org,wiktionary,shn,Shan,open,public,public,Shan Wiktionary
 shwiki,sh.wikipedia.org,wikipedia,sh,Serbo-Croatian,open,public,public,Serbo-Croatian Wikipedia
 shwiktionary,sh.wiktionary.org,wiktionary,sh,Serbo-Croatian,open,public,public,Serbo-Croatian Wiktionary
@@ -811,8 +821,10 @@ tawikisource,ta.wikisource.org,wikisource,ta,Tamil,open,public,public,Tamil Wiki
 tawiktionary,ta.wiktionary.org,wiktionary,ta,Tamil,open,public,public,Tamil Wiktionary
 taywiki,tay.wikipedia.org,wikipedia,tay,Atayal,open,public,public,Atayal Wikipedia
 tcywiki,tcy.wikipedia.org,wikipedia,tcy,Tulu,open,public,public,Tulu Wikipedia
+techconductwiki,techconduct.wikimedia.org,techconduct,en,English,open,private,private,Code of Conduct Committee
 tenwiki,ten.wikipedia.org,ten,en,English,closed,public,public,Wikipedia 10
 test2wiki,test2.wikipedia.org,test2,en,English,open,public,public,Test2 Wikipedia
+testcommonswiki,test-commons.wikimedia.org,testcommons,en,English,open,public,public,Commons Test Wiki
 testwiki,test.wikipedia.org,test,en,English,open,public,public,Test Wikipedia
 testwikidatawiki,test.wikidata.org,testwikidata,en,English,open,public,public,Wikidata Test Wiki
 tetwiki,tet.wikipedia.org,wikipedia,tet,Tetum,open,public,public,Tetum Wikipedia
@@ -911,6 +923,7 @@ wawiki,wa.wikipedia.org,wikipedia,wa,Walloon,open,public,public,Walloon Wikipedi
 wawikibooks,wa.wikibooks.org,wikibooks,wa,Walloon,closed,public,public,Walloon Wikibooks
 wawikisource,wa.wikisource.org,wikisource,wa,Walloon,open,public,public,Walloon Wikisource
 wawiktionary,wa.wiktionary.org,wiktionary,wa,Walloon,open,public,public,Walloon Wiktionary
+wbwikimedia,wb.wikimedia.org,wbwikimedia,en,English,open,public,private,West Bengal Wikimedians User Group 
 wg_enwiki,wg-en.wikipedia.org,wg-en,en,English,open,private,private,English Wikipedia Working Group
 wikidatawiki,www.wikidata.org,wikidata,en,English,open,public,public,Wikidata
 wikimania2005wiki,wikimania2005.wikimedia.org,wikimania2005,en,English,closed,public,public,Wikimania 2005 Wiki
@@ -944,6 +957,7 @@ yiwiktionary,yi.wiktionary.org,wiktionary,yi,Yiddish,open,public,public,Yiddish 
 yowiki,yo.wikipedia.org,wikipedia,yo,Yoruba,open,public,public,Yoruba Wikipedia
 yowikibooks,yo.wikibooks.org,wikibooks,yo,Yoruba,closed,public,public,Yoruba Wikibooks
 yowiktionary,yo.wiktionary.org,wiktionary,yo,Yoruba,closed,public,public,Yoruba Wiktionary
+yuewiktionary,yue.wiktionary.org,wiktionary,yue,Cantonese,open,public,public,Cantonese Wiktionary
 zawiki,za.wikipedia.org,wikipedia,za,Zhuang,open,public,public,Zhuang Wikipedia
 zawikibooks,za.wikibooks.org,wikibooks,za,Zhuang,closed,public,public,Zhuang Wikibooks
 zawikiquote,za.wikiquote.org,wikiquote,za,Zhuang,closed,public,public,Zhuang Wikiquote
