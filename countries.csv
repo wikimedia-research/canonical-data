@@ -1,252 +1,252 @@
-name,iso_code,economic_region,maxmind_continent
-Afghanistan,AF,Global South,Asia
-Åland Islands,AX,Global North,Europe
-Albania,AL,Global North,Europe
-Algeria,DZ,Global South,Africa
-American Samoa,AS,Global South,Oceania
-Andorra,AD,Global North,Europe
-Angola,AO,Global South,Africa
-Anguilla,AI,Global South,North America
-Antarctica,AQ,Global South,Antarctica
-Antigua and Barbuda,AG,Global South,North America
-Argentina,AR,Global South,South America
-Armenia,AM,Global South,Asia
-Aruba,AW,Global South,North America
-Australia,AU,Global North,Oceania
-Austria,AT,Global North,Europe
-Azerbaijan,AZ,Global South,Asia
-Bahamas,BS,Global South,North America
-Bahrain,BH,Global South,Asia
-Bangladesh,BD,Global South,Asia
-Barbados,BB,Global South,North America
-Belarus,BY,Global South,Europe
-Belgium,BE,Global North,Europe
-Belize,BZ,Global South,North America
-Benin,BJ,Global South,Africa
-Bermuda,BM,Global North,North America
-Bhutan,BT,Global South,Asia
-Bolivia,BO,Global South,South America
-Bosnia and Herzegovina,BA,Global North,Europe
-Botswana,BW,Global South,Africa
-Bouvet Island,BV,Global North,Antarctica
-Brazil,BR,Global South,South America
-British Indian Ocean Territory,IO,Global South,Asia
-British Virgin Islands,VG,Global South,North America
-Brunei,BN,Global South,Asia
-Bulgaria,BG,Global North,Europe
-Burkina Faso,BF,Global South,Africa
-Burundi,BI,Global South,Africa
-Cambodia,KH,Global South,Asia
-Cameroon,CM,Global South,Africa
-Canada,CA,Global North,North America
-Cape Verde,CV,Global South,Africa
-"Bonaire, Sint Eustatius, and Saba",BQ,Global North,North America
-Cayman Islands,KY,Global South,North America
-Central African Republic,CF,Global South,Africa
-Chad,TD,Global South,Africa
-Chile,CL,Global South,South America
-China,CN,Global South,Asia
-Christmas Island,CX,Global South,Asia
-Cocos Islands,CC,Global South,Asia
-Colombia,CO,Global South,South America
-Comoros,KM,Global South,Africa
-Cook Islands,CK,Global South,Oceania
-Costa Rica,CR,Global South,North America
-Côte d'Ivoire,CI,Global South,Africa
-Croatia,HR,Global North,Europe
-Cuba,CU,Global South,North America
-Curaçao,CW,Global North,North America
-Cyprus,CY,Global North,Europe
-Czech Republic,CZ,Global North,Europe
-Democratic Republic of the Congo,CD,Global South,Africa
-Denmark,DK,Global North,Europe
-Djibouti,DJ,Global South,Africa
-Dominica,DM,Global South,North America
-Dominican Republic,DO,Global South,North America
-Ecuador,EC,Global South,South America
-Egypt,EG,Global South,Africa
-El Salvador,SV,Global South,North America
-Equatorial Guinea,GQ,Global South,Africa
-Eritrea,ER,Global South,Africa
-Estonia,EE,Global North,Europe
-Ethiopia,ET,Global South,Africa
-Falkland Islands,FK,Global South,South America
-Faroe Islands,FO,Global North,Europe
-Federated States of Micronesia,FM,Global South,Oceania
-Fiji,FJ,Global South,Oceania
-Finland,FI,Global North,Europe
-France,FR,Global North,Europe
-French Guiana,GF,Global South,South America
-French Polynesia,PF,Global South,Oceania
-French Southern and Antarctic Lands,TF,Global North,Antarctica
-Gabon,GA,Global South,Africa
-Gambia,GM,Global South,Africa
-Georgia,GE,Global South,Asia
-Germany,DE,Global North,Europe
-Ghana,GH,Global South,Africa
-Gibraltar,GI,Global North,Europe
-Greece,GR,Global North,Europe
-Greenland,GL,Global North,North America
-Grenada,GD,Global South,North America
-Guadeloupe,GP,Global South,North America
-Guam,GU,Global South,Oceania
-Guatemala,GT,Global South,North America
-Guernsey,GG,Global North,Europe
-Guinea,GN,Global South,Africa
-Guinea-Bissau,GW,Global South,Africa
-Guyana,GY,Global South,South America
-Haiti,HT,Global South,North America
-Heard Island and McDonald Islands,HM,Global South,Antarctica
-Honduras,HN,Global South,North America
-Hong Kong,HK,Global North,Asia
-Hungary,HU,Global North,Europe
-Iceland,IS,Global North,Europe
-India,IN,Global South,Asia
-Indonesia,ID,Global South,Asia
-Iran,IR,Global South,Asia
-Iraq,IQ,Global South,Asia
-Ireland,IE,Global North,Europe
-Isle of Man,IM,Global North,Europe
-Israel,IL,Global North,Asia
-Italy,IT,Global North,Europe
-Jamaica,JM,Global South,North America
-Japan,JP,Global North,Asia
-Jersey,JE,Global North,Europe
-Jordan,JO,Global South,Asia
-Kazakhstan,KZ,Global South,Asia
-Kenya,KE,Global South,Africa
-Kiribati,KI,Global South,Oceania
-Kosovo,XK,Global South,Europe
-Kuwait,KW,Global South,Asia
-Kyrgyzstan,KG,Global South,Asia
-Laos,LA,Global South,Asia
-Latvia,LV,Global North,Europe
-Lebanon,LB,Global South,Asia
-Lesotho,LS,Global South,Africa
-Liberia,LR,Global South,Africa
-Libya,LY,Global South,Africa
-Liechtenstein,LI,Global North,Europe
-Lithuania,LT,Global North,Europe
-Luxembourg,LU,Global North,Europe
-Macao,MO,Global North,Asia
-North Macedonia,MK,Global North,Europe
-Madagascar,MG,Global South,Africa
-Malawi,MW,Global South,Africa
-Malaysia,MY,Global South,Asia
-Maldives,MV,Global South,Asia
-Mali,ML,Global South,Africa
-Malta,MT,Global North,Europe
-Marshall Islands,MH,Global South,Oceania
-Martinique,MQ,Global South,North America
-Mauritania,MR,Global South,Africa
-Mauritius,MU,Global South,Africa
-Mayotte,YT,Global South,Africa
-Mexico,MX,Global South,North America
-Moldova,MD,Global North,Europe
-Monaco,MC,Global North,Europe
-Mongolia,MN,Global South,Asia
-Montenegro,ME,Global North,Europe
-Montserrat,MS,Global South,North America
-Morocco,MA,Global South,Africa
-Mozambique,MZ,Global South,Africa
-Myanmar,MM,Global South,Asia
-Namibia,NA,Global South,Africa
-Nauru,NR,Global South,Oceania
-Nepal,NP,Global South,Asia
-Netherlands,NL,Global North,Europe
-New Caledonia,NC,Global South,Oceania
-New Zealand,NZ,Global North,Oceania
-Nicaragua,NI,Global South,North America
-Niger,NE,Global South,Africa
-Nigeria,NG,Global South,Africa
-Niue,NU,Global South,Oceania
-Norfolk Island,NF,Global South,Oceania
-North Korea,KP,Global South,Asia
-Northern Mariana Islands,MP,Global South,Oceania
-Norway,NO,Global North,Europe
-Oman,OM,Global South,Asia
-Pakistan,PK,Global South,Asia
-Palau,PW,Global South,Oceania
-Palestine,PS,Global South,Asia
-Panama,PA,Global South,North America
-Papua New Guinea,PG,Global South,Oceania
-Paraguay,PY,Global South,South America
-Peru,PE,Global South,South America
-Philippines,PH,Global South,Asia
-Pitcairn Islands,PN,Global South,Oceania
-Poland,PL,Global North,Europe
-Portugal,PT,Global North,Europe
-Puerto Rico,PR,Global South,North America
-Qatar,QA,Global South,Asia
-Republic of the Congo,CG,Global South,Africa
-Réunion,RE,Global South,Africa
-Romania,RO,Global North,Europe
-Russia,RU,Global North,Europe
-Rwanda,RW,Global South,Africa
-Saint Barthélemy,BL,Global South,North America
-Saint Helena,SH,Global South,Africa
-Saint Kitts and Nevis,KN,Global South,North America
-Saint Lucia,LC,Global South,North America
-Saint Martin,MF,Global South,North America
-Saint Pierre and Miquelon,PM,Global North,North America
-Saint Vincent and the Grenadines,VC,Global South,North America
-Samoa,WS,Global South,Oceania
-San Marino,SM,Global North,Europe
-São Tomé and Príncipe,ST,Global South,Africa
-Saudi Arabia,SA,Global South,Asia
-Senegal,SN,Global South,Africa
-Serbia,RS,Global North,Europe
-Seychelles,SC,Global South,Africa
-Sierra Leone,SL,Global South,Africa
-Singapore,SG,Global North,Asia
-Sint Maarten,SX,Global South,North America
-Slovakia,SK,Global North,Europe
-Slovenia,SI,Global North,Europe
-Solomon Islands,SB,Global South,Oceania
-Somalia,SO,Global South,Africa
-South Africa,ZA,Global South,Africa
-South Georgia and the South Sandwich Islands,GS,Global South,Antarctica
-South Korea,KR,Global North,Asia
-South Sudan,SS,Global South,Africa
-Spain,ES,Global North,Europe
-Sri Lanka,LK,Global South,Asia
-Sudan,SD,Global South,Africa
-Suriname,SR,Global South,South America
-Svalbard and Jan Mayen,SJ,Global North,Europe
-Eswatini,SZ,Global South,Africa
-Sweden,SE,Global North,Europe
-Switzerland,CH,Global North,Europe
-Syria,SY,Global South,Asia
-Taiwan,TW,Global North,Asia
-Tajikistan,TJ,Global South,Asia
-Tanzania,TZ,Global South,Africa
-Thailand,TH,Global South,Asia
-Timor-Leste,TL,Global South,Oceania
-Togo,TG,Global South,Africa
-Tokelau,TK,Global South,Oceania
-Tonga,TO,Global South,Oceania
-Trinidad and Tobago,TT,Global South,North America
-Tunisia,TN,Global South,Africa
-Turkey,TR,Global North,Asia
-Turkmenistan,TM,Global South,Asia
-Turks and Caicos Islands,TC,Global South,North America
-Tuvalu,TV,Global South,Oceania
-Uganda,UG,Global South,Africa
-Ukraine,UA,Global South,Europe
-United Arab Emirates,AE,Global South,Asia
-United Kingdom,GB,Global North,Europe
-United States,US,Global North,North America
-United States Minor Outlying Islands,UM,Global South,Oceania
-United States Virgin Islands,VI,Global South,North America
-Uruguay,UY,Global South,South America
-Uzbekistan,UZ,Global South,Asia
-Vanuatu,VU,Global South,Oceania
-Vatican City,VA,Global North,Europe
-Venezuela,VE,Global South,South America
-Vietnam,VN,Global South,Asia
-Wallis and Futuna,WF,Global South,Oceania
-Western Sahara,EH,Global South,Africa
-Yemen,YE,Global South,Asia
-Zambia,ZM,Global South,Africa
-Zimbabwe,ZW,Global South,Africa
-unknown,--,unknown,unknown
+name,iso_code,economic_region,maxmind_continent,is_protected
+Afghanistan,AF,Global South,Asia,True
+Åland Islands,AX,Global North,Europe,False
+Albania,AL,Global North,Europe,False
+Algeria,DZ,Global South,Africa,False
+American Samoa,AS,Global South,Oceania,False
+Andorra,AD,Global North,Europe,False
+Angola,AO,Global South,Africa,False
+Anguilla,AI,Global South,North America,False
+Antarctica,AQ,Global South,Antarctica,False
+Antigua and Barbuda,AG,Global South,North America,False
+Argentina,AR,Global South,South America,False
+Armenia,AM,Global South,Asia,False
+Aruba,AW,Global South,North America,False
+Australia,AU,Global North,Oceania,False
+Austria,AT,Global North,Europe,False
+Azerbaijan,AZ,Global South,Asia,True
+Bahamas,BS,Global South,North America,False
+Bahrain,BH,Global South,Asia,True
+Bangladesh,BD,Global South,Asia,True
+Barbados,BB,Global South,North America,False
+Belarus,BY,Global South,Europe,True
+Belgium,BE,Global North,Europe,False
+Belize,BZ,Global South,North America,False
+Benin,BJ,Global South,Africa,False
+Bermuda,BM,Global North,North America,False
+Bhutan,BT,Global South,Asia,False
+Bolivia,BO,Global South,South America,False
+Bosnia and Herzegovina,BA,Global North,Europe,False
+Botswana,BW,Global South,Africa,False
+Bouvet Island,BV,Global North,Antarctica,False
+Brazil,BR,Global South,South America,False
+British Indian Ocean Territory,IO,Global South,Asia,False
+British Virgin Islands,VG,Global South,North America,False
+Brunei,BN,Global South,Asia,False
+Bulgaria,BG,Global North,Europe,False
+Burkina Faso,BF,Global South,Africa,False
+Burundi,BI,Global South,Africa,False
+Cambodia,KH,Global South,Asia,False
+Cameroon,CM,Global South,Africa,False
+Canada,CA,Global North,North America,False
+Cape Verde,CV,Global South,Africa,False
+"Bonaire, Sint Eustatius, and Saba",BQ,Global North,North America,False
+Cayman Islands,KY,Global South,North America,False
+Central African Republic,CF,Global South,Africa,False
+Chad,TD,Global South,Africa,False
+Chile,CL,Global South,South America,False
+China,CN,Global South,Asia,True
+Christmas Island,CX,Global South,Asia,False
+Cocos Islands,CC,Global South,Asia,False
+Colombia,CO,Global South,South America,False
+Comoros,KM,Global South,Africa,False
+Cook Islands,CK,Global South,Oceania,False
+Costa Rica,CR,Global South,North America,False
+Côte d'Ivoire,CI,Global South,Africa,False
+Croatia,HR,Global North,Europe,False
+Cuba,CU,Global South,North America,True
+Curaçao,CW,Global North,North America,False
+Cyprus,CY,Global North,Europe,False
+Czech Republic,CZ,Global North,Europe,False
+Democratic Republic of the Congo,CD,Global South,Africa,False
+Denmark,DK,Global North,Europe,False
+Djibouti,DJ,Global South,Africa,True
+Dominica,DM,Global South,North America,False
+Dominican Republic,DO,Global South,North America,False
+Ecuador,EC,Global South,South America,False
+Egypt,EG,Global South,Africa,True
+El Salvador,SV,Global South,North America,False
+Equatorial Guinea,GQ,Global South,Africa,False
+Eritrea,ER,Global South,Africa,True
+Estonia,EE,Global North,Europe,False
+Ethiopia,ET,Global South,Africa,True
+Falkland Islands,FK,Global South,South America,False
+Faroe Islands,FO,Global North,Europe,False
+Federated States of Micronesia,FM,Global South,Oceania,False
+Fiji,FJ,Global South,Oceania,False
+Finland,FI,Global North,Europe,False
+France,FR,Global North,Europe,False
+French Guiana,GF,Global South,South America,False
+French Polynesia,PF,Global South,Oceania,False
+French Southern and Antarctic Lands,TF,Global North,Antarctica,False
+Gabon,GA,Global South,Africa,False
+Gambia,GM,Global South,Africa,False
+Georgia,GE,Global South,Asia,False
+Germany,DE,Global North,Europe,False
+Ghana,GH,Global South,Africa,False
+Gibraltar,GI,Global North,Europe,False
+Greece,GR,Global North,Europe,False
+Greenland,GL,Global North,North America,False
+Grenada,GD,Global South,North America,False
+Guadeloupe,GP,Global South,North America,False
+Guam,GU,Global South,Oceania,False
+Guatemala,GT,Global South,North America,False
+Guernsey,GG,Global North,Europe,False
+Guinea,GN,Global South,Africa,False
+Guinea-Bissau,GW,Global South,Africa,False
+Guyana,GY,Global South,South America,False
+Haiti,HT,Global South,North America,False
+Heard Island and McDonald Islands,HM,Global South,Antarctica,False
+Honduras,HN,Global South,North America,True
+Hong Kong,HK,Global North,Asia,False
+Hungary,HU,Global North,Europe,False
+Iceland,IS,Global North,Europe,False
+India,IN,Global South,Asia,False
+Indonesia,ID,Global South,Asia,False
+Iran,IR,Global South,Asia,True
+Iraq,IQ,Global South,Asia,True
+Ireland,IE,Global North,Europe,False
+Isle of Man,IM,Global North,Europe,False
+Israel,IL,Global North,Asia,False
+Italy,IT,Global North,Europe,False
+Jamaica,JM,Global South,North America,False
+Japan,JP,Global North,Asia,False
+Jersey,JE,Global North,Europe,False
+Jordan,JO,Global South,Asia,False
+Kazakhstan,KZ,Global South,Asia,True
+Kenya,KE,Global South,Africa,False
+Kiribati,KI,Global South,Oceania,False
+Kosovo,XK,Global South,Europe,False
+Kuwait,KW,Global South,Asia,True
+Kyrgyzstan,KG,Global South,Asia,False
+Laos,LA,Global South,Asia,True
+Latvia,LV,Global North,Europe,False
+Lebanon,LB,Global South,Asia,False
+Lesotho,LS,Global South,Africa,False
+Liberia,LR,Global South,Africa,False
+Libya,LY,Global South,Africa,False
+Liechtenstein,LI,Global North,Europe,False
+Lithuania,LT,Global North,Europe,False
+Luxembourg,LU,Global North,Europe,False
+Macao,MO,Global North,Asia,False
+North Macedonia,MK,Global North,Europe,False
+Madagascar,MG,Global South,Africa,False
+Malawi,MW,Global South,Africa,False
+Malaysia,MY,Global South,Asia,False
+Maldives,MV,Global South,Asia,False
+Mali,ML,Global South,Africa,False
+Malta,MT,Global North,Europe,False
+Marshall Islands,MH,Global South,Oceania,False
+Martinique,MQ,Global South,North America,False
+Mauritania,MR,Global South,Africa,False
+Mauritius,MU,Global South,Africa,False
+Mayotte,YT,Global South,Africa,False
+Mexico,MX,Global South,North America,False
+Moldova,MD,Global North,Europe,False
+Monaco,MC,Global North,Europe,False
+Mongolia,MN,Global South,Asia,False
+Montenegro,ME,Global North,Europe,False
+Montserrat,MS,Global South,North America,False
+Morocco,MA,Global South,Africa,False
+Mozambique,MZ,Global South,Africa,False
+Myanmar,MM,Global South,Asia,True
+Namibia,NA,Global South,Africa,False
+Nauru,NR,Global South,Oceania,False
+Nepal,NP,Global South,Asia,False
+Netherlands,NL,Global North,Europe,False
+New Caledonia,NC,Global South,Oceania,False
+New Zealand,NZ,Global North,Oceania,False
+Nicaragua,NI,Global South,North America,True
+Niger,NE,Global South,Africa,False
+Nigeria,NG,Global South,Africa,False
+Niue,NU,Global South,Oceania,False
+Norfolk Island,NF,Global South,Oceania,False
+North Korea,KP,Global South,Asia,True
+Northern Mariana Islands,MP,Global South,Oceania,False
+Norway,NO,Global North,Europe,False
+Oman,OM,Global South,Asia,True
+Pakistan,PK,Global South,Asia,True
+Palau,PW,Global South,Oceania,False
+Palestine,PS,Global South,Asia,False
+Panama,PA,Global South,North America,False
+Papua New Guinea,PG,Global South,Oceania,False
+Paraguay,PY,Global South,South America,False
+Peru,PE,Global South,South America,False
+Philippines,PH,Global South,Asia,False
+Pitcairn Islands,PN,Global South,Oceania,False
+Poland,PL,Global North,Europe,False
+Portugal,PT,Global North,Europe,False
+Puerto Rico,PR,Global South,North America,False
+Qatar,QA,Global South,Asia,False
+Republic of the Congo,CG,Global South,Africa,False
+Réunion,RE,Global South,Africa,False
+Romania,RO,Global North,Europe,False
+Russia,RU,Global North,Europe,True
+Rwanda,RW,Global South,Africa,True
+Saint Barthélemy,BL,Global South,North America,False
+Saint Helena,SH,Global South,Africa,False
+Saint Kitts and Nevis,KN,Global South,North America,False
+Saint Lucia,LC,Global South,North America,False
+Saint Martin,MF,Global South,North America,False
+Saint Pierre and Miquelon,PM,Global North,North America,False
+Saint Vincent and the Grenadines,VC,Global South,North America,False
+Samoa,WS,Global South,Oceania,False
+San Marino,SM,Global North,Europe,False
+São Tomé and Príncipe,ST,Global South,Africa,False
+Saudi Arabia,SA,Global South,Asia,True
+Senegal,SN,Global South,Africa,False
+Serbia,RS,Global North,Europe,False
+Seychelles,SC,Global South,Africa,False
+Sierra Leone,SL,Global South,Africa,False
+Singapore,SG,Global North,Asia,False
+Sint Maarten,SX,Global South,North America,False
+Slovakia,SK,Global North,Europe,False
+Slovenia,SI,Global North,Europe,False
+Solomon Islands,SB,Global South,Oceania,False
+Somalia,SO,Global South,Africa,False
+South Africa,ZA,Global South,Africa,False
+South Georgia and the South Sandwich Islands,GS,Global South,Antarctica,False
+South Korea,KR,Global North,Asia,False
+South Sudan,SS,Global South,Africa,False
+Spain,ES,Global North,Europe,False
+Sri Lanka,LK,Global South,Asia,False
+Sudan,SD,Global South,Africa,True
+Suriname,SR,Global South,South America,False
+Svalbard and Jan Mayen,SJ,Global North,Europe,False
+Eswatini,SZ,Global South,Africa,False
+Sweden,SE,Global North,Europe,False
+Switzerland,CH,Global North,Europe,False
+Syria,SY,Global South,Asia,True
+Taiwan,TW,Global North,Asia,False
+Tajikistan,TJ,Global South,Asia,False
+Tanzania,TZ,Global South,Africa,False
+Thailand,TH,Global South,Asia,True
+Timor-Leste,TL,Global South,Oceania,False
+Togo,TG,Global South,Africa,False
+Tokelau,TK,Global South,Oceania,False
+Tonga,TO,Global South,Oceania,False
+Trinidad and Tobago,TT,Global South,North America,False
+Tunisia,TN,Global South,Africa,False
+Turkey,TR,Global North,Asia,True
+Turkmenistan,TM,Global South,Asia,True
+Turks and Caicos Islands,TC,Global South,North America,False
+Tuvalu,TV,Global South,Oceania,False
+Uganda,UG,Global South,Africa,False
+Ukraine,UA,Global South,Europe,False
+United Arab Emirates,AE,Global South,Asia,True
+United Kingdom,GB,Global North,Europe,False
+United States,US,Global North,North America,False
+United States Minor Outlying Islands,UM,Global South,Oceania,False
+United States Virgin Islands,VI,Global South,North America,False
+Uruguay,UY,Global South,South America,False
+Uzbekistan,UZ,Global South,Asia,True
+Vanuatu,VU,Global South,Oceania,False
+Vatican City,VA,Global North,Europe,False
+Venezuela,VE,Global South,South America,True
+Vietnam,VN,Global South,Asia,True
+Wallis and Futuna,WF,Global South,Oceania,False
+Western Sahara,EH,Global South,Africa,False
+Yemen,YE,Global South,Asia,True
+Zambia,ZM,Global South,Africa,False
+Zimbabwe,ZW,Global South,Africa,False
+unknown,--,unknown,unknown,False
