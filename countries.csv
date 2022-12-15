@@ -40,7 +40,7 @@ Cambodia,KH,Global South,Asia
 Cameroon,CM,Global South,Africa
 Canada,CA,Global North,North America
 Cape Verde,CV,Global South,Africa
-Caribbean Netherlands,BQ,Global North,North America
+"Bonaire, Sint Eustatius, and Saba",BQ,Global North,North America
 Cayman Islands,KY,Global South,North America
 Central African Republic,CF,Global South,Africa
 Chad,TD,Global South,Africa
@@ -129,7 +129,7 @@ Liechtenstein,LI,Global North,Europe
 Lithuania,LT,Global North,Europe
 Luxembourg,LU,Global North,Europe
 Macao,MO,Global North,Asia
-Macedonia,MK,Global North,Europe
+North Macedonia,MK,Global North,Europe
 Madagascar,MG,Global South,Africa
 Malawi,MW,Global South,Africa
 Malaysia,MY,Global South,Asia
@@ -213,7 +213,7 @@ Sri Lanka,LK,Global South,Asia
 Sudan,SD,Global South,Africa
 Suriname,SR,Global South,South America
 Svalbard and Jan Mayen,SJ,Global North,Europe
-Swaziland,SZ,Global South,Africa
+Eswatini,SZ,Global South,Africa
 Sweden,SE,Global North,Europe
 Switzerland,CH,Global North,Europe
 Syria,SY,Global South,Asia
