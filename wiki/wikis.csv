@@ -53,6 +53,7 @@ astwikiquote,ast.wikiquote.org,wikiquote,ast,Asturian,closed,public,public,Astur
 astwiktionary,ast.wiktionary.org,wiktionary,ast,Asturian,open,public,public,Asturian Wiktionary
 aswiki,as.wikipedia.org,wikipedia,as,Assamese,open,public,public,Assamese Wikipedia
 aswikibooks,as.wikibooks.org,wikibooks,as,Assamese,closed,public,public,Assamese Wikibooks
+aswikiquote,as.wikiquote.org,wikiquote,as,Assamese,open,public,public,Assamese Wikiquote
 aswikisource,as.wikisource.org,wikisource,as,Assamese,open,public,public,Assamese Wikisource
 aswiktionary,as.wiktionary.org,wiktionary,as,Assamese,closed,public,public,Assamese Wiktionary
 atjwiki,atj.wikipedia.org,wikipedia,atj,Atikamekw,open,public,public,Atikamekw Wikipedia
@@ -316,6 +317,7 @@ gnwiktionary,gn.wiktionary.org,wiktionary,gn,Guarani,open,public,public,Guarani 
 gomwiki,gom.wikipedia.org,wikipedia,gom,Goan Konkani,open,public,public,Goan Konkani Wikipedia
 gomwiktionary,gom.wiktionary.org,wiktionary,gom,Goan Konkani,open,public,public,Goan Konkani Wiktionary
 gorwiki,gor.wikipedia.org,wikipedia,gor,Gorontalo,open,public,public,Gorontalo Wikipedia
+gorwiktionary,gor.wiktionary.org,wiktionary,gor,Gorontalo,open,public,public,Gorontalo Wiktionary
 gotwiki,got.wikipedia.org,wikipedia,got,Gothic,open,public,public,Gothic Wikipedia
 gotwikibooks,got.wikibooks.org,wikibooks,got,Gothic,closed,public,public,Gothic Wikibooks
 grantswiki,grants.wikimedia.org,grants,en,English,open,private,private,Wikimedia Foundation Grants Discussion
@@ -326,6 +328,7 @@ guwikiquote,gu.wikiquote.org,wikiquote,gu,Gujarati,open,public,public,Gujarati W
 guwikisource,gu.wikisource.org,wikisource,gu,Gujarati,open,public,public,Gujarati Wikisource
 guwiktionary,gu.wiktionary.org,wiktionary,gu,Gujarati,open,public,public,Gujarati Wiktionary
 guwwiki,guw.wikipedia.org,wikipedia,guw,Gun,open,public,public,Gun Wikipedia
+guwwikiquote,guw.wikiquote.org,wikiquote,guw,Gun,open,public,public,Gun Wikiquote
 guwwiktionary,guw.wiktionary.org,wiktionary,guw,Gun,open,public,public,Gun Wiktionary
 gvwiki,gv.wikipedia.org,wikipedia,gv,Manx,open,public,public,Manx Wikipedia
 gvwiktionary,gv.wiktionary.org,wiktionary,gv,Manx,open,public,public,Manx Wiktionary
@@ -750,6 +753,7 @@ sgwiki,sg.wikipedia.org,wikipedia,sg,Sango,open,public,public,Sango Wikipedia
 sgwiktionary,sg.wiktionary.org,wiktionary,sg,Sango,open,public,public,Sango Wiktionary
 shiwiki,shi.wikipedia.org,wikipedia,shi,Tachelhit,open,public,public,Tachelhit Wikipedia
 shnwiki,shn.wikipedia.org,wikipedia,shn,Shan,open,public,public,Shan Wikipedia
+shnwikibooks,shn.wikibooks.org,wikibooks,shn,Shan,open,public,public,Shan Wikibooks
 shnwikivoyage,shn.wikivoyage.org,wikivoyage,shn,Shan,open,public,public,Shan Wikivoyage
 shnwiktionary,shn.wiktionary.org,wiktionary,shn,Shan,open,public,public,Shan Wiktionary
 shwiki,sh.wikipedia.org,wikipedia,sh,Serbo-Croatian,open,public,public,Serbo-Croatian Wikipedia
