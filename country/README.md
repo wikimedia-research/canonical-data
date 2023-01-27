@@ -9,6 +9,9 @@ The country's common English name (generally the title chosen by the English Wik
 ### `iso_code`
 The country's [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code or equivalent.
 
+> **Warning**
+> Nambia has the code `NA`. By default, `pandas.read_csv` interprets this as a null. To prevent this, you can use the `na_filter=False` parameter.
+
 ### `economic_region`
 A classification of the country as ["Global North" or "Global South"](https://en.wikipedia.org/wiki/Global_North_and_Global_South).
 
