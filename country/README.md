@@ -10,7 +10,7 @@ The country's common English name (generally the title chosen by the English Wik
 The country's [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code or equivalent.
 
 ### `economic_region`
-A classification of the country as ["Global North" or "Global South"](https://en.wikipedia.org/wiki/Global_North_and_Global_South)).
+A classification of the country as ["Global North" or "Global South"](https://en.wikipedia.org/wiki/Global_North_and_Global_South).
 
 ### `maxmind_continent`
 The country's continent according to MaxMind's databases.
