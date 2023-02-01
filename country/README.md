@@ -19,4 +19,7 @@ A classification of the country as ["Global North" or "Global South"](https://en
 The country's continent according to MaxMind's databases.
 
 ### `is_protected`
-Whether the country appears in Wikimedia's [country protection list](https://wikitech.wikimedia.org/wiki/Country_protection_list) indicating that statistics for the country should not be shared publicly.
+Whether the country appears in Wikimedia's [country protection list](https://wikitech.wikimedia.org/wiki/Country_protection_list) indicating that statistics for the country should not be shared publicly. Either `True` or `False`.
+
+### `is_eu`
+Whether the country appears in this [list of countries](https://european-union.europa.eu/principles-countries-history/country-profiles_en) or in this [list of special territories](https://en.wikipedia.org/wiki/Special_territories_of_members_of_the_European_Economic_Area), indicating that it belongs to the European Union. Either `True` or `False`.
