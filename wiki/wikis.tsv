@@ -27,6 +27,7 @@ angwikibooks	ang.wikibooks.org	wikibooks	ang	Old English	closed	public	public	Ol
 angwikiquote	ang.wikiquote.org	wikiquote	ang	Old English	closed	public	public	Old English Wikiquote
 angwikisource	ang.wikisource.org	wikisource	ang	Old English	closed	public	public	Old English Wikisource
 angwiktionary	ang.wiktionary.org	wiktionary	ang	Old English	open	public	public	Old English Wiktionary
+anpwiki	anp.wikipedia.org	wikipedia	anp	Angika	open	public	public	Angika Wikipedia
 anwiki	an.wikipedia.org	wikipedia	an	Aragonese	open	public	public	Aragonese Wikipedia
 anwiktionary	an.wiktionary.org	wiktionary	an	Aragonese	open	public	public	Aragonese Wiktionary
 apiportalwiki	api.wikimedia.org	apiportal	en	English	open	public	public	Wikimedia Api Portal
@@ -68,7 +69,7 @@ aywiktionary	ay.wiktionary.org	wiktionary	ay	Aymara	open	public	public	Aymara Wi
 azbwiki	azb.wikipedia.org	wikipedia	azb	South Azerbaijani	open	public	public	South Azerbaijani Wikipedia
 azwiki	az.wikipedia.org	wikipedia	az	Azerbaijani	open	public	public	Azerbaijani Wikipedia
 azwikibooks	az.wikibooks.org	wikibooks	az	Azerbaijani	open	public	public	Azerbaijani Wikibooks
-azwikimedia	az.wikipedia.org	wikimedia	az	Azerbaijani	open	public	private	Azerbaijani Wikimedians User Group
+azwikimedia	az.wikimedia.org	azwikimedia	en	English	open	public	private	Azerbaijani Wikimedians User Group
 azwikiquote	az.wikiquote.org	wikiquote	az	Azerbaijani	open	public	public	Azerbaijani Wikiquote
 azwikisource	az.wikisource.org	wikisource	az	Azerbaijani	open	public	public	Azerbaijani Wikisource
 azwiktionary	az.wiktionary.org	wiktionary	az	Azerbaijani	open	public	public	Azerbaijani Wiktionary
@@ -323,6 +324,8 @@ gotwiki	got.wikipedia.org	wikipedia	got	Gothic	open	public	public	Gothic Wikiped
 gotwikibooks	got.wikibooks.org	wikibooks	got	Gothic	closed	public	public	Gothic Wikibooks
 grantswiki	grants.wikimedia.org	grants	en	English	open	private	private	Wikimedia Foundation Grants Discussion
 grwikimedia	gr.wikimedia.org	grwikimedia	en	English	open	public	private	Wikimedia Community User Group Greece
+gucwiki	guc.wikipedia.org	wikipedia	guc	Wayuu	open	public	public	Wayuu Wikipedia
+gurwiki	gur.wikipedia.org	wikipedia	gur	Frafra	open	public	public	Farefare Wikipedia
 guwiki	gu.wikipedia.org	wikipedia	gu	Gujarati	open	public	public	Gujarati Wikipedia
 guwikibooks	gu.wikibooks.org	wikibooks	gu	Gujarati	closed	public	public	Gujarati Wikibooks
 guwikiquote	gu.wikiquote.org	wikiquote	gu	Gujarati	open	public	public	Gujarati Wikiquote
@@ -838,7 +841,7 @@ tcywiki	tcy.wikipedia.org	wikipedia	tcy	Tulu	open	public	public	Tulu Wikipedia
 techconductwiki	techconduct.wikimedia.org	techconduct	en	English	open	private	private	Code of Conduct Committee for Technical Spaces
 tenwiki	ten.wikipedia.org	ten	en	English	closed	public	public	Wikipedia 10
 test2wiki	test2.wikipedia.org	test2	en	English	open	public	public	Test2 Wikipedia
-testcommonswiki	test-commons.wikimedia.org	testcommons	en	English	open	public	public	Commons Test Wiki
+testcommonswiki	test-commons.wikimedia.org	testcommons	en	English	closed	public	public	Commons Test Wiki
 testwiki	test.wikipedia.org	test	en	English	open	public	public	Test Wikipedia
 testwikidatawiki	test.wikidata.org	testwikidata	en	English	open	public	public	Test Wikidata
 tetwiki	tet.wikipedia.org	wikipedia	tet	Tetum	open	public	public	Tetum Wikipedia
@@ -921,6 +924,7 @@ vecwikisource	vec.wikisource.org	wikisource	vec	Venetian	open	public	public	Vene
 vecwiktionary	vec.wiktionary.org	wiktionary	vec	Venetian	open	public	public	Venetian Wiktionary
 vepwiki	vep.wikipedia.org	wikipedia	vep	Veps	open	public	public	Veps Wikipedia
 vewiki	ve.wikipedia.org	wikipedia	ve	Venda	open	public	public	Venda Wikipedia
+vewikimedia	ve.wikimedia.org	vewikimedia	en	English	open	public	private	Wikimedia Venezuela
 viwiki	vi.wikipedia.org	wikipedia	vi	Vietnamese	open	public	public	Vietnamese Wikipedia
 viwikibooks	vi.wikibooks.org	wikibooks	vi	Vietnamese	open	public	public	Vietnamese Wikibooks
 viwikiquote	vi.wikiquote.org	wikiquote	vi	Vietnamese	open	public	public	Vietnamese Wikiquote
