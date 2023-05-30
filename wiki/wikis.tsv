@@ -12,7 +12,7 @@ afwiki	af.wikipedia.org	wikipedia	af	Afrikaans	open	public	public	Afrikaans Wiki
 afwikibooks	af.wikibooks.org	wikibooks	af	Afrikaans	open	public	public	Afrikaans Wikibooks
 afwikiquote	af.wikiquote.org	wikiquote	af	Afrikaans	open	public	public	Afrikaans Wikiquote
 afwiktionary	af.wiktionary.org	wiktionary	af	Afrikaans	open	public	public	Afrikaans Wiktionary
-akwiki	ak.wikipedia.org	wikipedia	ak	Akan	open	public	public	Akan Wikipedia
+akwiki	ak.wikipedia.org	wikipedia	ak	Akan	closed	public	public	Akan Wikipedia
 akwikibooks	ak.wikibooks.org	wikibooks	ak	Akan	closed	public	public	Akan Wikibooks
 akwiktionary	ak.wiktionary.org	wiktionary	ak	Akan	closed	public	public	Akan Wiktionary
 alswiki	als.wikipedia.org	wikipedia	als	Alsatian	open	public	public	Alemannisch Wikipedia
@@ -156,7 +156,8 @@ chwikibooks	ch.wikibooks.org	wikibooks	ch	Chamorro	closed	public	public	Chamorro
 chwiktionary	ch.wiktionary.org	wiktionary	ch	Chamorro	closed	public	public	Chamorro Wiktionary
 chywiki	chy.wikipedia.org	wikipedia	chy	Cheyenne	open	public	public	Cheyenne Wikipedia
 ckbwiki	ckb.wikipedia.org	wikipedia	ckb	Central Kurdish	open	public	public	Central Kurdish Wikipedia
-cnwikimedia	cn.wikimedia.org	cnwikimedia	en	English	open	public	private	Wikimedia China
+ckbwiktionary	ckb.wiktionary.org	wiktionary	ckb	Central Kurdish	open	public	public	Central Kurdish Wiktionary
+cnwikimedia	cn.wikimedia.org	cnwikimedia	en	English	closed	public	private	Wikimedia China
 collabwiki	collab.wikimedia.org	collab	en	English	open	private	private	Collab
 commonswiki	commons.wikimedia.org	commons	en	English	open	public	public	Wikimedia Commons
 cowiki	co.wikipedia.org	wikipedia	co	Corsican	open	public	public	Corsican Wikipedia
@@ -258,6 +259,7 @@ euwikisource	eu.wikisource.org	wikisource	eu	Basque	open	public	public	Basque Wi
 euwiktionary	eu.wiktionary.org	wiktionary	eu	Basque	open	public	public	Basque Wiktionary
 execwiki	exec.wikimedia.org	exec	en	English	open	private	private	Wikimedia Executive
 extwiki	ext.wikipedia.org	wikipedia	ext	Extremaduran	open	public	public	Extremaduran Wikipedia
+fatwiki	fat.wikipedia.org	wikipedia	fat	Fanti	open	public	public	Fante Wikipedia
 fawiki	fa.wikipedia.org	wikipedia	fa	Persian	open	public	public	Persian Wikipedia
 fawikibooks	fa.wikibooks.org	wikibooks	fa	Persian	open	public	public	Persian Wikibooks
 fawikinews	fa.wikinews.org	wikinews	fa	Persian	open	public	public	Persian Wikinews
@@ -332,6 +334,7 @@ guwikiquote	gu.wikiquote.org	wikiquote	gu	Gujarati	open	public	public	Gujarati W
 guwikisource	gu.wikisource.org	wikisource	gu	Gujarati	open	public	public	Gujarati Wikisource
 guwiktionary	gu.wiktionary.org	wiktionary	gu	Gujarati	open	public	public	Gujarati Wiktionary
 guwwiki	guw.wikipedia.org	wikipedia	guw	Gun	open	public	public	Gun Wikipedia
+guwwikinews	guw.wikinews.org	wikinews	guw	Gun	open	public	public	Gun Wikinews
 guwwikiquote	guw.wikiquote.org	wikiquote	guw	Gun	open	public	public	Gun Wikiquote
 guwwiktionary	guw.wiktionary.org	wiktionary	guw	Gun	open	public	public	Gun Wiktionary
 gvwiki	gv.wikipedia.org	wikipedia	gv	Manx	open	public	public	Manx Wikipedia
@@ -443,8 +446,10 @@ kawikibooks	ka.wikibooks.org	wikibooks	ka	Georgian	open	public	public	Georgian W
 kawikiquote	ka.wikiquote.org	wikiquote	ka	Georgian	open	public	public	Georgian Wikiquote
 kawiktionary	ka.wiktionary.org	wiktionary	ka	Georgian	open	public	public	Georgian Wiktionary
 kbdwiki	kbd.wikipedia.org	wikipedia	kbd	Kabardian	open	public	public	Kabardian Wikipedia
+kbdwiktionary	kbd.wiktionary.org	wiktionary	kbd	Kabardian	open	public	public	Kabardian Wiktionary
 kbpwiki	kbp.wikipedia.org	wikipedia	kbp	Kabiye	open	public	public	Kabiyè Wikipedia
 kcgwiki	kcg.wikipedia.org	wikipedia	kcg	Tyap	open	public	public	Tyap Wikipedia
+kcgwiktionary	kcg.wiktionary.org	wiktionary	kcg	Tyap	open	public	public	Tyap Wiktionary
 kgwiki	kg.wikipedia.org	wikipedia	kg	Kongo	open	public	public	Kongo Wikipedia
 kiwiki	ki.wikipedia.org	wikipedia	ki	Kikuyu	open	public	public	Kikuyu Wikipedia
 kjwiki	kj.wikipedia.org	wikipedia	kj	Kuanyama	closed	public	public	Kuanyama Wikipedia
@@ -594,7 +599,7 @@ nahwikibooks	nah.wikibooks.org	wikibooks	nah	Nahuatl	closed	public	public	Nāhua
 nahwiktionary	nah.wiktionary.org	wiktionary	nah	Nahuatl	open	public	public	Nāhuatl Wiktionary
 napwiki	nap.wikipedia.org	wikipedia	nap	Neapolitan	open	public	public	Neapolitan Wikipedia
 napwikisource	nap.wikisource.org	wikisource	nap	Neapolitan	open	public	public	Neapolitan Wikisource
-nawiki	na.wikipedia.org	wikipedia	na	Nauru	open	public	public	Nauru Wikipedia
+nawiki	na.wikipedia.org	wikipedia	na	Nauru	closed	public	public	Nauru Wikipedia
 nawikibooks	na.wikibooks.org	wikibooks	na	Nauru	closed	public	public	Nauru Wikibooks
 nawikiquote	na.wikiquote.org	wikiquote	na	Nauru	closed	public	public	Nauru Wikiquote
 nawiktionary	na.wiktionary.org	wiktionary	na	Nauru	open	public	public	Nauru Wiktionary
@@ -962,7 +967,7 @@ wikimania2018wiki	wikimania2018.wikimedia.org	wikimania2018	en	English	closed	pu
 wikimaniateamwiki	wikimaniateam.wikimedia.org	wikimaniateam	en	English	open	private	private	WikimaniaTeam
 wikimaniawiki	wikimania.wikimedia.org	wikimania	en	English	open	public	public	Wikimania
 wowiki	wo.wikipedia.org	wikipedia	wo	Wolof	open	public	public	Wolof Wikipedia
-wowikiquote	wo.wikiquote.org	wikiquote	wo	Wolof	open	public	public	Wolof Wikiquote
+wowikiquote	wo.wikiquote.org	wikiquote	wo	Wolof	closed	public	public	Wolof Wikiquote
 wowiktionary	wo.wiktionary.org	wiktionary	wo	Wolof	open	public	public	Wolof Wiktionary
 wuuwiki	wuu.wikipedia.org	wikipedia	wuu	Wu Chinese	open	public	public	Wu Chinese Wikipedia
 xalwiki	xal.wikipedia.org	wikipedia	xal	Kalmyk	open	public	public	Kalmyk Wikipedia
