@@ -15,7 +15,7 @@ afwiktionary	af.wiktionary.org	wiktionary	af	af.m.wiktionary.org	Afrikaans	open	
 akwiki	ak.wikipedia.org	wikipedia	ak	ak.m.wikipedia.org	Akan	closed	public	public	Akan Wikipedia
 akwikibooks	ak.wikibooks.org	wikibooks	ak	ak.m.wikibooks.org	Akan	closed	public	public	Akan Wikibooks
 akwiktionary	ak.wiktionary.org	wiktionary	ak	ak.m.wiktionary.org	Akan	closed	public	public	Akan Wiktionary
-alswiki	als.wikipedia.org	wikipedia	als	als.m.wikipedia.org	Alsatian	open	public	public	Alemannisch Wikipedia
+alswiki	als.wikipedia.org	wikipedia	gsw	als.m.wikipedia.org	Alemannic	open	public	public	Alemannisch Wikipedia
 altwiki	alt.wikipedia.org	wikipedia	alt	alt.m.wikipedia.org	Southern Altai	open	public	public	Altai Wikipedia
 amiwiki	ami.wikipedia.org	wikipedia	ami	ami.m.wikipedia.org	Amis	open	public	public	Amis Wikipedia
 amwiki	am.wikipedia.org	wikipedia	am	am.m.wikipedia.org	Amharic	open	public	public	Amharic Wikipedia
@@ -76,14 +76,14 @@ azwiktionary	az.wiktionary.org	wiktionary	az	az.m.wiktionary.org	Azerbaijani	ope
 banwiki	ban.wikipedia.org	wikipedia	ban	ban.m.wikipedia.org	Balinese	open	public	public	Balinese Wikipedia
 banwikisource	ban.wikisource.org	wikisource	ban	ban.m.wikisource.org	Balinese	open	public	public	Balinese Wikisource
 barwiki	bar.wikipedia.org	wikipedia	bar	bar.m.wikipedia.org	Bavarian	open	public	public	Bavarian Wikipedia
-bat_smgwiki	bat-smg.wikipedia.org	wikipedia	bat-smg	bat-smg.m.wikipedia.org	Samogitian	open	public	public	Samogitian Wikipedia
+bat_smgwiki	bat-smg.wikipedia.org	wikipedia	sgs	bat-smg.m.wikipedia.org	Samogitian	open	public	public	Samogitian Wikipedia
 bawiki	ba.wikipedia.org	wikipedia	ba	ba.m.wikipedia.org	Bashkir	open	public	public	Bashkir Wikipedia
 bawikibooks	ba.wikibooks.org	wikibooks	ba	ba.m.wikibooks.org	Bashkir	open	public	public	Bashkir Wikibooks
 bclwiki	bcl.wikipedia.org	wikipedia	bcl	bcl.m.wikipedia.org	Central Bikol	open	public	public	Bikol Central Wikipedia
 bclwikiquote	bcl.wikiquote.org	wikiquote	bcl	bcl.m.wikiquote.org	Central Bikol	open	public	public	Central Bikol Wikiquote
 bclwiktionary	bcl.wiktionary.org	wiktionary	bcl	bcl.m.wiktionary.org	Central Bikol	open	public	public	Central Bikol Wiktionary
 bdwikimedia	bd.wikimedia.org	bdwikimedia	en	bd.m.wikimedia.org	English	open	public	public	Wikimedia Bangladesh
-be_x_oldwiki	be-tarask.wikipedia.org	wikipedia	be-x-old	be-tarask.m.wikipedia.org	Belarusian (Taraškievica orthography)	open	public	public	Belarusian (Taraškievica) Wikipedia
+be_x_oldwiki	be-tarask.wikipedia.org	wikipedia	be-tarask	be-tarask.m.wikipedia.org	Belarusian (Taraškievica orthography)	open	public	public	Belarusian (Taraškievica) Wikipedia
 betawikiversity	beta.wikiversity.org	betawikiversity	en	beta.m.wikiversity.org	English	open	public	public	Wikiversity Beta
 bewiki	be.wikipedia.org	wikipedia	be	be.m.wikipedia.org	Belarusian	open	public	public	Belarusian Wikipedia
 bewikibooks	be.wikibooks.org	wikibooks	be	be.m.wikibooks.org	Belarusian	open	public	public	Belarusian Wikibooks
@@ -271,7 +271,7 @@ fawikivoyage	fa.wikivoyage.org	wikivoyage	fa	fa.m.wikivoyage.org	Persian	open	pu
 fawiktionary	fa.wiktionary.org	wiktionary	fa	fa.m.wiktionary.org	Persian	open	public	public	Persian Wiktionary
 fdcwiki	fdc.wikimedia.org	fdc	en	fdc.m.wikimedia.org	English	open	private	private	Wikimedia FDC
 ffwiki	ff.wikipedia.org	wikipedia	ff	ff.m.wikipedia.org	Fula	open	public	public	Fulah Wikipedia
-fiu_vrowiki	fiu-vro.wikipedia.org	wikipedia	fiu-vro	fiu-vro.m.wikipedia.org	Võro	open	public	public	Võro Wikipedia
+fiu_vrowiki	fiu-vro.wikipedia.org	wikipedia	vro	fiu-vro.m.wikipedia.org	Võro	open	public	public	Võro Wikipedia
 fiwiki	fi.wikipedia.org	wikipedia	fi	fi.m.wikipedia.org	Finnish	open	public	public	Finnish Wikipedia
 fiwikibooks	fi.wikibooks.org	wikibooks	fi	fi.m.wikibooks.org	Finnish	open	public	public	Finnish Wikibooks
 fiwikimedia	fi.wikimedia.org	fiwikimedia	en	fi.m.wikimedia.org	English	open	public	public	Wikimedia Finland
@@ -499,7 +499,7 @@ kywikibooks	ky.wikibooks.org	wikibooks	ky	ky.m.wikibooks.org	Kyrgyz	open	public	
 kywikiquote	ky.wikiquote.org	wikiquote	ky	ky.m.wikiquote.org	Kyrgyz	open	public	public	Kyrgyz Wikiquote
 kywiktionary	ky.wiktionary.org	wiktionary	ky	ky.m.wiktionary.org	Kyrgyz	open	public	public	Kyrgyz Wiktionary
 labswiki	wikitech.wikimedia.org	labs	en	wikitech.wikimedia.org	English	open	public	public	Wikitech
-labtestwiki	labtestwikitech.wikimedia.org	labtest	en	labtestwikitech.m.wikimedia.org	English	open	public	public	Test Wikitech
+labtestwiki	labtestwikitech.wikimedia.org	labtest	en	labtestwikitech.wikimedia.org	English	open	public	public	Test Wikitech
 ladwiki	lad.wikipedia.org	wikipedia	lad	lad.m.wikipedia.org	Ladino	open	public	public	Ladino Wikipedia
 lawiki	la.wikipedia.org	wikipedia	la	la.m.wikipedia.org	Latin	open	public	public	Latin Wikipedia
 lawikibooks	la.wikibooks.org	wikibooks	la	la.m.wikibooks.org	Latin	open	public	public	Latin Wikibooks
@@ -716,8 +716,8 @@ rmwiktionary	rm.wiktionary.org	wiktionary	rm	rm.m.wiktionary.org	Romansh	closed	
 rmywiki	rmy.wikipedia.org	wikipedia	rmy	rmy.m.wikipedia.org	Vlax Romani	open	public	public	Romani Wikipedia
 rnwiki	rn.wikipedia.org	wikipedia	rn	rn.m.wikipedia.org	Rundi	open	public	public	Rundi Wikipedia
 rnwiktionary	rn.wiktionary.org	wiktionary	rn	rn.m.wiktionary.org	Rundi	closed	public	public	Rundi Wiktionary
-roa_rupwiki	roa-rup.wikipedia.org	wikipedia	roa-rup	roa-rup.m.wikipedia.org	Aromanian	open	public	public	Aromanian Wikipedia
-roa_rupwiktionary	roa-rup.wiktionary.org	wiktionary	roa-rup	roa-rup.m.wiktionary.org	Aromanian	open	public	public	Aromanian Wiktionary
+roa_rupwiki	roa-rup.wikipedia.org	wikipedia	rup	roa-rup.m.wikipedia.org	Aromanian	open	public	public	Aromanian Wikipedia
+roa_rupwiktionary	roa-rup.wiktionary.org	wiktionary	rup	roa-rup.m.wiktionary.org	Aromanian	open	public	public	Aromanian Wiktionary
 roa_tarawiki	roa-tara.wikipedia.org	wikipedia	roa-tara	roa-tara.m.wikipedia.org	Tarantino	open	public	public	Tarandíne Wikipedia
 romdwikimedia	romd.wikimedia.org	romdwikimedia	en	romd.m.wikimedia.org	English	open	public	private	Wikimedians of Romania and Moldova User Group
 rowiki	ro.wikipedia.org	wikipedia	ro	ro.m.wikipedia.org	Romanian	open	public	public	Romanian Wikipedia
@@ -879,6 +879,7 @@ tlwiki	tl.wikipedia.org	wikipedia	tl	tl.m.wikipedia.org	Tagalog	open	public	publ
 tlwikibooks	tl.wikibooks.org	wikibooks	tl	tl.m.wikibooks.org	Tagalog	open	public	public	Tagalog Wikibooks
 tlwikiquote	tl.wikiquote.org	wikiquote	tl	tl.m.wikiquote.org	Tagalog	open	public	public	Tagalog Wikiquote
 tlwiktionary	tl.wiktionary.org	wiktionary	tl	tl.m.wiktionary.org	Tagalog	open	public	public	Tagalog Wiktionary
+tlywiki	tly.wikipedia.org	wikipedia	tly	tly.m.wikipedia.org	Talysh	open	public	public	Talysh Wikipedia
 tnwiki	tn.wikipedia.org	wikipedia	tn	tn.m.wikipedia.org	Tswana	open	public	public	Tswana Wikipedia
 tnwiktionary	tn.wiktionary.org	wiktionary	tn	tn.m.wiktionary.org	Tswana	open	public	public	Tswana Wiktionary
 towiki	to.wikipedia.org	wikipedia	to	to.m.wikipedia.org	Tongan	open	public	public	Tongan Wikipedia
@@ -992,13 +993,13 @@ zawikibooks	za.wikibooks.org	wikibooks	za	za.m.wikibooks.org	Zhuang	closed	publi
 zawikiquote	za.wikiquote.org	wikiquote	za	za.m.wikiquote.org	Zhuang	closed	public	public	Zhuang Wikiquote
 zawiktionary	za.wiktionary.org	wiktionary	za	za.m.wiktionary.org	Zhuang	closed	public	public	Zhuang Wiktionary
 zeawiki	zea.wikipedia.org	wikipedia	zea	zea.m.wikipedia.org	Zeelandic	open	public	public	Zeelandic Wikipedia
-zh_classicalwiki	zh-classical.wikipedia.org	wikipedia	zh-classical	zh-classical.m.wikipedia.org	Classical Chinese	open	public	public	Classical Chinese Wikipedia
-zh_min_nanwiki	zh-min-nan.wikipedia.org	wikipedia	zh-min-nan	zh-min-nan.m.wikipedia.org	Chinese (Min Nan)	open	public	public	Min Nan Wikipedia
-zh_min_nanwikibooks	zh-min-nan.wikibooks.org	wikibooks	zh-min-nan	zh-min-nan.m.wikibooks.org	Chinese (Min Nan)	closed	public	public	Min Nan Wikibooks
-zh_min_nanwikiquote	zh-min-nan.wikiquote.org	wikiquote	zh-min-nan	zh-min-nan.m.wikiquote.org	Chinese (Min Nan)	closed	public	public	Min Nan Wikiquote
-zh_min_nanwikisource	zh-min-nan.wikisource.org	wikisource	zh-min-nan	zh-min-nan.m.wikisource.org	Chinese (Min Nan)	open	public	public	Min Nan Wikisource
-zh_min_nanwiktionary	zh-min-nan.wiktionary.org	wiktionary	zh-min-nan	zh-min-nan.m.wiktionary.org	Chinese (Min Nan)	open	public	public	Min Nan Wiktionary
-zh_yuewiki	zh-yue.wikipedia.org	wikipedia	zh-yue	zh-yue.m.wikipedia.org	Cantonese	open	public	public	Cantonese Wikipedia
+zh_classicalwiki	zh-classical.wikipedia.org	wikipedia	lzh	zh-classical.m.wikipedia.org	Literary Chinese	open	public	public	Classical Chinese Wikipedia
+zh_min_nanwiki	zh-min-nan.wikipedia.org	wikipedia	nan	zh-min-nan.m.wikipedia.org	Min Nan Chinese	open	public	public	Min Nan Wikipedia
+zh_min_nanwikibooks	zh-min-nan.wikibooks.org	wikibooks	nan	zh-min-nan.m.wikibooks.org	Min Nan Chinese	closed	public	public	Min Nan Wikibooks
+zh_min_nanwikiquote	zh-min-nan.wikiquote.org	wikiquote	nan	zh-min-nan.m.wikiquote.org	Min Nan Chinese	closed	public	public	Min Nan Wikiquote
+zh_min_nanwikisource	zh-min-nan.wikisource.org	wikisource	nan	zh-min-nan.m.wikisource.org	Min Nan Chinese	open	public	public	Min Nan Wikisource
+zh_min_nanwiktionary	zh-min-nan.wiktionary.org	wiktionary	nan	zh-min-nan.m.wiktionary.org	Min Nan Chinese	open	public	public	Min Nan Wiktionary
+zh_yuewiki	zh-yue.wikipedia.org	wikipedia	yue	zh-yue.m.wikipedia.org	Cantonese	open	public	public	Cantonese Wikipedia
 zhwiki	zh.wikipedia.org	wikipedia	zh	zh.m.wikipedia.org	Chinese	open	public	public	Chinese Wikipedia
 zhwikibooks	zh.wikibooks.org	wikibooks	zh	zh.m.wikibooks.org	Chinese	open	public	public	Chinese Wikibooks
 zhwikinews	zh.wikinews.org	wikinews	zh	zh.m.wikinews.org	Chinese	open	public	public	Chinese Wikinews
