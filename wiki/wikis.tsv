@@ -79,6 +79,7 @@ barwiki	bar.wikipedia.org	wikipedia	bar	bar.m.wikipedia.org	Bavarian	open	public
 bat_smgwiki	bat-smg.wikipedia.org	wikipedia	sgs	bat-smg.m.wikipedia.org	Samogitian	open	public	public	Samogitian Wikipedia
 bawiki	ba.wikipedia.org	wikipedia	ba	ba.m.wikipedia.org	Bashkir	open	public	public	Bashkir Wikipedia
 bawikibooks	ba.wikibooks.org	wikibooks	ba	ba.m.wikibooks.org	Bashkir	open	public	public	Bashkir Wikibooks
+bbcwiki	bbc.wikipedia.org	wikipedia	bbc	bbc.m.wikipedia.org	Batak Toba	open	public	public	Toba Batak Wikipedia
 bclwiki	bcl.wikipedia.org	wikipedia	bcl	bcl.m.wikipedia.org	Central Bikol	open	public	public	Bikol Central Wikipedia
 bclwikiquote	bcl.wikiquote.org	wikiquote	bcl	bcl.m.wikiquote.org	Central Bikol	open	public	public	Central Bikol Wikiquote
 bclwiktionary	bcl.wiktionary.org	wiktionary	bcl	bcl.m.wiktionary.org	Central Bikol	open	public	public	Central Bikol Wiktionary
@@ -103,6 +104,7 @@ biwiki	bi.wikipedia.org	wikipedia	bi	bi.m.wikipedia.org	Bislama	open	public	publ
 biwikibooks	bi.wikibooks.org	wikibooks	bi	bi.m.wikibooks.org	Bislama	closed	public	public	Bislama Wikibooks
 biwiktionary	bi.wiktionary.org	wiktionary	bi	bi.m.wiktionary.org	Bislama	closed	public	public	Bislama Wiktionary
 bjnwiki	bjn.wikipedia.org	wikipedia	bjn	bjn.m.wikipedia.org	Banjar	open	public	public	Banjar Wikipedia
+bjnwikiquote	bjn.wikiquote.org	wikiquote	bjn	bjn.m.wikiquote.org	Banjar	open	public	public	Banjar Wikiquote
 bjnwiktionary	bjn.wiktionary.org	wiktionary	bjn	bjn.m.wiktionary.org	Banjar	open	public	public	Banjar Wiktionary
 blkwiki	blk.wikipedia.org	wikipedia	blk	blk.m.wikipedia.org	Pa'O	open	public	public	Pa'O Wikipedia
 blkwiktionary	blk.wiktionary.org	wiktionary	blk	blk.m.wiktionary.org	Pa'O	open	public	public	Pa'O Wiktionary
@@ -202,6 +204,7 @@ dewikisource	de.wikisource.org	wikisource	de	de.m.wikisource.org	German	open	pub
 dewikiversity	de.wikiversity.org	wikiversity	de	de.m.wikiversity.org	German	open	public	public	German Wikiversity
 dewikivoyage	de.wikivoyage.org	wikivoyage	de	de.m.wikivoyage.org	German	open	public	public	German Wikivoyage
 dewiktionary	de.wiktionary.org	wiktionary	de	de.m.wiktionary.org	German	open	public	public	German Wiktionary
+dgawiki	dga.wikipedia.org	wikipedia	dga	dga.m.wikipedia.org	Dagaare	open	public	public	Dagaare Wikipedia
 dinwiki	din.wikipedia.org	wikipedia	din	din.m.wikipedia.org	Dinka	open	public	public	Dinka Wikipedia
 diqwiki	diq.wikipedia.org	wikipedia	diq	diq.m.wikipedia.org	Zazaki	open	public	public	Zazaki Wikipedia
 diqwiktionary	diq.wiktionary.org	wiktionary	diq	diq.m.wiktionary.org	Zazaki	open	public	public	Zazaki Wiktionary
@@ -994,6 +997,7 @@ zawikibooks	za.wikibooks.org	wikibooks	za	za.m.wikibooks.org	Zhuang	closed	publi
 zawikiquote	za.wikiquote.org	wikiquote	za	za.m.wikiquote.org	Zhuang	closed	public	public	Zhuang Wikiquote
 zawiktionary	za.wiktionary.org	wiktionary	za	za.m.wiktionary.org	Zhuang	closed	public	public	Zhuang Wiktionary
 zeawiki	zea.wikipedia.org	wikipedia	zea	zea.m.wikipedia.org	Zeelandic	open	public	public	Zeelandic Wikipedia
+zghwiki	zgh.wikipedia.org	wikipedia	zgh	zgh.m.wikipedia.org	Standard Moroccan Tamazight	open	public	public	Moroccan Amazigh Wikipedia
 zh_classicalwiki	zh-classical.wikipedia.org	wikipedia	lzh	zh-classical.m.wikipedia.org	Literary Chinese	open	public	public	Classical Chinese Wikipedia
 zh_min_nanwiki	zh-min-nan.wikipedia.org	wikipedia	nan	zh-min-nan.m.wikipedia.org	Min Nan Chinese	open	public	public	Min Nan Wikipedia
 zh_min_nanwikibooks	zh-min-nan.wikibooks.org	wikibooks	nan	zh-min-nan.m.wikibooks.org	Min Nan Chinese	closed	public	public	Min Nan Wikibooks
