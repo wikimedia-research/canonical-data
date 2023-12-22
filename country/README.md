@@ -49,22 +49,22 @@ The country's continent according to the [MaxMind](https://en.wikipedia.org/wiki
 
 > String: `Africa`, `Antarctica`, `Asia`, `Europe`, `Latin America and the Caribbean`, `Northern America`, or `Oceania`
 
-The country's continent according to the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
+The country's continent according to [United Nations geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme).
 
 ### `un_subcontinent`
 
 > String: `Antarctica`, `Australia and New Zealand`, `Caribbean`, `Central America`, `Central Asia`, `Eastern Africa`, `Eastern Asia`, `Eastern Europe`, `Melanesia`, `Micronesia`, `Middle Africa`, `Northern Africa`, `Northern America`, `Northern Europe`, `Polynesia`, `South America`, `South-eastern Asia`, `Southern Africa`, `Southern Asia`, `Southern Europe`, `Western Africa`, `Western Asia`, or `Western Europe`
 
-The country's subcontinent according to the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
+The country's subcontinent according to [United Nations geoscheme](https://en.wikipedia.org/wiki/United_Nations_geoscheme).
 
 ### `un_m49_code`
 
-> String: Distinct values
+> Integer: Distinct values
 
 > [!NOTE]
 > Includes null values
 
-The country's [M49 Area Code](https://en.wikipedia.org/wiki/UN_M49) from the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
+The country's [M49 code](https://en.wikipedia.org/wiki/UN_M49) defined by the United Nations.
 
 ### `wikimedia_region`
 
@@ -73,7 +73,7 @@ The country's [M49 Area Code](https://en.wikipedia.org/wiki/UN_M49) from the [Un
 > [!NOTE]
 > Includes null values
 
-The country's region according to the [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation).
+The country's region according to a classification developed by the Wikimedia Foundation in 2022. For more details, see [meta:Wikimedia regions](https://meta.wikimedia.org/wiki/Wikimedia_regions).
 
 ### `grant_committee_region`
 
@@ -82,7 +82,7 @@ The country's region according to the [Wikimedia Foundation](https://en.wikipedi
 > [!NOTE]
 > Includes null values
 
-The country's classification in regards to regional Grantmaking committees.
+The country's region according to the classification used for Wikimedia Foundation grantmaking before July 2023. See [meta:Grants:Regions/Changes to funding regions in 2023-24](https://meta.wikimedia.org/wiki/Wikimedia_regions).
 
 ### `form_990_region`
 
@@ -90,6 +90,8 @@ The country's classification in regards to regional Grantmaking committees.
 
 > [!NOTE]
 > Includes null values
+
+The country's region according to a classification developed by the US Internal Revenue Service for US non-profit organizations to report their activities outside the US. The classification is used in [Schedule F to Form 990](https://www.irs.gov/instructions/i990sf).
 
 ### `economic_region`
 
@@ -104,7 +106,7 @@ The country's classification based on [Global North and Global South](https://en
 > [!NOTE]
 > Includes null values
 
-The country's emerging classification according to the [IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund) and the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
+The classification of the country's Wikimedia contributor community according to a [system developed in 2014](https://meta.wikimedia.org/wiki/Community_Engagement/Defining_Emerging_Communities) by the Wikimedia Foundation's Grantmaking department.
 
 ### `is_eu`
 
@@ -149,4 +151,4 @@ Whether [Penn World Table](https://en.wikipedia.org/wiki/Penn_World_Table) has d
 > [!NOTE]
 > Includes null values
 
-The country's market research classification according to the [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation).
+The country's classification according to a [system developed in 2020](https://meta.wikimedia.org/wiki/Communications/Research/Global_market_and_audience_research_(2020)#Additional_insights) by the Wikimedia Foundations's Communications department based on market research.
