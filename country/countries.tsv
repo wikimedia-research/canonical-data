@@ -1,4 +1,4 @@
-name	iso_code	iso_alpha3_code	qid	is_protected	maxmind_continent	un_continent	un_subcontinent	un_m49_code	wikimedia_region	grant_committee_region	form_990_region	economic_region	emerging_classification	is_eu	is_un_member	is_un_data_entity	is_imf_data_entity	is_wb_data_entity	is_pwt_data_entity	wmf_market_research
+name	iso_code	iso_alpha3_code	wikidata_id	is_protected	maxmind_continent	un_continent	un_subcontinent	un_m49_code	wikimedia_region	grant_committee_region	form_990_region	economic_region	emerging_classification	is_eu	is_un_member	is_un_data_entity	is_imf_data_entity	is_world_bank_data_entity	is_penn_world_table_data_entity	market_research_classification
 Afghanistan	AF	AFG	Q889	True	Asia	Asia	Southern Asia	4	South Asia	South Asia	South Asia	Global South	Least Developed	False	True	True	True	True	False	Build
 Åland	AX	ALA	Q5689	False	Europe	Europe	Northern Europe	248	Northern & Western Europe	Northern & Western Europe	Antarctica	Global North	Unclassified	True	False	True	False	False	False	Unclassified
 Albania	AL	ALB	Q222	False	Europe	Europe	Southern Europe	8	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global North	Emerging	False	True	True	True	True	True	Create
@@ -31,7 +31,7 @@ Bosnia and Herzegovina	BA	BIH	Q225	False	Europe	Europe	Southern Europe	70	Centra
 Botswana	BW	BWA	Q963	False	Africa	Africa	Southern Africa	72	Sub-Saharan Africa	Middle East & Africa	Sub-Saharan Africa	Global South	Least Developed	False	True	True	True	True	True	Build
 Bouvet Island	BV	BVT	Q23408	False	Antarctica	Latin America and the Caribbean	South America	74	Latin America & Caribbean	Latin America & Caribbean	Unclassified	Global North	Unclassified	False	False	True	False	False	False	Unclassified
 Brazil	BR	BRA	Q155	False	South America	Latin America and the Caribbean	South America	76	Latin America & Caribbean	Latin America & Caribbean	South America	Global South	Emerging	False	True	True	True	True	True	Create
-British Indian Ocean Territory	IO	IOT	Q43448	False	Asia	Africa	Eastern Africa	86	Middle East & North Africa	Middle East & Africa	Unclassified	Global South	unclassified	False	False	True	False	False	False	Unclassified
+British Indian Ocean Territory	IO	IOT	Q43448	False	Asia	Africa	Eastern Africa	86	Middle East & North Africa	Middle East & Africa	Unclassified	Global South	Unclassified	False	False	True	False	False	False	Unclassified
 British Virgin Islands	VG	VGB	Q25305	False	North America	Latin America and the Caribbean	Caribbean	92	Latin America & Caribbean	Latin America & Caribbean	Unclassified	Global South	Unclassified	False	False	True	False	True	True	Unclassified
 Brunei	BN	BRN	Q921	False	Asia	Asia	South-eastern Asia	96	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	Antarctica	Global South	Unclassified	False	True	True	True	True	True	Unclassified
 Bulgaria	BG	BGR	Q219	False	Europe	Europe	Eastern Europe	100	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global North	Emerging	True	True	True	True	True	True	Create
@@ -118,7 +118,7 @@ Jordan	JO	JOR	Q810	False	Asia	Asia	Western Asia	400	Middle East & North Africa	M
 Kazakhstan	KZ	KAZ	Q232	True	Asia	Asia	Central Asia	398	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Russia and Neighboring States	Global South	Emerging	False	True	True	True	True	True	Create
 Kenya	KE	KEN	Q114	False	Africa	Africa	Eastern Africa	404	Sub-Saharan Africa	Middle East & Africa	Sub-Saharan Africa	Global South	Emerging	False	True	True	True	True	True	Expand
 Kiribati	KI	KIR	Q710	False	Oceania	Oceania	Micronesia	296	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South	Least Developed	False	True	True	True	True	False	Expand
-Kosovo	XK	XKX	Q1246	False	Europe	Europe	Southern Europe	na	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global South	Unclassified	False	False	False	True	True	False	Unclassified
+Kosovo	XK	XKX	Q1246	False	Europe	Europe	Southern Europe	Unclassified	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global South	Unclassified	False	False	False	True	True	False	Unclassified
 Kuwait	KW	KWT	Q817	True	Asia	Asia	Western Asia	414	Middle East & North Africa	Middle East & Africa	Middle East and North Africa	Global South	Least Developed	False	True	True	True	True	True	Protect
 Kyrgyzstan	KG	KGZ	Q813	False	Asia	Asia	Central Asia	417	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Russia and Neighboring States	Global South	Least Developed	False	True	True	True	True	True	Build
 Laos	LA	LAO	Q819	True	Asia	Asia	South-eastern Asia	418	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	Antarctica	Global South	Least Developed	False	True	True	True	True	True	Build
@@ -218,7 +218,7 @@ Svalbard and Jan Mayen	SJ	SJM	Q842829	False	Europe	Europe	Northern Europe	744	No
 Sweden	SE	SWE	Q34	False	Europe	Europe	Northern Europe	752	Northern & Western Europe	Northern & Western Europe	Europe	Global North	Developed	True	True	True	True	True	True	Protect
 Switzerland	CH	CHE	Q39	False	Europe	Europe	Western Europe	756	Northern & Western Europe	Northern & Western Europe	Europe	Global North	Developed	False	True	True	True	True	True	Protect
 Syria	SY	SYR	Q858	True	Asia	Asia	Western Asia	760	Middle East & North Africa	Middle East & Africa	Antarctica	Global South	Emerging	False	True	True	True	True	True	Expand
-Taiwan	TW	TWN	Q865	False	Asia	Asia	Eastern Asia	na	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global North	Emerging	False	False	False	True	False	True	Unclassified
+Taiwan	TW	TWN	Q865	False	Asia	Asia	Eastern Asia	Unclassified	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global North	Emerging	False	False	False	True	False	True	Unclassified
 Tajikistan	TJ	TJK	Q863	False	Asia	Asia	Central Asia	762	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Russia and Neighboring States	Global South	Least Developed	False	True	True	True	True	True	Build
 Tanzania	TZ	TZA	Q924	False	Africa	Africa	Eastern Africa	834	Sub-Saharan Africa	Middle East & Africa	Antarctica	Global South	Least Developed	False	True	True	True	True	True	Expand
 Thailand	TH	THA	Q869	True	Asia	Asia	South-eastern Asia	764	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South	Emerging	False	True	True	True	True	True	Create
