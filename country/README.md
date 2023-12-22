@@ -59,7 +59,7 @@ The country's subcontinent according to the [United Nations](https://en.wikipedi
 
 ### `un_m49_code`
 
-> Integer: Distinct values
+> String: Distinct values
 
 > [!NOTE]
 > Includes `Unclassified` values
