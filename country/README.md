@@ -16,10 +16,10 @@ The country's common English name (generally the title chosen by the English Wik
 
 > String: Distinct values
 
-The country's [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code or equivalent.
-
 > [!WARNING]
 > Nambia has the ISO code `NA`. By default, `pandas.read_csv` interprets this as a null. To prevent this, you can use the `na_filter=False` parameter.
+
+The country's [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code or equivalent.
 
 ### `iso_alpha3_code`
 
