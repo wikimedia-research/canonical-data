@@ -62,7 +62,7 @@ The country's subcontinent according to the [United Nations](https://en.wikipedi
 > String: Distinct values
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 The country's [M49 Area Code](https://en.wikipedia.org/wiki/UN_M49) from the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
 
@@ -71,7 +71,7 @@ The country's [M49 Area Code](https://en.wikipedia.org/wiki/UN_M49) from the [Un
 > String: `Central & Eastern Europe & Central Asia`, `East, Southeast Asia, & Pacific`, `Latin America & Caribbean`, `Middle East & North Africa`, `North America`, `Northern & Western Europe`, `South Asia`, or `Sub-Saharan Africa`
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 The country's region according to the [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation).
 
@@ -80,7 +80,7 @@ The country's region according to the [Wikimedia Foundation](https://en.wikipedi
 > String: `Central & Eastern Europe & Central Asia`, `East, Southeast Asia, & Pacific`, `Latin America & Caribbean`, `Middle East & Africa`, `North America`, `Northern & Western Europe`, or `South Asia`
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 The country's classification in regards to regional Grantmaking committees.
 
@@ -89,7 +89,7 @@ The country's classification in regards to regional Grantmaking committees.
 > String: `Antarctica`, `Central America and the Caribbean`, `East Asia and the Pacific`, `Europe`, `Middle East and North Africa`, `North America`, `Russia and Neighboring States`, `South America`, `South Asia`, `Sub-Saharan Africa`, or `United States`
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 ### `economic_region`
 
@@ -102,7 +102,7 @@ The country's classification based on [Global North and Global South](https://en
 > String: `Developed`, `Emerging`, or `Least Developed`
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 The country's emerging classification according to the [IMF](https://en.wikipedia.org/wiki/International_Monetary_Fund) and the [United Nations](https://en.wikipedia.org/wiki/United_Nations).
 
@@ -147,6 +147,6 @@ Whether [Penn World Table](https://en.wikipedia.org/wiki/Penn_World_Table) has d
 > String: `Build`, `Create`, `Expand`, or `Protect`
 
 > [!NOTE]
-> Includes `Unclassified` values
+> Includes null values
 
 The country's market research classification according to the [Wikimedia Foundation](https://en.wikipedia.org/wiki/Wikimedia_Foundation).
