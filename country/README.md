@@ -37,7 +37,19 @@ The country's [Wikidata](https://www.wikidata.org/) [QID](https://www.wikidata.o
 
 > Boolean: `True` or `False`
 
-Whether the country appears in Wikimedia's [country protection list](https://wikitech.wikimedia.org/wiki/Country_protection_list) indicating that statistics for the country should not be shared publicly.
+Whether the country appears in Wikimedia's [country and territory protection list](https://foundation.wikimedia.org/wiki/Legal:Country_and_Territory_Protection_List) indicating that statistics for the country should only be shared using differentially-private data publication techniques.
+
+### `data_risk_score`
+
+> Float: `0-100` or `None`
+
+A real-valued data risk score, derived from country and territory scores published annually by Freedom House and Reporters Without Borders. 0 is least risky, 100 is most risky. Countries and territories without a score have a null value.
+
+### `data_risk_classification`
+
+> String: `Lower risk`, `Medium risk`, `Higher risk`, or `Not published`
+
+A risk classification for each country/territory, which corresponds to the data risk score. 0 ≤ score < 60 --> lower risk; 60 ≤ score < 67.5 --> medium risk; 67.5 ≤ score < 75 --> higher risk, 75 ≤ score --> not published.
 
 ### `maxmind_continent`
 
