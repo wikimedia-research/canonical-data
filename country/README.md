@@ -41,7 +41,10 @@ Whether the country appears in Wikimedia's [country and territory protection lis
 
 ### `data_risk_score`
 
-> Float: `0-100` or `None`
+> Float: `0-100`
+
+> [!NOTE]
+> Includes null values
 
 A real-valued data risk score, derived from country and territory scores published annually by Freedom House and Reporters Without Borders. 0 is least risky, 100 is most risky. Countries and territories without a score have a null value.
 
@@ -49,7 +52,14 @@ A real-valued data risk score, derived from country and territory scores publish
 
 > String: `Lower risk`, `Medium risk`, `Higher risk`, or `Not published`
 
-A risk classification for each country/territory, which corresponds to the data risk score. 0 ≤ score < 60 --> lower risk; 60 ≤ score < 67.5 --> medium risk; 67.5 ≤ score < 75 --> higher risk, 75 ≤ score --> not published.
+A risk classification for each country/territory, which corresponds to the data risk score.
+
+| Score range       | Risk classification |
+| ----------------- | ------------------- |
+| 0 ≤ score < 60    | lower risk          |
+| 60 ≤ score < 67.5 | medium risk         | 
+| 67.5 ≤ score < 75 | higher risk         |
+| 75 ≤ score        | not published       |
 
 ### `maxmind_continent`
 
