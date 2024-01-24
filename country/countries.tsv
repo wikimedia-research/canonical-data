@@ -130,7 +130,7 @@ Libya	LY	LBY	Q1016	False	58.89	Lower risk	Africa	Africa	Northern Africa	434	Midd
 Liechtenstein	LI	LIE	Q347	False	15.53	Lower risk	Europe	Europe	Western Europe	438	Northern & Western Europe	Northern & Western Europe	Europe	Global North		False	True	True	False	True	False	
 Lithuania	LT	LTU	Q37	False	13.21	Lower risk	Europe	Europe	Northern Europe	440	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global North	Emerging	True	True	True	True	True	True	Create
 Luxembourg	LU	LUX	Q32	False	18.02	Lower risk	Europe	Europe	Western Europe	442	Northern & Western Europe	Northern & Western Europe	Europe	Global North	Developed	True	True	True	True	True	True	Protect
-Macao	MO	MAC	Q14773	True		Not published	Asia	Asia	Eastern Asia	446	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	AntarcticGlobal North	Least Developed	False	False	True	True	True	True	Create
+Macao	MO	MAC	Q14773	True		Not published	Asia	Asia	Eastern Asia	446	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	Antarctica	Global North	Least Developed	False	False	True	True	True	True	Create
 Madagascar	MG	MDG	Q1019	False	43.34	Lower risk	Africa	Africa	Eastern Africa	450	Sub-Saharan Africa	Middle East & Africa	Sub-Saharan Africa	Global South	Least Developed	False	True	True	True	True	True	Expand
 Malawi	MW	MWI	Q1020	False	39.83	Lower risk	Africa	Africa	Eastern Africa	454	Sub-Saharan Africa	Middle East & Africa	Sub-Saharan Africa	Global South	Least Developed	False	True	True	True	True	True	Expand
 Malaysia	MY	MYS	Q833	False	38.09	Lower risk	Asia	Asia	South-eastern Asia	458	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South	Emerging	False	True	True	True	True	True	Protect
@@ -169,7 +169,7 @@ Norway	NO	NOR	Q20	False	4.82	Lower risk	Europe	Europe	Northern Europe	578	Northe
 Oman	OM	OMN	Q842	True	62.13	Medium risk	Asia	Asia	Western Asia	512	Middle East & North Africa	Middle East & Africa	Europe	Global South	Least Developed	False	True	True	True	True	True	Protect
 Pakistan	PK	PAK	Q843	True	67.03	Medium risk	Asia	Asia	Southern Asia	586	South Asia	South Asia	South Asia	Global South	Emerging	False	True	True	True	True	True	Expand
 Palau	PW	PLW	Q695	False		Lower risk	Oceania	Oceania	Micronesia	585	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South		False	True	True	True	True	False	
-Palestine	PS	PSE	Q219060	True	62.14	Medium risk	Asia	Asia	Western Asia	275	Middle East & North Africa	Middle East & Africa	AntarcticGlobal South	Emerging	False	False	True	True	True	True	
+Palestine	PS	PSE	Q219060	True	62.14	Medium risk	Asia	Asia	Western Asia	275	Middle East & North Africa	Middle East & Africa	Antarctica	Global South	Emerging	False	False	True	True	True	True	
 Panama	PA	PAN	Q804	False	36.33	Lower risk	North America	Latin America and the Caribbean	Central America	591	Latin America & Caribbean	Latin America & Caribbean	Central America and the Caribbean	Global South	Emerging	False	True	True	True	True	True	Create
 Papua New Guinea	PG	PNG	Q691	False	32.38	Lower risk	Oceania	Oceania	Melanesia	598	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South	Least Developed	False	True	True	True	True	False	Expand
 Paraguay	PY	PRY	Q733	False	44.04	Lower risk	South America	Latin America and the Caribbean	South America	600	Latin America & Caribbean	Latin America & Caribbean	South America	Global South	Emerging	False	True	True	True	True	True	Create
@@ -194,7 +194,7 @@ Saint Pierre and Miquelon	PM	SPM	Q34617	False	22.64	Lower risk	North America	Nor
 Saint Vincent and the Grenadines	VC	VCT	Q757	False		Lower risk	North America	Latin America and the Caribbean	Caribbean	670	Latin America & Caribbean	Latin America & Caribbean	Central America and the Caribbean	Global South		False	True	True	True	True	True	
 Samoa	WS	WSM	Q683	False	17.85	Lower risk	Oceania	Oceania	Polynesia	882	East, Southeast Asia, & Pacific	East, Southeast Asia, & Pacific	East Asia and the Pacific	Global South	Least Developed	False	True	True	True	True	False	Expand
 San Marino	SM	SMR	Q238	False		Lower risk	Europe	Europe	Southern Europe	674	Northern & Western Europe	Northern & Western Europe	Europe	Global North		False	True	True	True	True	False	
-São Tomé and Príncipe	ST	STP	Q1039	False		Lower risk	Africa	Africa	Middle Africa	678	Sub-Saharan Africa	Middle East & Africa	AntarcticGlobal South		False	True	True	True	True	True	
+São Tomé and Príncipe	ST	STP	Q1039	False		Lower risk	Africa	Africa	Middle Africa	678	Sub-Saharan Africa	Middle East & Africa	Antarctica	Global South		False	True	True	True	True	True	
 Saudi Arabia	SA	SAU	Q851	True	71.29	Higher risk	Asia	Asia	Western Asia	682	Middle East & North Africa	Middle East & Africa	Middle East and North Africa	Global South	Emerging	False	True	True	True	True	True	Protect
 Senegal	SN	SEN	Q1041	False	44.18	Lower risk	Africa	Africa	Western Africa	686	Sub-Saharan Africa	Middle East & Africa	Sub-Saharan Africa	Global South	Least Developed	False	True	True	True	True	True	Expand
 Serbia	RS	SRB	Q403	False	34.92	Lower risk	Europe	Europe	Southern Europe	688	Central & Eastern Europe & Central Asia	Central & Eastern Europe & Central Asia	Europe	Global North	Emerging	False	True	True	True	True	True	Create
