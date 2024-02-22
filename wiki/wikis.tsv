@@ -146,7 +146,7 @@ cawikiquote	ca.wikiquote.org	wikiquote	ca	ca.m.wikiquote.org	Catalan	open	public
 cawikisource	ca.wikisource.org	wikisource	ca	ca.m.wikisource.org	Catalan	open	public	public	Catalan Wikisource
 cawiktionary	ca.wiktionary.org	wiktionary	ca	ca.m.wiktionary.org	Catalan	open	public	public	Catalan Wiktionary
 cbk_zamwiki	cbk-zam.wikipedia.org	wikipedia	cbk-zam	cbk-zam.m.wikipedia.org	Chavacano	open	public	public	Chavacano de Zamboanga Wikipedia
-cdowiki	cdo.wikipedia.org	wikipedia	cdo	cdo.m.wikipedia.org	Min Dong Chinese	open	public	public	Min Dong Chinese Wikipedia
+cdowiki	cdo.wikipedia.org	wikipedia	cdo	cdo.m.wikipedia.org	Mindong	open	public	public	Min Dong Chinese Wikipedia
 cebwiki	ceb.wikipedia.org	wikipedia	ceb	ceb.m.wikipedia.org	Cebuano	open	public	public	Cebuano Wikipedia
 cewiki	ce.wikipedia.org	wikipedia	ce	ce.m.wikipedia.org	Chechen	open	public	public	Chechen Wikipedia
 chairwiki	chair.wikimedia.org	chair	en	chair.m.wikimedia.org	English	open	private	private	Wikimedia Board Chair
@@ -306,7 +306,7 @@ fywiki	fy.wikipedia.org	wikipedia	fy	fy.m.wikipedia.org	Western Frisian	open	pub
 fywikibooks	fy.wikibooks.org	wikibooks	fy	fy.m.wikibooks.org	Western Frisian	open	public	public	Western Frisian Wikibooks
 fywiktionary	fy.wiktionary.org	wiktionary	fy	fy.m.wiktionary.org	Western Frisian	open	public	public	Western Frisian Wiktionary
 gagwiki	gag.wikipedia.org	wikipedia	gag	gag.m.wikipedia.org	Gagauz	open	public	public	Gagauz Wikipedia
-ganwiki	gan.wikipedia.org	wikipedia	gan	gan.m.wikipedia.org	Gan Chinese	open	public	public	Gan Chinese Wikipedia
+ganwiki	gan.wikipedia.org	wikipedia	gan	gan.m.wikipedia.org	Gan	open	public	public	Gan Chinese Wikipedia
 gawiki	ga.wikipedia.org	wikipedia	ga	ga.m.wikipedia.org	Irish	open	public	public	Irish Wikipedia
 gawikibooks	ga.wikibooks.org	wikibooks	ga	ga.m.wikibooks.org	Irish	closed	public	public	Irish Wikibooks
 gawikiquote	ga.wikiquote.org	wikiquote	ga	ga.m.wikiquote.org	Irish	closed	public	public	Irish Wikiquote
@@ -979,7 +979,7 @@ wikimaniawiki	wikimania.wikimedia.org	wikimania	en	wikimania.m.wikimedia.org	Eng
 wowiki	wo.wikipedia.org	wikipedia	wo	wo.m.wikipedia.org	Wolof	open	public	public	Wolof Wikipedia
 wowikiquote	wo.wikiquote.org	wikiquote	wo	wo.m.wikiquote.org	Wolof	closed	public	public	Wolof Wikiquote
 wowiktionary	wo.wiktionary.org	wiktionary	wo	wo.m.wiktionary.org	Wolof	open	public	public	Wolof Wiktionary
-wuuwiki	wuu.wikipedia.org	wikipedia	wuu	wuu.m.wikipedia.org	Wu Chinese	open	public	public	Wu Chinese Wikipedia
+wuuwiki	wuu.wikipedia.org	wikipedia	wuu	wuu.m.wikipedia.org	Wu	open	public	public	Wu Chinese Wikipedia
 xalwiki	xal.wikipedia.org	wikipedia	xal	xal.m.wikipedia.org	Kalmyk	open	public	public	Kalmyk Wikipedia
 xhwiki	xh.wikipedia.org	wikipedia	xh	xh.m.wikipedia.org	Xhosa	open	public	public	Xhosa Wikipedia
 xhwikibooks	xh.wikibooks.org	wikibooks	xh	xh.m.wikibooks.org	Xhosa	closed	public	public	Xhosa Wikibooks
@@ -999,11 +999,11 @@ zawiktionary	za.wiktionary.org	wiktionary	za	za.m.wiktionary.org	Zhuang	closed	p
 zeawiki	zea.wikipedia.org	wikipedia	zea	zea.m.wikipedia.org	Zeelandic	open	public	public	Zeelandic Wikipedia
 zghwiki	zgh.wikipedia.org	wikipedia	zgh	zgh.m.wikipedia.org	Standard Moroccan Tamazight	open	public	public	Moroccan Amazigh Wikipedia
 zh_classicalwiki	zh-classical.wikipedia.org	wikipedia	lzh	zh-classical.m.wikipedia.org	Literary Chinese	open	public	public	Classical Chinese Wikipedia
-zh_min_nanwiki	zh-min-nan.wikipedia.org	wikipedia	nan	zh-min-nan.m.wikipedia.org	Min Nan Chinese	open	public	public	Min Nan Wikipedia
-zh_min_nanwikibooks	zh-min-nan.wikibooks.org	wikibooks	nan	zh-min-nan.m.wikibooks.org	Min Nan Chinese	closed	public	public	Min Nan Wikibooks
-zh_min_nanwikiquote	zh-min-nan.wikiquote.org	wikiquote	nan	zh-min-nan.m.wikiquote.org	Min Nan Chinese	closed	public	public	Min Nan Wikiquote
-zh_min_nanwikisource	zh-min-nan.wikisource.org	wikisource	nan	zh-min-nan.m.wikisource.org	Min Nan Chinese	open	public	public	Min Nan Wikisource
-zh_min_nanwiktionary	zh-min-nan.wiktionary.org	wiktionary	nan	zh-min-nan.m.wiktionary.org	Min Nan Chinese	open	public	public	Min Nan Wiktionary
+zh_min_nanwiki	zh-min-nan.wikipedia.org	wikipedia	nan	zh-min-nan.m.wikipedia.org	Minnan	open	public	public	Min Nan Wikipedia
+zh_min_nanwikibooks	zh-min-nan.wikibooks.org	wikibooks	nan	zh-min-nan.m.wikibooks.org	Minnan	closed	public	public	Min Nan Wikibooks
+zh_min_nanwikiquote	zh-min-nan.wikiquote.org	wikiquote	nan	zh-min-nan.m.wikiquote.org	Minnan	closed	public	public	Min Nan Wikiquote
+zh_min_nanwikisource	zh-min-nan.wikisource.org	wikisource	nan	zh-min-nan.m.wikisource.org	Minnan	open	public	public	Min Nan Wikisource
+zh_min_nanwiktionary	zh-min-nan.wiktionary.org	wiktionary	nan	zh-min-nan.m.wiktionary.org	Minnan	open	public	public	Min Nan Wiktionary
 zh_yuewiki	zh-yue.wikipedia.org	wikipedia	yue	zh-yue.m.wikipedia.org	Cantonese	open	public	public	Cantonese Wikipedia
 zhwiki	zh.wikipedia.org	wikipedia	zh	zh.m.wikipedia.org	Chinese	open	public	public	Chinese Wikipedia
 zhwikibooks	zh.wikibooks.org	wikibooks	zh	zh.m.wikibooks.org	Chinese	open	public	public	Chinese Wikibooks
