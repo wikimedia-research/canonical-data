@@ -92,6 +92,7 @@ bewikimedia	be.wikimedia.org	bewikimedia	en	be.m.wikimedia.org	English	open	publ
 bewikiquote	be.wikiquote.org	wikiquote	be	be.m.wikiquote.org	Belarusian	open	public	public	Belarusian Wikiquote
 bewikisource	be.wikisource.org	wikisource	be	be.m.wikisource.org	Belarusian	open	public	public	Belarusian Wikisource
 bewiktionary	be.wiktionary.org	wiktionary	be	be.m.wiktionary.org	Belarusian	open	public	public	Belarusian Wiktionary
+bewwiki	bew.wikipedia.org	wikipedia	bew	bew.m.wikipedia.org	Betawi	open	public	public	Betawi Wikipedia
 bgwiki	bg.wikipedia.org	wikipedia	bg	bg.m.wikipedia.org	Bulgarian	open	public	public	Bulgarian Wikipedia
 bgwikibooks	bg.wikibooks.org	wikibooks	bg	bg.m.wikibooks.org	Bulgarian	open	public	public	Bulgarian Wikibooks
 bgwikinews	bg.wikinews.org	wikinews	bg	bg.m.wikinews.org	Bulgarian	closed	public	public	Bulgarian Wikinews
@@ -404,6 +405,7 @@ iegcomwiki	iegcom.wikimedia.org	iegcom	en	iegcom.m.wikimedia.org	English	open	pr
 iewiki	ie.wikipedia.org	wikipedia	ie	ie.m.wikipedia.org	Interlingue	open	public	public	Interlingue Wikipedia
 iewikibooks	ie.wikibooks.org	wikibooks	ie	ie.m.wikibooks.org	Interlingue	closed	public	public	Interlingue Wikibooks
 iewiktionary	ie.wiktionary.org	wiktionary	ie	ie.m.wiktionary.org	Interlingue	open	public	public	Interlingue Wiktionary
+iglwiki	igl.wikipedia.org	wikipedia	igl	igl.m.wikipedia.org	Igala	open	public	public	Igala Wikipedia
 igwiki	ig.wikipedia.org	wikipedia	ig	ig.m.wikipedia.org	Igbo	open	public	public	Igbo Wikipedia
 igwikiquote	ig.wikiquote.org	wikiquote	ig	ig.m.wikiquote.org	Igbo	open	public	public	Igbo Wikiquote
 igwiktionary	ig.wiktionary.org	wiktionary	ig	ig.m.wiktionary.org	Igbo	open	public	public	Igbo Wiktionary
@@ -447,10 +449,12 @@ jvwiki	jv.wikipedia.org	wikipedia	jv	jv.m.wikipedia.org	Javanese	open	public	pub
 jvwikisource	jv.wikisource.org	wikisource	jv	jv.m.wikisource.org	Javanese	open	public	public	Javanese Wikisource
 jvwiktionary	jv.wiktionary.org	wiktionary	jv	jv.m.wiktionary.org	Javanese	open	public	public	Javanese Wiktionary
 kaawiki	kaa.wikipedia.org	wikipedia	kaa	kaa.m.wikipedia.org	Kara-Kalpak	open	public	public	Kara-Kalpak Wikipedia
+kaawiktionary	kaa.wiktionary.org	wiktionary	kaa	kaa.m.wiktionary.org	Kara-Kalpak	open	public	public	Karakalpak Wiktionary
 kabwiki	kab.wikipedia.org	wikipedia	kab	kab.m.wikipedia.org	Kabyle	open	public	public	Kabyle Wikipedia
 kawiki	ka.wikipedia.org	wikipedia	ka	ka.m.wikipedia.org	Georgian	open	public	public	Georgian Wikipedia
 kawikibooks	ka.wikibooks.org	wikibooks	ka	ka.m.wikibooks.org	Georgian	open	public	public	Georgian Wikibooks
 kawikiquote	ka.wikiquote.org	wikiquote	ka	ka.m.wikiquote.org	Georgian	open	public	public	Georgian Wikiquote
+kawikisource	ka.wikisource.org	wikisource	ka	ka.m.wikisource.org	Georgian	open	public	public	Georgian Wikisource
 kawiktionary	ka.wiktionary.org	wiktionary	ka	ka.m.wiktionary.org	Georgian	open	public	public	Georgian Wiktionary
 kbdwiki	kbd.wikipedia.org	wikipedia	kbd	kbd.m.wikipedia.org	Kabardian	open	public	public	Kabardian Wikipedia
 kbdwiktionary	kbd.wiktionary.org	wiktionary	kbd	kbd.m.wiktionary.org	Kabardian	open	public	public	Kabardian Wiktionary
@@ -490,6 +494,7 @@ kswiki	ks.wikipedia.org	wikipedia	ks	ks.m.wikipedia.org	Kashmiri	open	public	pub
 kswikibooks	ks.wikibooks.org	wikibooks	ks	ks.m.wikibooks.org	Kashmiri	closed	public	public	Kashmiri Wikibooks
 kswikiquote	ks.wikiquote.org	wikiquote	ks	ks.m.wikiquote.org	Kashmiri	closed	public	public	Kashmiri Wikiquote
 kswiktionary	ks.wiktionary.org	wiktionary	ks	ks.m.wiktionary.org	Kashmiri	open	public	public	Kashmiri Wiktionary
+kuswiki	kus.wikipedia.org	wikipedia	kus	kus.m.wikipedia.org	Kusaal	open	public	public	Kusaal Wikipedia
 kuwiki	ku.wikipedia.org	wikipedia	ku	ku.m.wikipedia.org	Kurdish	open	public	public	Kurdish Wikipedia
 kuwikibooks	ku.wikibooks.org	wikibooks	ku	ku.m.wikibooks.org	Kurdish	open	public	public	Kurdish Wikibooks
 kuwikiquote	ku.wikiquote.org	wikiquote	ku	ku.m.wikiquote.org	Kurdish	open	public	public	Kurdish Wikiquote
@@ -590,6 +595,7 @@ mrwikisource	mr.wikisource.org	wikisource	mr	mr.m.wikisource.org	Marathi	open	pu
 mrwiktionary	mr.wiktionary.org	wiktionary	mr	mr.m.wiktionary.org	Marathi	open	public	public	Marathi Wiktionary
 mswiki	ms.wikipedia.org	wikipedia	ms	ms.m.wikipedia.org	Malay	open	public	public	Malay Wikipedia
 mswikibooks	ms.wikibooks.org	wikibooks	ms	ms.m.wikibooks.org	Malay	open	public	public	Malay Wikibooks
+mswikisource	ms.wikisource.org	wikisource	ms	ms.m.wikisource.org	Malay	open	public	public	Malay Wikisource
 mswiktionary	ms.wiktionary.org	wiktionary	ms	ms.m.wiktionary.org	Malay	open	public	public	Malay Wiktionary
 mtwiki	mt.wikipedia.org	wikipedia	mt	mt.m.wikipedia.org	Maltese	open	public	public	Maltese Wikipedia
 mtwiktionary	mt.wiktionary.org	wiktionary	mt	mt.m.wiktionary.org	Maltese	open	public	public	Maltese Wiktionary
@@ -599,6 +605,7 @@ mxwikimedia	mx.wikimedia.org	mxwikimedia	en	mx.m.wikimedia.org	English	open	publ
 myvwiki	myv.wikipedia.org	wikipedia	myv	myv.m.wikipedia.org	Erzya	open	public	public	Erzya Wikipedia
 mywiki	my.wikipedia.org	wikipedia	my	my.m.wikipedia.org	Burmese	open	public	public	Burmese Wikipedia
 mywikibooks	my.wikibooks.org	wikibooks	my	my.m.wikibooks.org	Burmese	closed	public	public	Burmese Wikibooks
+mywikisource	my.wikisource.org	wikisource	my	my.m.wikisource.org	Burmese	open	public	public	Burmese Wikisource
 mywiktionary	my.wiktionary.org	wiktionary	my	my.m.wiktionary.org	Burmese	open	public	public	Burmese Wiktionary
 mznwiki	mzn.wikipedia.org	wikipedia	mzn	mzn.m.wikipedia.org	Mazanderani	open	public	public	Mazanderani Wikipedia
 nahwiki	nah.wikipedia.org	wikipedia	nah	nah.m.wikipedia.org	Nahuatl	open	public	public	Nāhuatl Wikipedia
