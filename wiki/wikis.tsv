@@ -35,6 +35,7 @@ arbcom_cswiki	arbcom-cs.wikipedia.org	arbcom-cs	en	arbcom-cs.m.wikipedia.org	Eng
 arbcom_dewiki	arbcom-de.wikipedia.org	arbcom-de	en	arbcom-de.m.wikipedia.org	English	open	private	private	German Wikipedia Arbitration Committee
 arbcom_enwiki	arbcom-en.wikipedia.org	arbcom-en	en	arbcom-en.m.wikipedia.org	English	open	private	private	English Wikipedia Arbitration Committee
 arbcom_fiwiki	arbcom-fi.wikipedia.org	arbcom-fi	en	arbcom-fi.m.wikipedia.org	English	open	private	private	Finnish Wikipedia Arbitration Committee
+arbcom_itwiki	wikipedia-it-arbcom.wikimedia.org	arbcom-it	en	wikipedia-it-arbcom.m.wikimedia.org	English	open	private	private	Italian Wikipedia Arbitration Committee
 arbcom_nlwiki	arbcom-nl.wikipedia.org	arbcom-nl	en	arbcom-nl.m.wikipedia.org	English	open	private	private	Dutch Wikipedia Arbitration Committee
 arbcom_ruwiki	arbcom-ru.wikipedia.org	arbcom-ru	en	arbcom-ru.m.wikipedia.org	English	open	private	private	Russian Wikipedia Arbitration Committee
 arcwiki	arc.wikipedia.org	wikipedia	arc	arc.m.wikipedia.org	Aramaic	open	public	public	Syriac Wikipedia
@@ -136,6 +137,7 @@ bswikinews	bs.wikinews.org	wikinews	bs	bs.m.wikinews.org	Bosnian	open	public	pub
 bswikiquote	bs.wikiquote.org	wikiquote	bs	bs.m.wikiquote.org	Bosnian	open	public	public	Bosnian Wikiquote
 bswikisource	bs.wikisource.org	wikisource	bs	bs.m.wikisource.org	Bosnian	open	public	public	Bosnian Wikisource
 bswiktionary	bs.wiktionary.org	wiktionary	bs	bs.m.wiktionary.org	Bosnian	open	public	public	Bosnian Wiktionary
+btmwiki	btm.wikipedia.org	wikipedia	btm	btm.m.wikipedia.org	Mandailing	open	public	public	Mandailing Wikipedia
 btmwiktionary	btm.wiktionary.org	wiktionary	btm	btm.m.wiktionary.org	Mandailing	open	public	public	Mandailing Wiktionary
 bugwiki	bug.wikipedia.org	wikipedia	bug	bug.m.wikipedia.org	Buginese	open	public	public	Buginese Wikipedia
 bxrwiki	bxr.wikipedia.org	wikipedia	bxr	bxr.m.wikipedia.org	Russia Buriat	open	public	public	Buryat Wikipedia
@@ -212,6 +214,7 @@ diqwiktionary	diq.wiktionary.org	wiktionary	diq	diq.m.wiktionary.org	Zazaki	open
 dkwikimedia	dk.wikimedia.org	dkwikimedia	en	dk.m.wikimedia.org	English	open	public	public	Wikimedia Denmark
 donatewiki	donate.wikimedia.org	donate	en	donate.m.wikimedia.org	English	open	public	private	Donate
 dsbwiki	dsb.wikipedia.org	wikipedia	dsb	dsb.m.wikipedia.org	Lower Sorbian	open	public	public	Lower Sorbian Wikipedia
+dtpwiki	dtp.wikipedia.org	wikipedia	dtp	dtp.m.wikipedia.org	Central Dusun	open	public	public	Central Dusun Wikipedia
 dtywiki	dty.wikipedia.org	wikipedia	dty	dty.m.wikipedia.org	Doteli	open	public	public	Doteli Wikipedia
 dvwiki	dv.wikipedia.org	wikipedia	dv	dv.m.wikipedia.org	Divehi	open	public	public	Divehi Wikipedia
 dvwiktionary	dv.wiktionary.org	wiktionary	dv	dv.m.wiktionary.org	Divehi	open	public	public	Divehi Wiktionary
@@ -848,6 +851,7 @@ swwiki	sw.wikipedia.org	wikipedia	sw	sw.m.wikipedia.org	Swahili	open	public	publ
 swwikibooks	sw.wikibooks.org	wikibooks	sw	sw.m.wikibooks.org	Swahili	closed	public	public	Swahili Wikibooks
 swwiktionary	sw.wiktionary.org	wiktionary	sw	sw.m.wiktionary.org	Swahili	open	public	public	Swahili Wiktionary
 sysop_itwiki	sysop-it.wikipedia.org	sysop-it	en	sysop-it.m.wikipedia.org	English	open	private	private	Italian Wikipedia sysops
+sysop_plwiki	wikipedia-pl-sysop.wikimedia.org	sysop-pl	en	wikipedia-pl-sysop.m.wikimedia.org	English	open	private	private	Polish Wikipedia sysops
 szlwiki	szl.wikipedia.org	wikipedia	szl	szl.m.wikipedia.org	Silesian	open	public	public	Silesian Wikipedia
 szywiki	szy.wikipedia.org	wikipedia	szy	szy.m.wikipedia.org	Sakizaya	open	public	public	Sakizaya Wikipedia
 tawiki	ta.wikipedia.org	wikipedia	ta	ta.m.wikipedia.org	Tamil	open	public	public	Tamil Wikipedia
@@ -918,6 +922,7 @@ twwiki	tw.wikipedia.org	wikipedia	tw	tw.m.wikipedia.org	Twi	open	public	public	T
 twwiktionary	tw.wiktionary.org	wiktionary	tw	tw.m.wiktionary.org	Twi	closed	public	public	Twi Wiktionary
 tyvwiki	tyv.wikipedia.org	wikipedia	tyv	tyv.m.wikipedia.org	Tuvinian	open	public	public	Tuvinian Wikipedia
 tywiki	ty.wikipedia.org	wikipedia	ty	ty.m.wikipedia.org	Tahitian	open	public	public	Tahitian Wikipedia
+u4cwiki	u4c.wikimedia.org	u4c	en	u4c.m.wikimedia.org	English	open	private	private	Universal Code of Conduct Coordinating Committee
 uawikimedia	ua.wikimedia.org	uawikimedia	en	ua.m.wikimedia.org	English	open	public	public	Wikimedia Ukraine
 udmwiki	udm.wikipedia.org	wikipedia	udm	udm.m.wikipedia.org	Udmurt	open	public	public	Udmurt Wikipedia
 ugwiki	ug.wikipedia.org	wikipedia	ug	ug.m.wikipedia.org	Uyghur	open	public	public	Uyghur Wikipedia
